@@ -1,0 +1,352 @@
+Primary Source: Resources/ABINADI.txt
+Secondary Source: Resources/Alma 12-13.txt
+Match Case: No
+Strict Search: No
+Fuzzy Search Parameters: 4/6
+Time to complete: 0.21966666666666665 minutes.
+Left Match Count: 62
+Right Match Count: 157
+
+Primary Match: a remission of their sins I 
+Secondary Match: for a remission of their sins 
+Secondary Match: a remission of their sins that 
+
+
+Primary Match: could have been no resurrection But 
+Secondary Match: world there could have been no 
+Secondary Match: there could have been no resurrection 
+Secondary Match: could have been no resurrection of 
+Secondary Match: have been no resurrection of the 
+
+
+Primary Match: bar of God to be judged 
+Secondary Match: bar of God to be judged 
+
+
+Primary Match: no sting there could have been 
+Secondary Match: time there would have been no 
+Secondary Match: there would have been no death 
+Secondary Match: the world there could have been 
+Secondary Match: world there could have been no 
+Secondary Match: there could have been no resurrection 
+Secondary Match: could have been no resurrection of 
+
+
+Primary Match: there could have been no resurrection 
+Secondary Match: time there would have been no 
+Secondary Match: there would have been no death 
+Secondary Match: the world there could have been 
+Secondary Match: world there could have been no 
+Secondary Match: there could have been no resurrection 
+Secondary Match: could have been no resurrection of 
+Secondary Match: have been no resurrection of the 
+
+
+Primary Match: in his fallen state and the 
+Secondary Match: in his glory and in his 
+Secondary Match: in his power and in his 
+
+
+Primary Match: come there could have been no 
+Secondary Match: time there would have been no 
+Secondary Match: there would have been no death 
+Secondary Match: the world there could have been 
+Secondary Match: world there could have been no 
+Secondary Match: there could have been no resurrection 
+Secondary Match: could have been no resurrection of 
+
+
+Primary Match: persists in his own carnal nature 
+Secondary Match: in his glory and in his 
+Secondary Match: in his power and in his 
+
+
+Primary Match: remaineth in his fallen state and 
+Secondary Match: in his glory and in his 
+Secondary Match: in his power and in his 
+
+
+Primary Match: evil from good subjecting themselves to 
+Secondary Match: knowing good from evil placing themselves 
+Secondary Match: good from evil placing themselves in 
+
+
+Primary Match: already come there could have been 
+Secondary Match: the world there could have been 
+Secondary Match: world there could have been no 
+Secondary Match: there could have been no resurrection 
+
+
+Primary Match: been no resurrection But there is 
+Secondary Match: there could have been no resurrection 
+
+
+Primary Match: your hearts I perceive that ye 
+Secondary Match: ye will harden your hearts ye 
+
+
+Primary Match: for a remission of their sins 
+Secondary Match: him for a remission of their 
+Secondary Match: for a remission of their sins 
+Secondary Match: a remission of their sins that 
+
+
+Primary Match: have been no resurrection But there 
+Secondary Match: time there would have been no 
+Secondary Match: there would have been no death 
+Secondary Match: world there could have been no 
+Secondary Match: there could have been no resurrection 
+Secondary Match: could have been no resurrection of 
+Secondary Match: have been no resurrection of the 
+
+
+Primary Match: ye set your hearts upon riches 
+Secondary Match: ye will harden your hearts ye 
+
+
+Primary Match: could have been no redemption And 
+Secondary Match: world there could have been no 
+Secondary Match: there could have been no resurrection 
+Secondary Match: could have been no resurrection of 
+Secondary Match: plan of redemption could have no 
+Secondary Match: of redemption could have no power 
+Secondary Match: redemption could have no power for 
+
+
+Primary Match: God remaineth in his fallen state 
+Secondary Match: in his glory and in his 
+Secondary Match: in his power and in his 
+
+
+Primary Match: his holy arm in the eyes 
+Secondary Match: in his glory and in his 
+Secondary Match: in his power and in his 
+
+
+Primary Match: do ye set your hearts upon 
+Secondary Match: ye will harden your hearts ye 
+
+
+Primary Match: there cometh a resurrection even a 
+Secondary Match: then cometh a death even a 
+Secondary Match: cometh a death even a second 
+
+
+Primary Match: is as though there was no 
+Secondary Match: as though there had been no 
+
+
+Primary Match: that he that persists in his 
+Secondary Match: in his glory and in his 
+Secondary Match: in his power and in his 
+
+
+Primary Match: he that persists in his own 
+Secondary Match: in his glory and in his 
+Secondary Match: in his power and in his 
+
+
+Primary Match: his judgments are just And then 
+Secondary Match: that all his judgments are just 
+Secondary Match: all his judgments are just that 
+Secondary Match: his judgments are just that he 
+
+
+Primary Match: devilish knowing evil from good subjecting 
+Secondary Match: as Gods knowing good from evil 
+Secondary Match: Gods knowing good from evil placing 
+Secondary Match: knowing good from evil placing themselves 
+
+
+Primary Match: cometh a resurrection even a first 
+Secondary Match: then cometh a death even a 
+Secondary Match: cometh a death even a second 
+
+
+Primary Match: and also a life which is 
+Secondary Match: a second death which is a 
+
+
+Primary Match: made bare his holy arm in 
+Secondary Match: in his glory and in his 
+Secondary Match: in his power and in his 
+
+
+Primary Match: your hearts to understanding therefore ye 
+Secondary Match: ye will harden your hearts ye 
+
+
+Primary Match: rebellion against God remaineth in his 
+Secondary Match: in his glory and in his 
+Secondary Match: in his power and in his 
+
+
+Primary Match: God that his judgments are just 
+Secondary Match: that all his judgments are just 
+Secondary Match: all his judgments are just that 
+Secondary Match: his judgments are just that he 
+
+
+Primary Match: knowing evil from good subjecting themselves 
+Secondary Match: as Gods knowing good from evil 
+Secondary Match: Gods knowing good from evil placing 
+Secondary Match: knowing good from evil placing themselves 
+Secondary Match: good from evil placing themselves in 
+
+
+Primary Match: there could have been no redemption 
+Secondary Match: though there had been no redemption 
+Secondary Match: there had been no redemption made 
+Secondary Match: time there would have been no 
+Secondary Match: there would have been no death 
+Secondary Match: the world there could have been 
+Secondary Match: world there could have been no 
+Secondary Match: there could have been no resurrection 
+Secondary Match: could have been no resurrection of 
+Secondary Match: plan of redemption could have no 
+Secondary Match: of redemption could have no power 
+Secondary Match: redemption could have no power for 
+
+
+Primary Match: sensual devilish knowing evil from good 
+Secondary Match: as Gods knowing good from evil 
+Secondary Match: Gods knowing good from evil placing 
+Secondary Match: knowing good from evil placing themselves 
+
+
+Primary Match: there was no redemption made being 
+Secondary Match: there had been no redemption made 
+
+
+Primary Match: though there was no redemption made 
+Secondary Match: though there had been no redemption 
+Secondary Match: there had been no redemption made 
+
+
+Primary Match: a life which is endless that 
+Secondary Match: a second death which is a 
+
+
+Primary Match: that his judgments are just And 
+Secondary Match: that all his judgments are just 
+Secondary Match: all his judgments are just that 
+Secondary Match: his judgments are just that he 
+
+
+Primary Match: Why do ye set your hearts 
+Secondary Match: ye will harden your hearts ye 
+
+
+Primary Match: bare his holy arm in the 
+Secondary Match: in his glory and in his 
+Secondary Match: in his power and in his 
+
+
+Primary Match: his people which was prepared from 
+Secondary Match: his Son which order was from 
+
+
+Primary Match: in his own carnal nature and 
+Secondary Match: in his glory and in his 
+Secondary Match: in his power and in his 
+
+
+Primary Match: have no sting there could have 
+Secondary Match: world there could have been no 
+Secondary Match: there could have been no resurrection 
+
+
+Primary Match: words which I have spoken unto 
+Secondary Match: of which we have spoken which 
+Secondary Match: which we have spoken which is 
+
+
+Primary Match: shall be as a type and 
+Secondary Match: their torments shall be as a 
+Secondary Match: torments shall be as a lake 
+Secondary Match: shall be as a lake of 
+
+
+Primary Match: day for a remission of their 
+Secondary Match: him for a remission of their 
+Secondary Match: for a remission of their sins 
+
+
+Primary Match: sting there could have been no 
+Secondary Match: time there would have been no 
+Secondary Match: there would have been no death 
+Secondary Match: the world there could have been 
+Secondary Match: world there could have been no 
+Secondary Match: there could have been no resurrection 
+Secondary Match: could have been no resurrection of 
+
+
+Primary Match: after this shall be as a 
+Secondary Match: their torments shall be as a 
+Secondary Match: torments shall be as a lake 
+Secondary Match: shall be as a lake of 
+
+
+Primary Match: the words which I have spoken 
+Secondary Match: of which we have spoken which 
+Secondary Match: which we have spoken which is 
+
+
+Primary Match: And there cometh a resurrection even 
+Secondary Match: then cometh a death even a 
+Secondary Match: cometh a death even a second 
+
+
+Primary Match: also a life which is endless 
+Secondary Match: a second death which is a 
+
+
+Primary Match: which I have spoken unto you 
+Secondary Match: of which we have spoken which 
+Secondary Match: which we have spoken which is 
+
+
+Primary Match: all this I say unto you 
+Secondary Match: say unto you all that this 
+
+
+Primary Match: against God remaineth in his fallen 
+Secondary Match: in his glory and in his 
+Secondary Match: in his power and in his 
+
+
+Primary Match: his people Yea and even all 
+Secondary Match: among all his people yea even 
+Secondary Match: all his people yea even to 
+
+
+Primary Match: as though there was no redemption 
+Secondary Match: as though there had been no 
+Secondary Match: though there had been no redemption 
+
+
+Primary Match: that persists in his own carnal 
+Secondary Match: in his glory and in his 
+Secondary Match: in his power and in his 
+
+
+Primary Match: should have no sting there could 
+Secondary Match: world there could have been no 
+Secondary Match: there could have been no resurrection 
+
+
+Primary Match: this shall be as a type 
+Secondary Match: their torments shall be as a 
+Secondary Match: torments shall be as a lake 
+Secondary Match: shall be as a lake of 
+
+
+Primary Match: which was prepared from the foundation 
+Secondary Match: which was laid from the foundation 
+Secondary Match: which order was from the foundation 
+
+
+Primary Match: death should have no sting there 
+Secondary Match: there would have been no death 
+
+

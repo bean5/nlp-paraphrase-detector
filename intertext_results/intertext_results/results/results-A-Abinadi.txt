@@ -1,0 +1,9 @@
+Primary Source: Resources/Alma 39-42.txt
+Secondary Source: Resources/Abinadi.txt
+Match Case: No
+Strict Search: No
+Fuzzy Search Parameters: 5/6
+Time to complete: 0.3794666666666667 minutes.
+Left Match Count: 0
+Right Match Count: 0
+

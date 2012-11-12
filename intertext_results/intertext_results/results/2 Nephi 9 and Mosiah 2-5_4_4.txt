@@ -1,0 +1,457 @@
+Primary Source: corpora/2 Nephi 9.txt
+Secondary Source: corpora/Mosiah 2-5.txt
+Match Case: No
+Use Porter Stemmer: Yes
+Strict Search: Yes
+Use Stop Words: No
+Fuzzy Search Parameters: 4/4
+Time to complete: 0.032233333333333336 minutes.
+Left Match Count: 96
+Right Match Count: 158
+
+Primary Match:  Position: 881/2397   forever and ever and 	basis [ forev and ever and ]
+Secondary Match (4 words match): Position: 1956/5574   forever and ever And 	basis [ forev and ever and ]
+
+
+Primary Match:  Position: 1012/2397   of fire and brimstone 	basis [ of fire and brimston ]
+Secondary Match (4 words match): Position: 3206/5574   of fire and brimstone 	basis [ of fire and brimston ]
+
+
+Primary Match:  Position: 869/2397   is as a lake 	basis [ is as a lake ]
+Secondary Match (4 words match): Position: 3202/5574   is as a lake 	basis [ is as a lake ]
+
+
+Primary Match:  Position: 340/2397   to its mother earth 	basis [ to it mother earth ]
+Secondary Match (4 words match): Position: 1277/5574   to its mother earth 	basis [ to it mother earth ]
+
+
+Primary Match:  Position: 1844/2397   the depths of humility 	basis [ the depth of humil ]
+Secondary Match (4 words match): Position: 3863/5574   the depths of humility 	basis [ the depth of humil ]
+
+
+Primary Match:  Position: 812/2397   God hath spoken it 	basis [ god hath spoken it ]
+Secondary Match (4 words match): Position: 2108/5574   God hath spoken it 	basis [ god hath spoken it ]
+
+
+Primary Match:  Position: 875/2397   and brimstone whose flame 	basis [ and brimston whose flame ]
+Secondary Match (4 words match): Position: 3208/5574   and brimstone whose flames 	basis [ and brimston whose flame ]
+
+
+Primary Match:  Position: 1142/2397   in the kingdom of 	basis [ in the kingdom of ]
+Secondary Match (4 words match): Position: 4196/5574   in the kingdom of 	basis [ in the kingdom of ]
+
+
+Primary Match:  Position: 2306/2397   of the Lord and 	basis [ of the lord and ]
+Secondary Match (4 words match): Position: 1932/5574   of the Lord and 	basis [ of the lord and ]
+
+
+Primary Match:  Position: 648/2397   the spirits of the 	basis [ the spirit of the ]
+Secondary Match (4 words match): Position: 3377/5574   the Spirit of the 	basis [ the spirit of the ]
+Secondary Match (4 words match): Position: 4902/5574   the Spirit of the 	basis [ the spirit of the ]
+Secondary Match (4 words match): Position: 1814/5574   the Spirit of the 	basis [ the spirit of the ]
+
+
+Primary Match:  Position: 1292/2397   to that God who 	basis [ to that god who ]
+Secondary Match (4 words match): Position: 958/5574   to that God who 	basis [ to that god who ]
+
+
+Primary Match:  Position: 341/2397   its mother earth to 	basis [ it mother earth to ]
+Secondary Match (4 words match): Position: 1277/5574   to its mother earth 	basis [ to it mother earth ]
+
+
+Primary Match:  Position: 880/2397   up forever and ever 	basis [ up forev and ever ]
+Secondary Match (4 words match): Position: 3218/5574   up forever and ever 	basis [ up forev and ever ]
+Secondary Match (4 words match): Position: 1955/5574   up forever and ever 	basis [ up forev and ever ]
+
+
+Primary Match:  Position: 809/2397   for the Lord God 	basis [ for the lord god ]
+Secondary Match (4 words match): Position: 2105/5574   for the Lord God 	basis [ for the lord god ]
+
+
+Primary Match:  Position: 1423/2397   who are rich as 	basis [ who ar rich as ]
+Secondary Match (4 words match): Position: 4467/5574   who are rich as 	basis [ who ar rich as ]
+
+
+Primary Match:  Position: 981/2397   the greatness of the 	basis [ the great of the ]
+Secondary Match (4 words match): Position: 353/5574   the greatness of the 	basis [ the great of the ]
+
+
+Primary Match:  Position: 100/2397   these things that ye 	basis [ these thing that ye ]
+Secondary Match (4 words match): Position: 831/5574   these things that ye 	basis [ these thing that ye ]
+Secondary Match (4 words match): Position: 773/5574   these things that ye 	basis [ these thing that ye ]
+
+
+Primary Match:  Position: 969/2397   foundation of the world 	basis [ foundat of the world ]
+Secondary Match (4 words match): Position: 3548/5574   foundation of the world 	basis [ foundat of the world ]
+Secondary Match (4 words match): Position: 3613/5574   foundation of the world 	basis [ foundat of the world ]
+
+
+Primary Match:  Position: 749/2397   shall come to pass 	basis [ shall come to pass ]
+Secondary Match (4 words match): Position: 5276/5574   shall come to pass 	basis [ shall come to pass ]
+Secondary Match (4 words match): Position: 5235/5574   shall come to pass 	basis [ shall come to pass ]
+
+
+Primary Match:  Position: 1143/2397   the kingdom of God 	basis [ the kingdom of god ]
+Secondary Match (4 words match): Position: 4197/5574   the kingdom of God 	basis [ the kingdom of god ]
+
+
+Primary Match:  Position: 2315/2397   the children of men 	basis [ the children of men ]
+Secondary Match (4 words match): Position: 2512/5574   the children of men 	basis [ the children of men ]
+Secondary Match (4 words match): Position: 2444/5574   the children of men 	basis [ the children of men ]
+Secondary Match (4 words match): Position: 3534/5574   the children of men 	basis [ the children of men ]
+Secondary Match (4 words match): Position: 2349/5574   the children of men 	basis [ the children of men ]
+Secondary Match (4 words match): Position: 2593/5574   the children of men 	basis [ the children of men ]
+Secondary Match (4 words match): Position: 2282/5574   the children of men 	basis [ the children of men ]
+Secondary Match (4 words match): Position: 2783/5574   the children of men 	basis [ the children of men ]
+Secondary Match (4 words match): Position: 3361/5574   the children of men 	basis [ the children of men ]
+
+
+Primary Match:  Position: 1674/2397   for I have spoken 	basis [ for i have spoken ]
+Secondary Match (4 words match): Position: 2003/5574   for I have spoken 	basis [ for i have spoken ]
+
+
+Primary Match:  Position: 413/2397   from the presence of 	basis [ from the presenc of ]
+Secondary Match (4 words match): Position: 3122/5574   from the presence of 	basis [ from the presenc of ]
+Secondary Match (4 words match): Position: 1929/5574   from the presence of 	basis [ from the presenc of ]
+
+
+Primary Match:  Position: 284/2397   presence of the Lord 	basis [ presenc of the lord ]
+Secondary Match (4 words match): Position: 3124/5574   presence of the Lord 	basis [ presenc of the lord ]
+Secondary Match (4 words match): Position: 1931/5574   presence of the Lord 	basis [ presenc of the lord ]
+
+
+Primary Match:  Position: 2075/2397   is it expedient that 	basis [ is it expedi that ]
+Secondary Match (4 words match): Position: 4675/5574   it is expedient that 	basis [ it is expedi that ]
+
+
+Primary Match:  Position: 187/2397   it is expedient that 	basis [ it is expedi that ]
+Secondary Match (4 words match): Position: 4675/5574   it is expedient that 	basis [ it is expedi that ]
+
+
+Primary Match:  Position: 868/2397   torment is as a 	basis [ torment is as a ]
+Secondary Match (4 words match): Position: 3201/5574   torment is as a 	basis [ torment is as a ]
+
+
+Primary Match:  Position: 866/2397   and their torment is 	basis [ and their torment is ]
+Secondary Match (4 words match): Position: 3199/5574   And their torment is 	basis [ and their torment is ]
+
+
+Primary Match:  Position: 357/2397   For behold if the 	basis [ for behold if the ]
+Secondary Match (4 words match): Position: 3475/5574   For behold if the 	basis [ for behold if the ]
+
+
+Primary Match:  Position: 2316/2397   children of men and 	basis [ children of men and ]
+Secondary Match (4 words match): Position: 2350/5574   children of men And 	basis [ children of men and ]
+Secondary Match (4 words match): Position: 3535/5574   children of men and 	basis [ children of men and ]
+Secondary Match (4 words match): Position: 2283/5574   children of men and 	basis [ children of men and ]
+Secondary Match (4 words match): Position: 3362/5574   children of men And 	basis [ children of men and ]
+
+
+Primary Match:  Position: 1843/2397   in the depths of 	basis [ in the depth of ]
+Secondary Match (4 words match): Position: 3862/5574   in the depths of 	basis [ in the depth of ]
+
+
+Primary Match:  Position: 1612/2397   yielding to the enticings 	basis [ yield to the entic ]
+Secondary Match (4 words match): Position: 2881/5574   yields to the enticings 	basis [ yield to the entic ]
+
+
+Primary Match:  Position: 101/2397   things that ye may 	basis [ thing that ye mai ]
+Secondary Match (4 words match): Position: 832/5574   things that ye may 	basis [ thing that ye mai ]
+Secondary Match (4 words match): Position: 774/5574   things that ye may 	basis [ thing that ye mai ]
+
+
+Primary Match:  Position: 867/2397   their torment is as 	basis [ their torment is as ]
+Secondary Match (4 words match): Position: 3200/5574   their torment is as 	basis [ their torment is as ]
+
+
+Primary Match:  Position: 116/2397   which the Lord God 	basis [ which the lord god ]
+Secondary Match (4 words match): Position: 3052/5574   which the Lord God 	basis [ which the lord god ]
+
+
+Primary Match:  Position: 531/2397   which I have spoken 	basis [ which i have spoken ]
+Secondary Match (4 words match): Position: 4573/5574   which I have spoken 	basis [ which i have spoken ]
+Secondary Match (4 words match): Position: 734/5574   which I have spoken 	basis [ which i have spoken ]
+Secondary Match (4 words match): Position: 3039/5574   which I have spoken 	basis [ which i have spoken ]
+
+
+Primary Match:  Position: 188/2397   is expedient that it 	basis [ is expedi that it ]
+Secondary Match (4 words match): Position: 4675/5574   it is expedient that 	basis [ it is expedi that ]
+
+
+Primary Match:  Position: 1762/2397   and there is none 	basis [ and there is none ]
+Secondary Match (4 words match): Position: 3651/5574   And there is none 	basis [ and there is none ]
+
+
+Primary Match:  Position: 553/2397   which I have spoken 	basis [ which i have spoken ]
+Secondary Match (4 words match): Position: 4573/5574   which I have spoken 	basis [ which i have spoken ]
+Secondary Match (4 words match): Position: 734/5574   which I have spoken 	basis [ which i have spoken ]
+Secondary Match (4 words match): Position: 3039/5574   which I have spoken 	basis [ which i have spoken ]
+
+
+Primary Match:  Position: 1430/2397   of the world For 	basis [ of the world for ]
+Secondary Match (4 words match): Position: 3614/5574   of the world for 	basis [ of the world for ]
+
+
+Primary Match:  Position: 2386/2397   the remainder of my 	basis [ the remaind of my ]
+Secondary Match (4 words match): Position: 3464/5574   the remainder of my 	basis [ the remaind of my ]
+
+
+Primary Match:  Position: 18/2397   the Lord that he 	basis [ the lord that he ]
+Secondary Match (4 words match): Position: 3257/5574   the Lord that he 	basis [ the lord that he ]
+
+
+Primary Match:  Position: 1173/2397   for the Lord God 	basis [ for the lord god ]
+Secondary Match (4 words match): Position: 2105/5574   for the Lord God 	basis [ for the lord god ]
+
+
+Primary Match:  Position: 2367/2397   And now my brethren 	basis [ and now my brethren ]
+Secondary Match (4 words match): Position: 1500/5574   And now my brethren 	basis [ and now my brethren ]
+
+
+Primary Match:  Position: 1763/2397   there is none other 	basis [ there is none other ]
+Secondary Match (4 words match): Position: 3652/5574   there is none other 	basis [ there is none other ]
+
+
+Primary Match:  Position: 874/2397   fire and brimstone whose 	basis [ fire and brimston whose ]
+Secondary Match (4 words match): Position: 3207/5574   fire and brimstone whose 	basis [ fire and brimston whose ]
+
+
+Primary Match:  Position: 99/2397   you these things that 	basis [ you these thing that ]
+Secondary Match (4 words match): Position: 830/5574   you these things that 	basis [ you these thing that ]
+Secondary Match (4 words match): Position: 772/5574   you these things that 	basis [ you these thing that ]
+
+
+Primary Match:  Position: 811/2397   Lord God hath spoken 	basis [ lord god hath spoken ]
+Secondary Match (4 words match): Position: 2107/5574   Lord God hath spoken 	basis [ lord god hath spoken ]
+
+
+Primary Match:  Position: 1676/2397   have spoken the words 	basis [ have spoken the word ]
+Secondary Match (4 words match): Position: 3048/5574   have spoken the words 	basis [ have spoken the word ]
+Secondary Match (4 words match): Position: 5093/5574   have spoken the words 	basis [ have spoken the word ]
+
+
+Primary Match:  Position: 871/2397   a lake of fire 	basis [ a lake of fire ]
+Secondary Match (4 words match): Position: 3204/5574   a lake of fire 	basis [ a lake of fire ]
+
+
+Primary Match:  Position: 878/2397   flame ascendeth up forever 	basis [ flame ascendeth up forev ]
+Secondary Match (4 words match): Position: 1953/5574   flame ascendeth up forever 	basis [ flame ascendeth up forev ]
+
+
+Primary Match:  Position: 8/2397   these things that ye 	basis [ these thing that ye ]
+Secondary Match (4 words match): Position: 831/5574   these things that ye 	basis [ these thing that ye ]
+Secondary Match (4 words match): Position: 773/5574   these things that ye 	basis [ these thing that ye ]
+
+
+Primary Match:  Position: 750/2397   come to pass that 	basis [ come to pass that ]
+Secondary Match (4 words match): Position: 5277/5574   come to pass that 	basis [ come to pass that ]
+Secondary Match (4 words match): Position: 5236/5574   come to pass that 	basis [ come to pass that ]
+
+
+Primary Match:  Position: 2219/2397   that which is of 	basis [ that which is of ]
+Secondary Match (4 words match): Position: 3946/5574   of that which is 	basis [ of that which is ]
+Secondary Match (4 words match): Position: 3881/5574   of that which is 	basis [ of that which is ]
+Secondary Match (4 words match): Position: 4953/5574   of that which is 	basis [ of that which is ]
+
+
+Primary Match:  Position: 970/2397   of the world and 	basis [ of the world and ]
+Secondary Match (4 words match): Position: 3640/5574   of the world And 	basis [ of the world and ]
+
+
+Primary Match:  Position: 872/2397   lake of fire and 	basis [ lake of fire and ]
+Secondary Match (4 words match): Position: 3205/5574   lake of fire and 	basis [ lake of fire and ]
+
+
+Primary Match:  Position: 1279/2397   lake of fire and 	basis [ lake of fire and ]
+Secondary Match (4 words match): Position: 3205/5574   lake of fire and 	basis [ lake of fire and ]
+
+
+Primary Match:  Position: 282/2397   from the presence of 	basis [ from the presenc of ]
+Secondary Match (4 words match): Position: 3122/5574   from the presence of 	basis [ from the presenc of ]
+Secondary Match (4 words match): Position: 1929/5574   from the presence of 	basis [ from the presenc of ]
+
+
+Primary Match:  Position: 1166/2397   to the end they 	basis [ to the end thei ]
+Secondary Match (4 words match): Position: 2075/5574   to the end they 	basis [ to the end thei ]
+
+
+Primary Match:  Position: 453/2397   the children of men 	basis [ the children of men ]
+Secondary Match (4 words match): Position: 2512/5574   the children of men 	basis [ the children of men ]
+Secondary Match (4 words match): Position: 2444/5574   the children of men 	basis [ the children of men ]
+Secondary Match (4 words match): Position: 3534/5574   the children of men 	basis [ the children of men ]
+Secondary Match (4 words match): Position: 2349/5574   the children of men 	basis [ the children of men ]
+Secondary Match (4 words match): Position: 2593/5574   the children of men 	basis [ the children of men ]
+Secondary Match (4 words match): Position: 2282/5574   the children of men 	basis [ the children of men ]
+Secondary Match (4 words match): Position: 2783/5574   the children of men 	basis [ the children of men ]
+Secondary Match (4 words match): Position: 3361/5574   the children of men 	basis [ the children of men ]
+
+
+Primary Match:  Position: 2387/2397   remainder of my words 	basis [ remaind of my word ]
+Secondary Match (4 words match): Position: 3465/5574   remainder of my words 	basis [ remaind of my word ]
+
+
+Primary Match:  Position: 810/2397   the Lord God hath 	basis [ the lord god hath ]
+Secondary Match (4 words match): Position: 2106/5574   the Lord God hath 	basis [ the lord god hath ]
+Secondary Match (4 words match): Position: 3053/5574   the Lord God hath 	basis [ the lord god hath ]
+Secondary Match (4 words match): Position: 2583/5574   the Lord God hath 	basis [ the lord god hath ]
+
+
+Primary Match:  Position: 813/2397   hath spoken it and 	basis [ hath spoken it and ]
+Secondary Match (4 words match): Position: 2109/5574   hath spoken it AND 	basis [ hath spoken it and ]
+
+
+Primary Match:  Position: 877/2397   whose flame ascendeth up 	basis [ whose flame ascendeth up ]
+Secondary Match (4 words match): Position: 1952/5574   whose flame ascendeth up 	basis [ whose flame ascendeth up ]
+
+
+Primary Match:  Position: 532/2397   I have spoken which 	basis [ i have spoken which ]
+Secondary Match (4 words match): Position: 4573/5574   which I have spoken 	basis [ which i have spoken ]
+Secondary Match (4 words match): Position: 734/5574   which I have spoken 	basis [ which i have spoken ]
+Secondary Match (4 words match): Position: 3039/5574   which I have spoken 	basis [ which i have spoken ]
+
+
+Primary Match:  Position: 1319/2397   the commandments of God 	basis [ the command of god ]
+Secondary Match (4 words match): Position: 172/5574   the commandments of God 	basis [ the command of god ]
+Secondary Match (4 words match): Position: 2053/5574   the commandments of God 	basis [ the command of god ]
+Secondary Match (4 words match): Position: 1555/5574   the commandments of God 	basis [ the command of god ]
+Secondary Match (4 words match): Position: 4796/5574   the commandments of God 	basis [ the command of god ]
+
+
+Primary Match:  Position: 2383/2397   declare unto you the 	basis [ declar unto you the ]
+Secondary Match (4 words match): Position: 2198/5574   declare unto you the 	basis [ declar unto you the ]
+
+
+Primary Match:  Position: 1779/2397   for the Lord God 	basis [ for the lord god ]
+Secondary Match (4 words match): Position: 2105/5574   for the Lord God 	basis [ for the lord god ]
+
+
+Primary Match:  Position: 1613/2397   to the enticings of 	basis [ to the entic of ]
+Secondary Match (4 words match): Position: 2882/5574   to the enticings of 	basis [ to the entic of ]
+
+
+Primary Match:  Position: 1427/2397   to the things of 	basis [ to the thing of ]
+Secondary Match (4 words match): Position: 4472/5574   to the things of 	basis [ to the thing of ]
+
+
+Primary Match:  Position: 378/2397   the presence of the 	basis [ the presenc of the ]
+Secondary Match (4 words match): Position: 3123/5574   the presence of the 	basis [ the presenc of the ]
+Secondary Match (4 words match): Position: 1930/5574   the presence of the 	basis [ the presenc of the ]
+
+
+Primary Match:  Position: 2368/2397   now my brethren I 	basis [ now my brethren i ]
+Secondary Match (4 words match): Position: 1501/5574   now my brethren I 	basis [ now my brethren i ]
+
+
+Primary Match:  Position: 2314/2397   unto the children of 	basis [ unto the children of ]
+Secondary Match (4 words match): Position: 2443/5574   unto the children of 	basis [ unto the children of ]
+Secondary Match (4 words match): Position: 2782/5574   unto the children of 	basis [ unto the children of ]
+
+
+Primary Match:  Position: 870/2397   as a lake of 	basis [ as a lake of ]
+Secondary Match (4 words match): Position: 3203/5574   as a lake of 	basis [ as a lake of ]
+
+
+Primary Match:  Position: 2239/2397   the words which I 	basis [ the word which i ]
+Secondary Match (4 words match): Position: 3037/5574   the words which I 	basis [ the word which i ]
+Secondary Match (4 words match): Position: 441/5574   the words which I 	basis [ the word which i ]
+Secondary Match (4 words match): Position: 2185/5574   the words which I 	basis [ the word which i ]
+
+
+Primary Match:  Position: 946/2397   of the world and 	basis [ of the world and ]
+Secondary Match (4 words match): Position: 3640/5574   of the world And 	basis [ of the world and ]
+
+
+Primary Match:  Position: 2241/2397   which I have spoken 	basis [ which i have spoken ]
+Secondary Match (4 words match): Position: 4573/5574   which I have spoken 	basis [ which i have spoken ]
+Secondary Match (4 words match): Position: 734/5574   which I have spoken 	basis [ which i have spoken ]
+Secondary Match (4 words match): Position: 3039/5574   which I have spoken 	basis [ which i have spoken ]
+
+
+Primary Match:  Position: 283/2397   the presence of the 	basis [ the presenc of the ]
+Secondary Match (4 words match): Position: 3123/5574   the presence of the 	basis [ the presenc of the ]
+Secondary Match (4 words match): Position: 1930/5574   the presence of the 	basis [ the presenc of the ]
+
+
+Primary Match:  Position: 1645/2397   the greatness of the 	basis [ the great of the ]
+Secondary Match (4 words match): Position: 353/5574   the greatness of the 	basis [ the great of the ]
+
+
+Primary Match:  Position: 2240/2397   words which I have 	basis [ word which i have ]
+Secondary Match (4 words match): Position: 3038/5574   words which I have 	basis [ word which i have ]
+
+
+Primary Match:  Position: 1518/2397   for he shall be 	basis [ for he shall be ]
+Secondary Match (4 words match): Position: 5263/5574   for he shall be 	basis [ for he shall be ]
+
+
+Primary Match:  Position: 958/2397   the kingdom of God 	basis [ the kingdom of god ]
+Secondary Match (4 words match): Position: 4197/5574   the kingdom of God 	basis [ the kingdom of god ]
+
+
+Primary Match:  Position: 554/2397   I have spoken which 	basis [ i have spoken which ]
+Secondary Match (4 words match): Position: 4573/5574   which I have spoken 	basis [ which i have spoken ]
+Secondary Match (4 words match): Position: 734/5574   which I have spoken 	basis [ which i have spoken ]
+Secondary Match (4 words match): Position: 3039/5574   which I have spoken 	basis [ which i have spoken ]
+
+
+Primary Match:  Position: 37/2397   by the mouth of 	basis [ by the mouth of ]
+Secondary Match (4 words match): Position: 3890/5574   by the mouth of 	basis [ by the mouth of ]
+
+
+Primary Match:  Position: 1280/2397   of fire and brimstone 	basis [ of fire and brimston ]
+Secondary Match (4 words match): Position: 3206/5574   of fire and brimstone 	basis [ of fire and brimston ]
+
+
+Primary Match:  Position: 1011/2397   lake of fire and 	basis [ lake of fire and ]
+Secondary Match (4 words match): Position: 3205/5574   lake of fire and 	basis [ lake of fire and ]
+
+
+Primary Match:  Position: 1675/2397   I have spoken the 	basis [ i have spoken the ]
+Secondary Match (4 words match): Position: 3047/5574   I have spoken the 	basis [ i have spoken the ]
+
+
+Primary Match:  Position: 748/2397   it shall come to 	basis [ it shall come to ]
+Secondary Match (4 words match): Position: 5275/5574   it shall come to 	basis [ it shall come to ]
+Secondary Match (4 words match): Position: 5234/5574   it shall come to 	basis [ it shall come to ]
+
+
+Primary Match:  Position: 879/2397   ascendeth up forever and 	basis [ ascendeth up forev and ]
+Secondary Match (4 words match): Position: 1954/5574   ascendeth up forever and 	basis [ ascendeth up forev and ]
+Secondary Match (4 words match): Position: 3217/5574   ascendeth up forever and 	basis [ ascendeth up forev and ]
+
+
+Primary Match:  Position: 967/2397   from the foundation of 	basis [ from the foundat of ]
+Secondary Match (4 words match): Position: 3611/5574   from the foundation of 	basis [ from the foundat of ]
+Secondary Match (4 words match): Position: 3546/5574   from the foundation of 	basis [ from the foundat of ]
+
+
+Primary Match:  Position: 747/2397   And it shall come 	basis [ and it shall come ]
+Secondary Match (4 words match): Position: 5233/5574   And it shall come 	basis [ and it shall come ]
+
+
+Primary Match:  Position: 751/2397   to pass that when 	basis [ to pass that when ]
+Secondary Match (4 words match): Position: 4838/5574   to pass that when 	basis [ to pass that when ]
+Secondary Match (4 words match): Position: 3233/5574   to pass that when 	basis [ to pass that when ]
+Secondary Match (4 words match): Position: 193/5574   to pass that when 	basis [ to pass that when ]
+
+
+Primary Match:  Position: 17/2397   of the Lord that 	basis [ of the lord that ]
+Secondary Match (4 words match): Position: 547/5574   of the Lord that 	basis [ of the lord that ]
+Secondary Match (4 words match): Position: 1816/5574   of the Lord that 	basis [ of the lord that ]
+Secondary Match (4 words match): Position: 3256/5574   of the Lord that 	basis [ of the lord that ]
+
+
+Primary Match:  Position: 2369/2397   my brethren I would 	basis [ my brethren i would ]
+Secondary Match (4 words match): Position: 1502/5574   my brethren I would 	basis [ my brethren i would ]
+Secondary Match (4 words match): Position: 2114/5574   my brethren I would 	basis [ my brethren i would ]
+
+
+Primary Match:  Position: 968/2397   the foundation of the 	basis [ the foundat of the ]
+Secondary Match (4 words match): Position: 3547/5574   the foundation of the 	basis [ the foundat of the ]
+Secondary Match (4 words match): Position: 3612/5574   the foundation of the 	basis [ the foundat of the ]
+
+
+Primary Match:  Position: 873/2397   of fire and brimstone 	basis [ of fire and brimston ]
+Secondary Match (4 words match): Position: 3206/5574   of fire and brimstone 	basis [ of fire and brimston ]
+
+

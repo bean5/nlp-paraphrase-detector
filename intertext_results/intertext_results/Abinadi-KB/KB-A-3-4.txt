@@ -1,0 +1,1288 @@
+Primary Source: Resources/King Benjamin.txt
+Secondary Source: Resources/Abinadi.txt
+Match Case: No
+Strict Search: No
+Fuzzy Search Parameters: 3/4
+Time to complete: 0.19645 minutes.
+Left Match Count: 230
+Right Match Count: 589
+
+Primary Match: if ye know not 
+Secondary Match: know if ye keep 
+Secondary Match: ye I know if 
+Secondary Match: I know if ye 
+
+
+Primary Match: if God who has 
+Secondary Match: God who has redeemed 
+Secondary Match: with God who has 
+
+
+Primary Match: fallen into transgression And 
+Secondary Match: not fallen into transgression 
+Secondary Match: fallen into transgression I 
+
+
+Primary Match: these things but what 
+Secondary Match: what these things mean 
+Secondary Match: me what these things 
+
+
+Primary Match: shall come to pass 
+Secondary Match: shall come to pass 
+
+
+Primary Match: serve him who has 
+Secondary Match: him who has granted 
+Secondary Match: yea him who has 
+
+
+Primary Match: prepared from the foundation 
+Secondary Match: prepared from the foundation 
+
+
+Primary Match: taught all these things 
+Secondary Match: all these things I 
+Secondary Match: that all these things 
+Secondary Match: all these things for 
+Secondary Match: do all these things 
+Secondary Match: all these things were 
+Secondary Match: do all these things 
+
+
+Primary Match: you for which if 
+Secondary Match: you Nay for if 
+
+
+Primary Match: God who has created 
+Secondary Match: God who has redeemed 
+Secondary Match: with God who has 
+
+
+Primary Match: you if ye have 
+Secondary Match: you Nay ye have 
+Secondary Match: you if ye lay 
+Secondary Match: you And if ye 
+Secondary Match: you Nay ye have 
+Secondary Match: smite you if ye 
+
+
+Primary Match: in your hearts ye 
+Secondary Match: ye set your hearts 
+Secondary Match: written in your hearts 
+Secondary Match: in your hearts I 
+
+
+Primary Match: would that ye should 
+Secondary Match: would that ye should 
+
+
+Primary Match: all these things are 
+Secondary Match: all these things I 
+Secondary Match: that all these things 
+Secondary Match: all these things for 
+Secondary Match: do all these things 
+Secondary Match: all these things were 
+Secondary Match: do all these things 
+
+
+Primary Match: know of their surety 
+Secondary Match: know of their surety 
+
+
+Primary Match: would that ye should 
+Secondary Match: would that ye should 
+
+
+Primary Match: have not been taught 
+Secondary Match: have not been wise 
+Secondary Match: have not taught them 
+Secondary Match: ye have not been 
+Secondary Match: ye have not taught 
+
+
+Primary Match: which ye shall be 
+Secondary Match: that ye shall be 
+Secondary Match: and ye shall be 
+Secondary Match: ye shall be smitten 
+Secondary Match: that ye shall be 
+Secondary Match: day ye shall be 
+Secondary Match: ye shall be hunted 
+Secondary Match: ye shall be afflicted 
+Secondary Match: ye shall be saved 
+Secondary Match: God ye shall be 
+Secondary Match: and ye shall be 
+Secondary Match: ye shall be taken 
+Secondary Match: ye shall be smitten 
+
+
+Primary Match: as ye have come 
+Secondary Match: even as ye have 
+Secondary Match: as ye have done 
+
+
+Primary Match: you that if ye 
+Secondary Match: you if ye lay 
+Secondary Match: you And if ye 
+Secondary Match: smite you if ye 
+
+
+Primary Match: ye do not transgress 
+Secondary Match: do ye not keep 
+Secondary Match: why do ye not 
+
+
+Primary Match: so shall it be 
+Secondary Match: so he shall be 
+Secondary Match: so shall he be 
+
+
+Primary Match: prepared from the foundation 
+Secondary Match: prepared from the foundation 
+
+
+Primary Match: he shall be called 
+Secondary Match: shall he be called 
+Secondary Match: he shall be called 
+Secondary Match: shall be called the 
+
+
+Primary Match: from day to day 
+Secondary Match: from day to day 
+
+
+Primary Match: this shall be found 
+Secondary Match: this shall be as 
+Secondary Match: after this shall be 
+
+
+Primary Match: as ye have hitherto 
+Secondary Match: even as ye have 
+Secondary Match: as ye have done 
+
+
+Primary Match: those who are rich 
+Secondary Match: are those who have 
+Secondary Match: these are those who 
+
+
+Primary Match: this in your hearts 
+Secondary Match: written in your hearts 
+Secondary Match: in your hearts I 
+
+
+Primary Match: dwell with God in 
+Secondary Match: dwell with God who 
+Secondary Match: to dwell with God 
+
+
+Primary Match: will not suffer your 
+Secondary Match: God will not suffer 
+Secondary Match: will not suffer that 
+
+
+Primary Match: that ye should keep 
+Secondary Match: ye should keep the 
+Secondary Match: that ye should keep 
+
+
+Primary Match: that ye may know 
+Secondary Match: that ye may know 
+Secondary Match: ye may know of 
+
+
+Primary Match: are true for the 
+Secondary Match: for they are true 
+
+
+Primary Match: ye have hitherto done 
+Secondary Match: ye have done unto 
+Secondary Match: as ye have done 
+
+
+Primary Match: there is a wo 
+Secondary Match: there is a resurrection 
+Secondary Match: But there is a 
+
+
+Primary Match: ye will not have 
+Secondary Match: therefore ye have not 
+Secondary Match: ye have not power 
+Secondary Match: Nay ye have not 
+Secondary Match: ye have not Touch 
+Secondary Match: not And have ye 
+Secondary Match: Nay ye have not 
+Secondary Match: things ye have not 
+Secondary Match: ye have not And 
+Secondary Match: ye have not been 
+Secondary Match: that ye have not 
+Secondary Match: ye have not taught 
+
+
+Primary Match: shall be called by 
+Secondary Match: shall he be called 
+Secondary Match: shall be taken by 
+Secondary Match: he shall be called 
+Secondary Match: shall be called the 
+
+
+Primary Match: not Ye have spoken 
+Secondary Match: have they not spoken 
+Secondary Match: Ye have not applied 
+Secondary Match: Lord Ye have not 
+
+
+Primary Match: perish not Ye have 
+Secondary Match: Ye have not applied 
+Secondary Match: Lord Ye have not 
+
+
+Primary Match: will not even suffer 
+Secondary Match: will suffer even until 
+Secondary Match: God will not suffer 
+Secondary Match: I will suffer even 
+Secondary Match: will not suffer that 
+
+
+Primary Match: all these things to 
+Secondary Match: all these things I 
+Secondary Match: that all these things 
+Secondary Match: all these things for 
+Secondary Match: do all these things 
+Secondary Match: all these things were 
+Secondary Match: do all these things 
+
+
+Primary Match: then ought not ye 
+Secondary Match: Therefore ought ye not 
+Secondary Match: now ought ye not 
+Secondary Match: ought ye not to 
+Secondary Match: ought ye not to 
+
+
+Primary Match: these things which have 
+Secondary Match: these things ye have 
+
+
+Primary Match: God For behold they 
+Secondary Match: God For behold did 
+Secondary Match: of God For behold 
+
+
+Primary Match: would that ye should 
+Secondary Match: would that ye should 
+
+
+Primary Match: doeth this shall be 
+Secondary Match: this shall be as 
+Secondary Match: after this shall be 
+
+
+Primary Match: you that if ye 
+Secondary Match: you if ye lay 
+Secondary Match: you And if ye 
+Secondary Match: smite you if ye 
+
+
+Primary Match: ye will not suffer 
+Secondary Match: God will not suffer 
+Secondary Match: will not suffer that 
+
+
+Primary Match: would that ye should 
+Secondary Match: would that ye should 
+
+
+Primary Match: nothing concerning these things 
+Secondary Match: less concerning these things 
+Secondary Match: concerning these things Have 
+
+
+Primary Match: you believe all these 
+Secondary Match: you that all these 
+
+
+Primary Match: can no longer be 
+Secondary Match: there can be no 
+Secondary Match: can be no more 
+
+
+Primary Match: ye may know that 
+Secondary Match: that ye may know 
+Secondary Match: ye may know of 
+
+
+Primary Match: ought not ye to 
+Secondary Match: Therefore ought ye not 
+Secondary Match: now ought ye not 
+Secondary Match: ought ye not to 
+Secondary Match: ought ye not to 
+
+
+Primary Match: little children that have 
+Secondary Match: little children also have 
+
+
+Primary Match: But this much I 
+Secondary Match: saved But this much 
+Secondary Match: But this much I 
+
+
+Primary Match: have told you Believe 
+Secondary Match: have told you the 
+Secondary Match: have I told you 
+Secondary Match: I have told you 
+
+
+Primary Match: God Behold ye have 
+Secondary Match: of God ye have 
+Secondary Match: God ye have judged 
+
+
+Primary Match: fallen into the hands 
+Secondary Match: fallen into your hands 
+
+
+Primary Match: who has spent his 
+Secondary Match: who has redeemed his 
+
+
+Primary Match: hath commanded me concerning 
+Secondary Match: hath he commanded me 
+Secondary Match: hath he commanded me 
+
+
+Primary Match: written always in your 
+Secondary Match: not written in your 
+Secondary Match: written in your hearts 
+
+
+Primary Match: in your hearts that 
+Secondary Match: written in your hearts 
+Secondary Match: in your hearts I 
+
+
+Primary Match: be your condemnation for 
+Secondary Match: be smitten for your 
+
+
+Primary Match: shall be called the 
+Secondary Match: shall he be called 
+Secondary Match: he shall be called 
+Secondary Match: shall be called the 
+
+
+Primary Match: unto you wo be 
+Secondary Match: you wo be unto 
+Secondary Match: unto you wo be 
+Secondary Match: wo be unto you 
+
+
+Primary Match: there are not any 
+Secondary Match: there could not any 
+
+
+Primary Match: say unto you wo 
+Secondary Match: say unto you wo 
+
+
+Primary Match: man can be saved 
+Secondary Match: ye can be saved 
+Secondary Match: can be saved Therefore 
+Secondary Match: man be saved except 
+Secondary Match: any man be saved 
+
+
+Primary Match: have spoken unto you 
+Secondary Match: have spoken unto you 
+
+
+Primary Match: if ye shall keep 
+Secondary Match: yea if ye keep 
+Secondary Match: if ye keep the 
+Secondary Match: know if ye keep 
+Secondary Match: if ye keep the 
+
+
+Primary Match: that ye should keep 
+Secondary Match: ye should keep the 
+Secondary Match: that ye should keep 
+
+
+Primary Match: done As ye have 
+Secondary Match: ye have done unto 
+Secondary Match: as ye have done 
+
+
+Primary Match: from day to day 
+Secondary Match: from day to day 
+
+
+Primary Match: ye do not watch 
+Secondary Match: do ye not keep 
+Secondary Match: why do ye not 
+
+
+Primary Match: may dwell with God 
+Secondary Match: dwell with God who 
+Secondary Match: to dwell with God 
+
+
+Primary Match: ye have not I 
+Secondary Match: therefore ye have not 
+Secondary Match: ye have not power 
+Secondary Match: Nay ye have not 
+Secondary Match: ye have not Touch 
+Secondary Match: not And have ye 
+Secondary Match: Nay ye have not 
+Secondary Match: things ye have not 
+Secondary Match: ye have not And 
+Secondary Match: ye have not been 
+Secondary Match: that ye have not 
+Secondary Match: ye have not taught 
+
+
+Primary Match: For it were not 
+Secondary Match: For were it not 
+
+
+Primary Match: should be a ruler 
+Secondary Match: should be a law 
+Secondary Match: there should be a 
+
+
+Primary Match: his punishments are just 
+Secondary Match: his judgments are just 
+
+
+Primary Match: that have fallen into 
+Secondary Match: have fallen into your 
+Secondary Match: I have fallen into 
+
+
+Primary Match: were it not for 
+Secondary Match: were it not for 
+Secondary Match: were it not for 
+Secondary Match: were it not for 
+
+
+Primary Match: things are true for 
+Secondary Match: for they are true 
+
+
+Primary Match: concerning these things or 
+Secondary Match: less concerning these things 
+Secondary Match: or less concerning these 
+Secondary Match: concerning these things Have 
+
+
+Primary Match: for all mankind which 
+Secondary Match: for this all mankind 
+
+
+Primary Match: he being an enemy 
+Secondary Match: made being an enemy 
+Secondary Match: being an enemy to 
+
+
+Primary Match: say unto you Nay 
+Secondary Match: say unto you Nay 
+Secondary Match: say unto you Nay 
+Secondary Match: say unto you Nay 
+Secondary Match: say unto you Nay 
+
+
+Primary Match: behold there is a 
+Secondary Match: there is a resurrection 
+Secondary Match: But there is a 
+
+
+Primary Match: always in your hearts 
+Secondary Match: written in your hearts 
+Secondary Match: in your hearts I 
+
+
+Primary Match: do this ye shall 
+Secondary Match: ye shall do unto 
+Secondary Match: What ye shall do 
+
+
+Primary Match: have fallen into the 
+Secondary Match: have fallen into your 
+Secondary Match: I have fallen into 
+
+
+Primary Match: him who has created 
+Secondary Match: him who has granted 
+Secondary Match: yea him who has 
+
+
+Primary Match: shall be even unto 
+Secondary Match: who shall be even 
+Secondary Match: shall be even until 
+
+
+Primary Match: for which if ye 
+Secondary Match: Nay for if ye 
+Secondary Match: for if ye had 
+
+
+Primary Match: who are or who 
+Secondary Match: who are and who 
+
+
+Primary Match: that all these things 
+Secondary Match: all these things I 
+Secondary Match: that all these things 
+Secondary Match: all these things for 
+Secondary Match: do all these things 
+Secondary Match: all these things were 
+Secondary Match: do all these things 
+
+
+Primary Match: your hearts that ye 
+Secondary Match: ye set your hearts 
+
+
+Primary Match: of God which shall 
+Secondary Match: which God himself shall 
+
+
+Primary Match: God for he shall 
+Secondary Match: for God shall smite 
+Secondary Match: not for God shall 
+
+
+Primary Match: not for these things 
+Secondary Match: these things for to 
+Secondary Match: all these things for 
+
+
+Primary Match: have fallen into transgression 
+Secondary Match: not fallen into transgression 
+Secondary Match: have fallen into your 
+Secondary Match: fallen into transgression I 
+Secondary Match: I have fallen into 
+
+
+Primary Match: for he shall be 
+Secondary Match: shall be smitten for 
+
+
+Primary Match: which was prepared from 
+Secondary Match: was prepared from the 
+Secondary Match: people which was prepared 
+Secondary Match: which was prepared from 
+
+
+Primary Match: ye do keep his 
+Secondary Match: do ye not keep 
+
+
+Primary Match: for a remission of 
+Secondary Match: day for a remission 
+Secondary Match: for a remission of 
+
+
+Primary Match: take upon him the 
+Secondary Match: take upon him the 
+Secondary Match: and take upon him 
+
+
+Primary Match: at this present time 
+Secondary Match: at this time But 
+Secondary Match: destroyed at this time 
+
+
+Primary Match: ye will not suffer 
+Secondary Match: God will not suffer 
+Secondary Match: will not suffer that 
+
+
+Primary Match: your hearts that ye 
+Secondary Match: ye set your hearts 
+
+
+Primary Match: all these things if 
+Secondary Match: all these things I 
+Secondary Match: that all these things 
+Secondary Match: all these things for 
+Secondary Match: do all these things 
+Secondary Match: all these things were 
+Secondary Match: do all these things 
+
+
+Primary Match: you that if ye 
+Secondary Match: you if ye lay 
+Secondary Match: you And if ye 
+Secondary Match: smite you if ye 
+
+
+Primary Match: would that ye should 
+Secondary Match: would that ye should 
+
+
+Primary Match: not take upon him 
+Secondary Match: take upon him the 
+Secondary Match: and take upon him 
+
+
+Primary Match: for I have not 
+Secondary Match: for I have not 
+
+
+Primary Match: extended his arm in 
+Secondary Match: his holy arm in 
+
+
+Primary Match: And now if God 
+Secondary Match: God And now if 
+
+
+Primary Match: if ye would keep 
+Secondary Match: yea if ye keep 
+Secondary Match: if ye keep the 
+Secondary Match: know if ye keep 
+Secondary Match: if ye keep the 
+
+
+Primary Match: unto those who are 
+Secondary Match: are those who have 
+Secondary Match: these are those who 
+
+
+Primary Match: remembered all these things 
+Secondary Match: all these things I 
+Secondary Match: that all these things 
+Secondary Match: all these things for 
+Secondary Match: do all these things 
+Secondary Match: all these things were 
+Secondary Match: do all these things 
+
+
+Primary Match: your hearts ye remain 
+Secondary Match: ye set your hearts 
+
+
+Primary Match: because ye have not 
+Secondary Match: therefore ye have not 
+Secondary Match: ye have not power 
+Secondary Match: Nay ye have not 
+Secondary Match: ye have not Touch 
+Secondary Match: not And have ye 
+Secondary Match: Nay ye have not 
+Secondary Match: things ye have not 
+Secondary Match: ye have not And 
+Secondary Match: ye have not been 
+Secondary Match: that ye have not 
+Secondary Match: ye have not taught 
+
+
+Primary Match: I say these things 
+Secondary Match: these things I say 
+
+
+Primary Match: must have fallen into 
+Secondary Match: have fallen into your 
+Secondary Match: I have fallen into 
+
+
+Primary Match: I at this time 
+Secondary Match: at this time But 
+Secondary Match: destroyed at this time 
+
+
+Primary Match: you that if ye 
+Secondary Match: you if ye lay 
+Secondary Match: you And if ye 
+Secondary Match: smite you if ye 
+
+
+Primary Match: concerning these things but 
+Secondary Match: less concerning these things 
+Secondary Match: concerning these things Have 
+
+
+Primary Match: ye have not received 
+Secondary Match: therefore ye have not 
+Secondary Match: ye have not power 
+Secondary Match: Nay ye have not 
+Secondary Match: ye have not Touch 
+Secondary Match: not And have ye 
+Secondary Match: Nay ye have not 
+Secondary Match: things ye have not 
+Secondary Match: ye have not And 
+Secondary Match: ye have not been 
+Secondary Match: that ye have not 
+Secondary Match: ye have not taught 
+
+
+Primary Match: repent of your sins 
+Secondary Match: repent of your sins 
+
+
+Primary Match: ye have called me 
+Secondary Match: ye have judged me 
+
+
+Primary Match: whereby ye can be 
+Secondary Match: ye can be saved 
+Secondary Match: Christ ye can be 
+
+
+Primary Match: I have told you 
+Secondary Match: have told you the 
+Secondary Match: have I told you 
+Secondary Match: I have told you 
+
+
+Primary Match: God who has created 
+Secondary Match: God who has redeemed 
+Secondary Match: with God who has 
+
+
+Primary Match: among you if ye 
+Secondary Match: you if ye lay 
+Secondary Match: you And if ye 
+Secondary Match: smite you if ye 
+
+
+Primary Match: have kept my commandments 
+Secondary Match: have kept the commandments 
+
+
+Primary Match: which ye have not 
+Secondary Match: therefore ye have not 
+Secondary Match: ye have not power 
+Secondary Match: Nay ye have not 
+Secondary Match: ye have not Touch 
+Secondary Match: not And have ye 
+Secondary Match: Nay ye have not 
+Secondary Match: things ye have not 
+Secondary Match: ye have not And 
+Secondary Match: ye have not been 
+Secondary Match: that ye have not 
+Secondary Match: ye have not taught 
+
+
+Primary Match: shall come to pass 
+Secondary Match: shall come to pass 
+
+
+Primary Match: will not suffer that 
+Secondary Match: God will not suffer 
+Secondary Match: will not suffer that 
+
+
+Primary Match: ye who have not 
+Secondary Match: therefore ye have not 
+Secondary Match: ye have not power 
+Secondary Match: Nay ye have not 
+Secondary Match: ye have not Touch 
+Secondary Match: not And have ye 
+Secondary Match: Nay ye have not 
+Secondary Match: things ye have not 
+Secondary Match: ye have not And 
+Secondary Match: ye have not been 
+Secondary Match: that ye have not 
+Secondary Match: ye have not taught 
+
+
+Primary Match: which I have spoken 
+Secondary Match: which I have spoken 
+
+
+Primary Match: ye are even as 
+Secondary Match: even as ye have 
+Secondary Match: Behold even as ye 
+
+
+Primary Match: these things if ye 
+Secondary Match: if ye understand these 
+Secondary Match: ye understand these things 
+Secondary Match: these things ye have 
+Secondary Match: understand these things ye 
+
+
+Primary Match: in your hearts that 
+Secondary Match: written in your hearts 
+Secondary Match: in your hearts I 
+
+
+Primary Match: you wo be unto 
+Secondary Match: you wo be unto 
+Secondary Match: unto you wo be 
+Secondary Match: wo be unto you 
+
+
+Primary Match: would that ye should 
+Secondary Match: would that ye should 
+
+
+Primary Match: would that ye should 
+Secondary Match: would that ye should 
+
+
+Primary Match: of all these things 
+Secondary Match: all these things I 
+Secondary Match: that all these things 
+Secondary Match: all these things for 
+Secondary Match: do all these things 
+Secondary Match: all these things were 
+Secondary Match: do all these things 
+
+
+Primary Match: unto you if ye 
+Secondary Match: you if ye lay 
+Secondary Match: you And if ye 
+Secondary Match: smite you if ye 
+
+
+Primary Match: which have been spoken 
+Secondary Match: which I have spoken 
+
+
+Primary Match: them But this much 
+Secondary Match: saved But this much 
+Secondary Match: But this much I 
+
+
+Primary Match: that have not been 
+Secondary Match: have not been wise 
+Secondary Match: ye have not been 
+
+
+Primary Match: to have taught them 
+Secondary Match: have not taught them 
+
+
+Primary Match: now if ye say 
+Secondary Match: now what say ye 
+
+
+Primary Match: atonement which was prepared 
+Secondary Match: people which was prepared 
+Secondary Match: which was prepared from 
+
+
+Primary Match: that as ye have 
+Secondary Match: even as ye have 
+Secondary Match: as ye have done 
+
+
+Primary Match: made ye shall be 
+Secondary Match: that ye shall be 
+Secondary Match: and ye shall be 
+Secondary Match: ye shall be smitten 
+Secondary Match: that ye shall be 
+Secondary Match: day ye shall be 
+Secondary Match: ye shall be hunted 
+Secondary Match: ye shall be afflicted 
+Secondary Match: ye shall be saved 
+Secondary Match: God ye shall be 
+Secondary Match: and ye shall be 
+Secondary Match: ye shall be taken 
+Secondary Match: ye shall be smitten 
+
+
+Primary Match: would that ye should 
+Secondary Match: would that ye should 
+
+
+Primary Match: of God For behold 
+Secondary Match: God For behold did 
+Secondary Match: of God For behold 
+
+
+Primary Match: ever shall be even 
+Secondary Match: who shall be even 
+Secondary Match: shall be even until 
+
+
+Primary Match: be saved except the 
+Secondary Match: man be saved except 
+Secondary Match: be saved except it 
+
+
+Primary Match: at this time has 
+Secondary Match: at this time But 
+Secondary Match: destroyed at this time 
+
+
+Primary Match: at this time my 
+Secondary Match: at this time But 
+Secondary Match: destroyed at this time 
+
+
+Primary Match: all these things which 
+Secondary Match: all these things I 
+Secondary Match: that all these things 
+Secondary Match: all these things for 
+Secondary Match: do all these things 
+Secondary Match: all these things were 
+Secondary Match: do all these things 
+
+
+Primary Match: would that ye should 
+Secondary Match: would that ye should 
+
+
+Primary Match: if ye do keep 
+Secondary Match: do ye not keep 
+Secondary Match: yea if ye keep 
+Secondary Match: if ye keep the 
+Secondary Match: know if ye keep 
+Secondary Match: if ye keep the 
+
+
+Primary Match: have no place in 
+Secondary Match: have no part in 
+
+
+Primary Match: these things that ye 
+Secondary Match: ye understand these things 
+Secondary Match: these things ye have 
+Secondary Match: understand these things ye 
+
+
+Primary Match: shall be called and 
+Secondary Match: shall he be called 
+Secondary Match: he shall be called 
+Secondary Match: shall be called the 
+
+
+Primary Match: being an enemy to 
+Secondary Match: made being an enemy 
+Secondary Match: being an enemy to 
+
+
+Primary Match: would that ye should 
+Secondary Match: would that ye should 
+
+
+Primary Match: you if ye know 
+Secondary Match: you if ye lay 
+Secondary Match: you And if ye 
+Secondary Match: know if ye keep 
+Secondary Match: ye I know if 
+Secondary Match: I know if ye 
+Secondary Match: smite you if ye 
+
+
+Primary Match: that ye do not 
+Secondary Match: do ye not keep 
+Secondary Match: why do ye not 
+
+
+Primary Match: if he had not 
+Secondary Match: if Christ had not 
+Secondary Match: if Christ had not 
+
+
+Primary Match: eternal life through the 
+Secondary Match: eternal life through Christ 
+Secondary Match: have eternal life through 
+
+
+Primary Match: were it not for 
+Secondary Match: were it not for 
+Secondary Match: were it not for 
+Secondary Match: were it not for 
+
+
+Primary Match: that God who has 
+Secondary Match: God who has redeemed 
+Secondary Match: with God who has 
+
+
+Primary Match: who ever shall be 
+Secondary Match: And who shall be 
+Secondary Match: who shall be his 
+Secondary Match: who shall be even 
+Secondary Match: and who shall be 
+
+
+Primary Match: for these things which 
+Secondary Match: these things for to 
+Secondary Match: all these things for 
+
+
+Primary Match: time ye have been 
+Secondary Match: ye have not been 
+
+
+Primary Match: and eternal life through 
+Secondary Match: eternal life through Christ 
+Secondary Match: have eternal life through 
+
+
+Primary Match: ye should keep the 
+Secondary Match: ye should keep the 
+Secondary Match: that ye should keep 
+
+
+Primary Match: ye should keep the 
+Secondary Match: ye should keep the 
+Secondary Match: that ye should keep 
+
+
+Primary Match: I should be a 
+Secondary Match: should be a law 
+Secondary Match: there should be a 
+
+
+Primary Match: taught concerning these things 
+Secondary Match: less concerning these things 
+Secondary Match: concerning these things Have 
+
+
+Primary Match: ye shall be called 
+Secondary Match: that ye shall be 
+Secondary Match: and ye shall be 
+Secondary Match: shall he be called 
+Secondary Match: ye shall be smitten 
+Secondary Match: that ye shall be 
+Secondary Match: day ye shall be 
+Secondary Match: ye shall be hunted 
+Secondary Match: ye shall be afflicted 
+Secondary Match: he shall be called 
+Secondary Match: ye shall be saved 
+Secondary Match: shall be called the 
+Secondary Match: God ye shall be 
+Secondary Match: and ye shall be 
+Secondary Match: ye shall be taken 
+Secondary Match: ye shall be smitten 
+
+
+Primary Match: an enemy to God 
+Secondary Match: an enemy to God 
+Secondary Match: an enemy to God 
+
+
+Primary Match: if ye do not 
+Secondary Match: do ye not keep 
+Secondary Match: why do ye not 
+
+
+Primary Match: that even so shall 
+Secondary Match: even so he shall 
+
+
+Primary Match: begging for a remission 
+Secondary Match: day for a remission 
+Secondary Match: for a remission of 
+
+
+Primary Match: say in your hearts 
+Secondary Match: written in your hearts 
+Secondary Match: in your hearts I 
+
+
+Primary Match: these things to have 
+Secondary Match: these things ye have 
+
+
+Primary Match: was prepared from the 
+Secondary Match: was prepared from the 
+Secondary Match: which was prepared from 
+
+
+Primary Match: ye can be made 
+Secondary Match: ye can be saved 
+Secondary Match: Christ ye can be 
+
+
+Primary Match: would that ye should 
+Secondary Match: would that ye should 
+
+
+Primary Match: these things that ye 
+Secondary Match: ye understand these things 
+Secondary Match: these things ye have 
+Secondary Match: understand these things ye 
+
+
+Primary Match: hath commanded me that 
+Secondary Match: hath he commanded me 
+Secondary Match: hath he commanded me 
+
+
+Primary Match: would that ye should 
+Secondary Match: would that ye should 
+
+
+Primary Match: all these things see 
+Secondary Match: all these things I 
+Secondary Match: that all these things 
+Secondary Match: all these things for 
+Secondary Match: do all these things 
+Secondary Match: all these things were 
+Secondary Match: do all these things 
+
+
+Primary Match: have taught them to 
+Secondary Match: have not taught them 
+
+
+Primary Match: from day to day 
+Secondary Match: from day to day 
+
+
+Primary Match: rebellion against God therefore 
+Secondary Match: and rebellion against God 
+Secondary Match: rebellion against God remaineth 
+
+
+Primary Match: which I have spoken 
+Secondary Match: which I have spoken 
+
+
+Primary Match: now if God who 
+Secondary Match: God And now if 
+
+
+Primary Match: at this time ye 
+Secondary Match: at this time But 
+Secondary Match: destroyed at this time 
+
+
+Primary Match: at this time have 
+Secondary Match: at this time But 
+Secondary Match: destroyed at this time 
+
+
+Primary Match: have not I would 
+Secondary Match: Lord would not have 
+Secondary Match: would not have caused 
+
+
+Primary Match: say these things unto 
+Secondary Match: these things I say 
+
+
+Primary Match: even at this time 
+Secondary Match: at this time But 
+Secondary Match: destroyed at this time 
+
+
+Primary Match: God For behold are 
+Secondary Match: God For behold did 
+Secondary Match: God For these are 
+Secondary Match: of God For behold 
+
+
+Primary Match: he hath commanded me 
+Secondary Match: hath he commanded me 
+Secondary Match: hath he commanded me 
+
+
+Primary Match: of God For behold 
+Secondary Match: God For behold did 
+Secondary Match: of God For behold 
+
+
+Primary Match: world for all mankind 
+Secondary Match: for this all mankind 
+
+
+Primary Match: be judged of God 
+Secondary Match: God to be judged 
+
+
+Primary Match: do as ye have 
+Secondary Match: even as ye have 
+Secondary Match: as ye have done 
+
+
+Primary Match: would that ye should 
+Secondary Match: would that ye should 
+
+
+Primary Match: and hath commanded me 
+Secondary Match: hath he commanded me 
+Secondary Match: hath he commanded me 
+
+
+Primary Match: can be saved except 
+Secondary Match: ye can be saved 
+Secondary Match: can be saved Therefore 
+Secondary Match: man be saved except 
+Secondary Match: be saved except it 
+
+
+Primary Match: believe all these things 
+Secondary Match: all these things I 
+Secondary Match: that all these things 
+Secondary Match: all these things for 
+Secondary Match: do all these things 
+Secondary Match: all these things were 
+Secondary Match: do all these things 
+
+
+Primary Match: this time ye have 
+Secondary Match: have ye taught this 
+
+
+Primary Match: God at this time 
+Secondary Match: at this time But 
+Secondary Match: destroyed at this time 
+
+
+Primary Match: even at this time 
+Secondary Match: at this time But 
+Secondary Match: destroyed at this time 
+
+
+Primary Match: God which shall be 
+Secondary Match: which God himself shall 
+Secondary Match: God ye shall be 
+
+
+Primary Match: ye shall be called 
+Secondary Match: that ye shall be 
+Secondary Match: and ye shall be 
+Secondary Match: shall he be called 
+Secondary Match: ye shall be smitten 
+Secondary Match: that ye shall be 
+Secondary Match: day ye shall be 
+Secondary Match: ye shall be hunted 
+Secondary Match: ye shall be afflicted 
+Secondary Match: he shall be called 
+Secondary Match: ye shall be saved 
+Secondary Match: shall be called the 
+Secondary Match: God ye shall be 
+Secondary Match: and ye shall be 
+Secondary Match: ye shall be taken 
+Secondary Match: ye shall be smitten 
+
+
+Primary Match: his arm in the 
+Secondary Match: his holy arm in 
+
+
+Primary Match: shall be found at 
+Secondary Match: shall be destroyed at 
+
+
+Primary Match: open rebellion against God 
+Secondary Match: and rebellion against God 
+Secondary Match: rebellion against God remaineth 
+
+
+Primary Match: ye have been calling 
+Secondary Match: ye have not been 
+
+
+Primary Match: keep his commandments ye 
+Secondary Match: ye keep the commandments 
+Secondary Match: ye keep the commandments 
+
+
+Primary Match: kingdom of God For 
+Secondary Match: kingdom of God For 
+
+
+Primary Match: even so shall it 
+Secondary Match: even so he shall 
+
+

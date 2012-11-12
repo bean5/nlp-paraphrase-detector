@@ -1,0 +1,22 @@
+Primary Source: corpora/Abinadi.txt
+Secondary Source: corpora/Alma 5.txt
+Match Case: No
+Strict Search: No
+Fuzzy Search Parameters: 4/4
+Time to complete: 0.099 minutes.
+Left Match Count: 3
+Right Match Count: 4
+
+Primary Match: his people from their 
+Secondary Match: his people from their 
+Secondary Match: his people from their 
+
+
+Primary Match: man be saved except 
+Secondary Match: man be saved except 
+
+
+Primary Match: this is not all 
+Secondary Match: this is not all 
+
+

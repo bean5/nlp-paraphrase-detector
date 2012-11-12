@@ -1,0 +1,427 @@
+Primary Source: Resources/ABINADI.txt
+Secondary Source: Resources/Alma 9.txt
+Match Case: No
+Strict Search: No
+Fuzzy Search Parameters: 3/4
+Time to complete: 0.06851666666666666 minutes.
+Left Match Count: 83
+Right Match Count: 169
+
+Primary Match: ye can be saved 
+Secondary Match: ye repent ye can 
+
+
+Primary Match: is not all For 
+Secondary Match: this is not all 
+Secondary Match: is not all he 
+
+
+Primary Match: every nation kindred tongue 
+Secondary Match: every other nation kindred 
+Secondary Match: other nation kindred tongue 
+Secondary Match: nation kindred tongue or 
+
+
+Primary Match: destroy his people O 
+Secondary Match: to destroy his people 
+Secondary Match: destroy his people I 
+Secondary Match: destroy all his people 
+
+
+Primary Match: angry with me And 
+Secondary Match: were angry with me 
+Secondary Match: angry with me and 
+
+
+Primary Match: that ye shall be 
+Secondary Match: and ye shall be 
+Secondary Match: ye shall be visited 
+Secondary Match: ye shall utterly be 
+
+
+Primary Match: kindred tongue and people 
+Secondary Match: kindred tongue or people 
+
+
+Primary Match: subjected them which is 
+Secondary Match: which is and which 
+Secondary Match: is and which is 
+
+
+Primary Match: you if ye lay 
+Secondary Match: for you if ye 
+Secondary Match: you if ye remain 
+Secondary Match: you that if ye 
+Secondary Match: you and if ye 
+Secondary Match: unto you if ye 
+Secondary Match: you if ye transgress 
+
+
+Primary Match: why do ye not 
+Secondary Match: Behold do ye not 
+Secondary Match: do ye not remember 
+
+
+Primary Match: shall no more be 
+Secondary Match: it shall be more 
+Secondary Match: shall be more tolerable 
+
+
+Primary Match: rebel against him and 
+Secondary Match: will rebel against him 
+Secondary Match: rebel against him that 
+
+
+Primary Match: redeemed his people from 
+Secondary Match: from his presence from 
+
+
+Primary Match: lay your hands upon 
+Secondary Match: lay their hands upon 
+
+
+Primary Match: life which is endless 
+Secondary Match: which is and which 
+Secondary Match: is and which is 
+
+
+Primary Match: you this is not 
+Secondary Match: behold this is not 
+Secondary Match: this is not all 
+
+
+Primary Match: if Christ had not 
+Secondary Match: if it had not 
+
+
+Primary Match: sins yea even all 
+Secondary Match: sins yea and even 
+
+
+Primary Match: that ye shall be 
+Secondary Match: and ye shall be 
+Secondary Match: ye shall be visited 
+Secondary Match: ye shall utterly be 
+
+
+Primary Match: I shall be destroyed 
+Secondary Match: shall utterly be destroyed 
+
+
+Primary Match: hands upon me for 
+Secondary Match: their hands upon me 
+Secondary Match: hands upon me that 
+
+
+Primary Match: them which is damnation 
+Secondary Match: which is and which 
+Secondary Match: is and which is 
+
+
+Primary Match: through Christ ye can 
+Secondary Match: ye repent ye can 
+
+
+Primary Match: shall be destroyed at 
+Secondary Match: shall utterly be destroyed 
+
+
+Primary Match: in their sins yea 
+Secondary Match: in your sins yea 
+
+
+Primary Match: for they were a 
+Secondary Match: for they were a 
+
+
+Primary Match: For behold did not 
+Secondary Match: behold they did not 
+
+
+Primary Match: their sins yea even 
+Secondary Match: sins yea and even 
+
+
+Primary Match: would that ye should 
+Secondary Match: would that ye should 
+
+
+Primary Match: will not suffer that 
+Secondary Match: he will not suffer 
+Secondary Match: will not suffer you 
+
+
+Primary Match: not for this all 
+Secondary Match: this is not all 
+
+
+Primary Match: kindred tongue and people 
+Secondary Match: kindred tongue or people 
+
+
+Primary Match: all manner of diseases 
+Secondary Match: all manner of diseases 
+
+
+Primary Match: ye shall be saved 
+Secondary Match: and ye shall be 
+Secondary Match: ye shall be visited 
+Secondary Match: ye shall utterly be 
+
+
+Primary Match: there is a resurrection 
+Secondary Match: Nephi there is a 
+Secondary Match: there is a similar 
+
+
+Primary Match: and ye shall be 
+Secondary Match: and ye shall be 
+Secondary Match: ye shall be visited 
+Secondary Match: ye shall utterly be 
+
+
+Primary Match: God ye shall be 
+Secondary Match: and ye shall be 
+Secondary Match: ye shall be visited 
+Secondary Match: ye shall utterly be 
+
+
+Primary Match: a stiffnecked people quick 
+Secondary Match: and a stiffnecked people 
+Secondary Match: a stiffnecked people And 
+Secondary Match: and a stiffnecked people 
+Secondary Match: a stiffnecked people And 
+
+
+Primary Match: for if ye had 
+Secondary Match: for you if ye 
+Secondary Match: if ye transgress for 
+
+
+Primary Match: God will not suffer 
+Secondary Match: he will not suffer 
+Secondary Match: will not suffer you 
+
+
+Primary Match: and ye shall be 
+Secondary Match: and ye shall be 
+Secondary Match: ye shall be visited 
+Secondary Match: ye shall utterly be 
+
+
+Primary Match: say unto you Nay 
+Secondary Match: say unto you Nay 
+
+
+Primary Match: ye shall be smitten 
+Secondary Match: and ye shall be 
+Secondary Match: ye shall be visited 
+Secondary Match: ye shall utterly be 
+
+
+Primary Match: day ye shall be 
+Secondary Match: and ye shall be 
+Secondary Match: ye shall be visited 
+Secondary Match: ye shall utterly be 
+
+
+Primary Match: if Christ had not 
+Secondary Match: if it had not 
+
+
+Primary Match: say unto you Nay 
+Secondary Match: say unto you Nay 
+
+
+Primary Match: to every nation kindred 
+Secondary Match: every other nation kindred 
+
+
+Primary Match: every nation kindred tongue 
+Secondary Match: every other nation kindred 
+Secondary Match: other nation kindred tongue 
+Secondary Match: nation kindred tongue or 
+
+
+Primary Match: your hands upon me 
+Secondary Match: their hands upon me 
+Secondary Match: hands upon me that 
+
+
+Primary Match: when every nation kindred 
+Secondary Match: every other nation kindred 
+
+
+Primary Match: the Lord their God 
+Secondary Match: the Lord their God 
+Secondary Match: Lord their God Yea 
+
+
+Primary Match: were a stiffnecked people 
+Secondary Match: and a stiffnecked people 
+Secondary Match: a stiffnecked people And 
+Secondary Match: and a stiffnecked people 
+Secondary Match: a stiffnecked people And 
+
+
+Primary Match: shall be afflicted with 
+Secondary Match: shall be visited with 
+
+
+Primary Match: which is damnation Having 
+Secondary Match: which is and which 
+Secondary Match: is and which is 
+
+
+Primary Match: ye shall be hunted 
+Secondary Match: and ye shall be 
+Secondary Match: ye shall be visited 
+Secondary Match: ye shall utterly be 
+
+
+Primary Match: ye shall be smitten 
+Secondary Match: and ye shall be 
+Secondary Match: ye shall be visited 
+Secondary Match: ye shall utterly be 
+
+
+Primary Match: the Lord their God 
+Secondary Match: the Lord their God 
+Secondary Match: Lord their God Yea 
+
+
+Primary Match: you Nay for if 
+Secondary Match: than for you if 
+Secondary Match: for you if ye 
+
+
+Primary Match: you And if ye 
+Secondary Match: for you if ye 
+Secondary Match: you if ye remain 
+Secondary Match: you that if ye 
+Secondary Match: you and if ye 
+Secondary Match: unto you if ye 
+Secondary Match: you if ye transgress 
+
+
+Primary Match: that rebel against him 
+Secondary Match: will rebel against him 
+Secondary Match: rebel against him that 
+
+
+Primary Match: Lord their God Therefore 
+Secondary Match: the Lord their God 
+Secondary Match: Lord their God Yea 
+
+
+Primary Match: say unto you Nay 
+Secondary Match: say unto you Nay 
+
+
+Primary Match: which is endless that 
+Secondary Match: which is and which 
+Secondary Match: is and which is 
+
+
+Primary Match: do ye not keep 
+Secondary Match: Behold do ye not 
+Secondary Match: do ye not remember 
+
+
+Primary Match: behold did not Moses 
+Secondary Match: behold they did not 
+
+
+Primary Match: shall come forth in 
+Secondary Match: they shall come in 
+Secondary Match: shall come in a 
+
+
+Primary Match: ye shall be afflicted 
+Secondary Match: and ye shall be 
+Secondary Match: ye shall be visited 
+Secondary Match: ye shall utterly be 
+
+
+Primary Match: smite you if ye 
+Secondary Match: for you if ye 
+Secondary Match: you if ye remain 
+Secondary Match: you that if ye 
+Secondary Match: you and if ye 
+Secondary Match: unto you if ye 
+Secondary Match: you if ye transgress 
+
+
+Primary Match: this is not all 
+Secondary Match: behold this is not 
+Secondary Match: this is not all 
+Secondary Match: is not all he 
+
+
+Primary Match: nation kindred tongue and 
+Secondary Match: other nation kindred tongue 
+Secondary Match: nation kindred tongue or 
+
+
+Primary Match: Lord their God And 
+Secondary Match: the Lord their God 
+Secondary Match: Lord their God Yea 
+
+
+Primary Match: Christ ye can be 
+Secondary Match: ye repent ye can 
+
+
+Primary Match: But there is a 
+Secondary Match: Nephi there is a 
+Secondary Match: there is a similar 
+
+
+Primary Match: his people from their 
+Secondary Match: from his presence from 
+
+
+Primary Match: that destroy his people 
+Secondary Match: to destroy his people 
+Secondary Match: destroy his people I 
+Secondary Match: destroy all his people 
+
+
+Primary Match: are angry with me 
+Secondary Match: were angry with me 
+Secondary Match: angry with me and 
+
+
+Primary Match: But behold I say 
+Secondary Match: But behold I say 
+
+
+Primary Match: a life which is 
+Secondary Match: which is and which 
+Secondary Match: is and which is 
+
+
+Primary Match: Nay for if ye 
+Secondary Match: for you if ye 
+Secondary Match: if ye transgress for 
+
+
+Primary Match: you I will not 
+Secondary Match: will not suffer you 
+
+
+Primary Match: say unto you Nay 
+Secondary Match: say unto you Nay 
+
+
+Primary Match: ye shall be taken 
+Secondary Match: and ye shall be 
+Secondary Match: ye shall be visited 
+Secondary Match: ye shall utterly be 
+
+
+Primary Match: nation kindred tongue and 
+Secondary Match: other nation kindred tongue 
+Secondary Match: nation kindred tongue or 
+
+

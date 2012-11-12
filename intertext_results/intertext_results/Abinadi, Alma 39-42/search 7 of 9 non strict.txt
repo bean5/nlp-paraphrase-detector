@@ -1,0 +1,151 @@
+Searching for 7/9
+Strict matching set to: false
+
+Adding Left: have been and who are and who shall be 
+Adding Right: who have been or who are or who shall 
+ 
+Adding Left: have been and who are and who shall be 
+Adding Right: have been or who are or who shall be 
+ 
+ 
+ 
+Adding Left: on immortality and this corruption shall put on incorruption 
+Adding Right: on immortality this corruption does not put on incorruption 
+ 
+Adding Left: on immortality and this corruption shall put on incorruption 
+Adding Right: put on immortality this corruption does not put on 
+ 
+ 
+ 
+Adding Left: a testimony against you at the last day Behold 
+Adding Right: as a testimony against you at the last day 
+ 
+Adding Left: a testimony against you at the last day Behold 
+Adding Right: a testimony against you at the last day Now 
+ 
+ 
+ 
+Adding Left: this mortal shall put on immortality and this corruption 
+Adding Right: this mortal does not put on immortality this corruption 
+ 
+Adding Left: this mortal shall put on immortality and this corruption 
+Adding Right: put on immortality this corruption does not put on 
+ 
+ 
+ 
+Adding Left: those that have been and who are and who 
+Adding Right: those who have been or who are or who 
+ 
+ 
+ 
+Adding Left: that have been and who are and who shall 
+Adding Right: who have been or who are or who shall 
+ 
+ 
+ 
+Adding Left: stand as a testimony against you at the last 
+Adding Right: will stand as a testimony against you at the 
+ 
+Adding Left: stand as a testimony against you at the last 
+Adding Right: as a testimony against you at the last day 
+ 
+Adding Left: stand as a testimony against you at the last 
+Adding Right: they will stand as a testimony against you at 
+ 
+Adding Left: stand as a testimony against you at the last 
+Adding Right: stand as a testimony against you at the last 
+ 
+ 
+ 
+Adding Left: immortality and this corruption shall put on incorruption and 
+Adding Right: on immortality this corruption does not put on incorruption 
+ 
+Adding Left: immortality and this corruption shall put on incorruption and 
+Adding Right: put on immortality this corruption does not put on 
+ 
+ 
+ 
+Adding Left: as a testimony against you at the last day 
+Adding Right: as a testimony against you at the last day 
+ 
+Adding Left: as a testimony against you at the last day 
+Adding Right: a testimony against you at the last day Now 
+ 
+Adding Left: as a testimony against you at the last day 
+Adding Right: stand as a testimony against you at the last 
+ 
+ 
+ 
+Adding Left: mortal shall put on immortality and this corruption shall 
+Adding Right: this mortal does not put on immortality this corruption 
+ 
+Adding Left: mortal shall put on immortality and this corruption shall 
+Adding Right: put on immortality this corruption does not put on 
+ 
+ 
+ 
+Adding Left: resurrection of those that have been and who are 
+Adding Right: those who have been or who are or who 
+ 
+ 
+ 
+Adding Left: shall put on immortality and this corruption shall put 
+Adding Right: put on immortality this corruption does not put on 
+ 
+ 
+ 
+Adding Left: of those that have been and who are and 
+Adding Right: those who have been or who are or who 
+ 
+ 
+ 
+Adding Left: a resurrection of those that have been and who 
+Adding Right: resurrection a resurrection of all those who have been 
+ 
+ 
+ 
+Adding Left: it was expedient that there should be a law 
+Adding Right: there be a law save there was a punishment 
+ 
+Adding Left: it was expedient that there should be a law 
+Adding Right: could there be a law save there was a 
+ 
+ 
+ 
+Adding Left: put on immortality and this corruption shall put on 
+Adding Right: put on immortality this corruption does not put on 
+ 
+ 
+ 
+Adding Left: was expedient that there should be a law given 
+Adding Right: there be a law save there was a punishment 
+ 
+Adding Left: was expedient that there should be a law given 
+Adding Right: could there be a law save there was a 
+ 
+ 
+ 
+Adding Left: also stand as a testimony against you at the 
+Adding Right: will stand as a testimony against you at the 
+ 
+Adding Left: also stand as a testimony against you at the 
+Adding Right: they will stand as a testimony against you at 
+ 
+Adding Left: also stand as a testimony against you at the 
+Adding Right: stand as a testimony against you at the last 
+ 
+ 
+ 
+Adding Left: shall also stand as a testimony against you at 
+Adding Right: will stand as a testimony against you at the 
+ 
+Adding Left: shall also stand as a testimony against you at 
+Adding Right: they will stand as a testimony against you at 
+ 
+Adding Left: shall also stand as a testimony against you at 
+Adding Right: stand as a testimony against you at the last 
+ 
+ 
+ 
+Matches found: 19
+Time to complete: 0.35996666666666666 minutes.

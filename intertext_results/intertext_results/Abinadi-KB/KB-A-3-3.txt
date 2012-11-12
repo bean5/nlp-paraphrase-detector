@@ -1,0 +1,294 @@
+Primary Source: Resources/King Benjamin.txt
+Secondary Source: Resources/Abinadi.txt
+Match Case: No
+Strict Search: No
+Fuzzy Search Parameters: 3/3
+Time to complete: 0.19444999999999998 minutes.
+Left Match Count: 64
+Right Match Count: 93
+
+Primary Match: ye have not 
+Secondary Match: ye have not 
+Secondary Match: ye have not 
+Secondary Match: ye have not 
+Secondary Match: ye have not 
+Secondary Match: ye have not 
+
+
+Primary Match: can be saved 
+Secondary Match: can be saved 
+
+
+Primary Match: all these things 
+Secondary Match: all these things 
+Secondary Match: all these things 
+Secondary Match: all these things 
+
+
+Primary Match: being an enemy 
+Secondary Match: being an enemy 
+
+
+Primary Match: will not suffer 
+Secondary Match: will not suffer 
+
+
+Primary Match: you if ye 
+Secondary Match: you if ye 
+
+
+Primary Match: have fallen into 
+Secondary Match: have fallen into 
+
+
+Primary Match: you wo be 
+Secondary Match: you wo be 
+
+
+Primary Match: will not suffer 
+Secondary Match: will not suffer 
+
+
+Primary Match: for a remission 
+Secondary Match: for a remission 
+
+
+Primary Match: ought not ye 
+Secondary Match: ought ye not 
+Secondary Match: ought ye not 
+
+
+Primary Match: be saved except 
+Secondary Match: be saved except 
+
+
+Primary Match: have fallen into 
+Secondary Match: have fallen into 
+
+
+Primary Match: all these things 
+Secondary Match: all these things 
+Secondary Match: all these things 
+Secondary Match: all these things 
+
+
+Primary Match: shall be called 
+Secondary Match: shall be called 
+
+
+Primary Match: all these things 
+Secondary Match: all these things 
+Secondary Match: all these things 
+Secondary Match: all these things 
+
+
+Primary Match: concerning these things 
+Secondary Match: concerning these things 
+
+
+Primary Match: ye have not 
+Secondary Match: ye have not 
+Secondary Match: ye have not 
+Secondary Match: ye have not 
+Secondary Match: ye have not 
+Secondary Match: ye have not 
+
+
+Primary Match: at this time 
+Secondary Match: at this time 
+
+
+Primary Match: fallen into transgression 
+Secondary Match: fallen into transgression 
+
+
+Primary Match: ye may know 
+Secondary Match: ye may know 
+
+
+Primary Match: ye shall be 
+Secondary Match: ye shall be 
+Secondary Match: ye shall be 
+Secondary Match: ye shall be 
+Secondary Match: ye shall be 
+Secondary Match: ye shall be 
+Secondary Match: ye shall be 
+
+
+Primary Match: as ye have 
+Secondary Match: as ye have 
+
+
+Primary Match: at this time 
+Secondary Match: at this time 
+
+
+Primary Match: for these things 
+Secondary Match: these things for 
+
+
+Primary Match: in your hearts 
+Secondary Match: in your hearts 
+
+
+Primary Match: have not been 
+Secondary Match: have not been 
+
+
+Primary Match: as ye have 
+Secondary Match: as ye have 
+
+
+Primary Match: in your hearts 
+Secondary Match: in your hearts 
+
+
+Primary Match: not Ye have 
+Secondary Match: Ye have not 
+
+
+Primary Match: at this time 
+Secondary Match: at this time 
+
+
+Primary Match: ye should keep 
+Secondary Match: ye should keep 
+
+
+Primary Match: ye do not 
+Secondary Match: do ye not 
+
+
+Primary Match: God For behold 
+Secondary Match: God For behold 
+
+
+Primary Match: ye can be 
+Secondary Match: ye can be 
+
+
+Primary Match: have told you 
+Secondary Match: have told you 
+
+
+Primary Match: if ye know 
+Secondary Match: know if ye 
+
+
+Primary Match: this shall be 
+Secondary Match: this shall be 
+
+
+Primary Match: rebellion against God 
+Secondary Match: rebellion against God 
+
+
+Primary Match: all these things 
+Secondary Match: all these things 
+Secondary Match: all these things 
+Secondary Match: all these things 
+
+
+Primary Match: ye do not 
+Secondary Match: do ye not 
+
+
+Primary Match: in your hearts 
+Secondary Match: in your hearts 
+
+
+Primary Match: ye shall be 
+Secondary Match: ye shall be 
+Secondary Match: ye shall be 
+Secondary Match: ye shall be 
+Secondary Match: ye shall be 
+Secondary Match: ye shall be 
+Secondary Match: ye shall be 
+
+
+Primary Match: all these things 
+Secondary Match: all these things 
+Secondary Match: all these things 
+Secondary Match: all these things 
+
+
+Primary Match: God who has 
+Secondary Match: God who has 
+
+
+Primary Match: should be a 
+Secondary Match: should be a 
+
+
+Primary Match: those who are 
+Secondary Match: are those who 
+
+
+Primary Match: God who has 
+Secondary Match: God who has 
+
+
+Primary Match: you if ye 
+Secondary Match: you if ye 
+
+
+Primary Match: take upon him 
+Secondary Match: take upon him 
+
+
+Primary Match: shall be called 
+Secondary Match: shall be called 
+
+
+Primary Match: him who has 
+Secondary Match: him who has 
+
+
+Primary Match: at this time 
+Secondary Match: at this time 
+
+
+Primary Match: eternal life through 
+Secondary Match: eternal life through 
+
+
+Primary Match: But this much 
+Secondary Match: But this much 
+
+
+Primary Match: concerning these things 
+Secondary Match: concerning these things 
+
+
+Primary Match: there is a 
+Secondary Match: there is a 
+
+
+Primary Match: shall be even 
+Secondary Match: shall be even 
+
+
+Primary Match: was prepared from 
+Secondary Match: was prepared from 
+
+
+Primary Match: shall be called 
+Secondary Match: shall be called 
+
+
+Primary Match: which was prepared 
+Secondary Match: which was prepared 
+
+
+Primary Match: dwell with God 
+Secondary Match: dwell with God 
+
+
+Primary Match: ye should keep 
+Secondary Match: ye should keep 
+
+
+Primary Match: God For behold 
+Secondary Match: God For behold 
+
+

@@ -1,0 +1,246 @@
+Primary Source: corpora/Abinadi.txt
+Secondary Source: corpora/Alma 2.txt
+Match Case: No
+Strict Search: No
+Fuzzy Search Parameters: 5/6
+Time to complete: 1.2214666666666667 minutes.
+Left Match Count: 51
+Right Match Count: 84
+
+Primary Match: could have been no resurrection But 
+Secondary Match: could have been no resurrection of 
+Secondary Match: there could have been no resurrection 
+
+
+Primary Match: against you at the last day 
+Secondary Match: against you at the last day 
+
+
+Primary Match: come there could have been no 
+Secondary Match: there could have been no resurrection 
+Secondary Match: world there could have been no 
+
+
+Primary Match: stand as a testimony against you 
+Secondary Match: as a testimony against you at 
+Secondary Match: stand as a testimony against you 
+Secondary Match: will stand as a testimony against 
+
+
+Primary Match: as a testimony against you at 
+Secondary Match: as a testimony against you at 
+Secondary Match: a testimony against you at the 
+Secondary Match: stand as a testimony against you 
+
+
+Primary Match: ye set your hearts upon riches 
+Secondary Match: set your hearts upon riches and 
+Secondary Match: not set your hearts upon riches 
+
+
+Primary Match: have been and who are and 
+Secondary Match: who have been or who are 
+
+
+Primary Match: that there should be a law 
+Secondary Match: there be a law save there 
+
+
+Primary Match: commandments of God ye shall be 
+Secondary Match: commandments of God ye shall be 
+Secondary Match: commandments of God ye shall be 
+
+
+Primary Match: there should be a law given 
+Secondary Match: there be a law save there 
+
+
+Primary Match: a first resurrection yea even a 
+Secondary Match: a first resurrection a resurrection of 
+Secondary Match: is a first resurrection a resurrection 
+
+
+Primary Match: say unto you Nay for if 
+Secondary Match: say unto you Nay for if 
+
+
+Primary Match: prophets who have prophesied ever since 
+Secondary Match: prophets who have been ever since 
+
+
+Primary Match: put on immortality and this corruption 
+Secondary Match: not put on immortality this corruption 
+Secondary Match: put on immortality this corruption does 
+
+
+Primary Match: every nation kindred tongue and people 
+Secondary Match: every nation kindred tongue and people 
+
+
+Primary Match: there was a law given them 
+Secondary Match: a law save there was a 
+
+
+Primary Match: are and who shall be even 
+Secondary Match: who are or who shall be 
+
+
+Primary Match: there is a resurrection therefore the 
+Secondary Match: there is a first resurrection a 
+Secondary Match: is a first resurrection a resurrection 
+
+
+Primary Match: knowing evil from good subjecting themselves 
+Secondary Match: knowing good from evil placing themselves 
+
+
+Primary Match: have been no resurrection But there 
+Secondary Match: there could have been no resurrection 
+
+
+Primary Match: no sting there could have been 
+Secondary Match: there could have been no resurrection 
+Secondary Match: world there could have been no 
+
+
+Primary Match: even a first resurrection yea even 
+Secondary Match: a first resurrection a resurrection of 
+Secondary Match: is a first resurrection a resurrection 
+
+
+Primary Match: as a testimony against you And 
+Secondary Match: as a testimony against you at 
+Secondary Match: stand as a testimony against you 
+
+
+Primary Match: there could have been no redemption 
+Secondary Match: there could have been no resurrection 
+Secondary Match: world there could have been no 
+
+
+Primary Match: no resurrection But there is a 
+Secondary Match: there is a first resurrection a 
+Secondary Match: is a first resurrection a resurrection 
+
+
+Primary Match: Therefore there was a law given 
+Secondary Match: a law save there was a 
+
+
+Primary Match: a testimony against you at the 
+Secondary Match: as a testimony against you at 
+Secondary Match: a testimony against you at the 
+
+
+Primary Match: there could have been no resurrection 
+Secondary Match: could have been no resurrection of 
+Secondary Match: there could have been no resurrection 
+Secondary Match: world there could have been no 
+
+
+Primary Match: shall stand as a testimony against 
+Secondary Match: shall stand as a witness against 
+Secondary Match: stand as a testimony against you 
+Secondary Match: will stand as a testimony against 
+
+
+Primary Match: for a remission of their sins 
+Secondary Match: for a remission of their sins 
+
+
+Primary Match: a resurrection even a first resurrection 
+Secondary Match: a first resurrection a resurrection of 
+Secondary Match: is a first resurrection a resurrection 
+
+
+Primary Match: stand as a testimony against you 
+Secondary Match: as a testimony against you at 
+Secondary Match: stand as a testimony against you 
+Secondary Match: will stand as a testimony against 
+
+
+Primary Match: For if ye understand these things 
+Secondary Match: if ye do these things ye 
+
+
+Primary Match: every nation kindred tongue and people 
+Secondary Match: every nation kindred tongue and people 
+
+
+Primary Match: God Therefore there was a law 
+Secondary Match: a law save there was a 
+
+
+Primary Match: who are and who shall be 
+Secondary Match: who are or who shall be 
+
+
+Primary Match: sting there could have been no 
+Secondary Match: there could have been no resurrection 
+Secondary Match: world there could have been no 
+
+
+Primary Match: also stand as a testimony against 
+Secondary Match: stand as a testimony against you 
+Secondary Match: will stand as a testimony against 
+
+
+Primary Match: resurrection But there is a resurrection 
+Secondary Match: there is a first resurrection a 
+Secondary Match: is a first resurrection a resurrection 
+
+
+Primary Match: that have been and who are 
+Secondary Match: who have been or who are 
+
+
+Primary Match: first resurrection yea even a resurrection 
+Secondary Match: a first resurrection a resurrection of 
+Secondary Match: is a first resurrection a resurrection 
+
+
+Primary Match: But there is a resurrection therefore 
+Secondary Match: there is a first resurrection a 
+Secondary Match: is a first resurrection a resurrection 
+
+
+Primary Match: set your hearts upon riches Why 
+Secondary Match: set your hearts upon riches and 
+Secondary Match: not set your hearts upon riches 
+
+
+Primary Match: those that have been and who 
+Secondary Match: those who have been or who 
+
+
+Primary Match: testimony against you at the last 
+Secondary Match: testimony against you at the last 
+
+
+Primary Match: cometh a resurrection even a first 
+Secondary Match: a first resurrection a resurrection of 
+Secondary Match: is a first resurrection a resurrection 
+
+
+Primary Match: a part in the first resurrection 
+Secondary Match: a first resurrection a resurrection of 
+Secondary Match: is a first resurrection a resurrection 
+
+
+Primary Match: resurrection even a first resurrection yea 
+Secondary Match: a first resurrection a resurrection of 
+Secondary Match: is a first resurrection a resurrection 
+
+
+Primary Match: if ye understand these things ye 
+Secondary Match: if ye do these things ye 
+
+
+Primary Match: good or whether they be evil 
+Secondary Match: whether they be good or evil 
+
+
+Primary Match: is a resurrection therefore the grave 
+Secondary Match: is a first resurrection a resurrection 
+
+

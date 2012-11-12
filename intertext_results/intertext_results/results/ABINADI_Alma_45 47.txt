@@ -1,0 +1,191 @@
+Primary Source: Resources/ABINADI.txt
+Secondary Source: Resources/Alma 45.txt
+Match Case: No
+Strict Search: No
+Fuzzy Search Parameters: 4/7
+Time to complete: 0.03336666666666666 minutes.
+Left Match Count: 35
+Right Match Count: 77
+
+Primary Match: this shall be as a type and 
+Secondary Match: it be a few who shall be 
+Secondary Match: be a few who shall be called 
+
+
+Primary Match: Christ for so shall he be called 
+Secondary Match: be a few who shall be called 
+Secondary Match: have said so shall it be for 
+Secondary Match: said so shall it be for this 
+Secondary Match: so shall it be for this is 
+
+
+Primary Match: me after this shall be as a 
+Secondary Match: it be a few who shall be 
+Secondary Match: be a few who shall be called 
+
+
+Primary Match: shall be as a type and a 
+Secondary Match: it be a few who shall be 
+Secondary Match: be a few who shall be called 
+
+
+Primary Match: and who are and who shall be 
+Secondary Match: it be a few who shall be 
+Secondary Match: be a few who shall be called 
+
+
+Primary Match: ye And who shall be his seed 
+Secondary Match: it be a few who shall be 
+Secondary Match: be a few who shall be called 
+
+
+Primary Match: who shall be even until the resurrection 
+Secondary Match: shall not be made known even until 
+Secondary Match: it be a few who shall be 
+Secondary Match: be a few who shall be called 
+
+
+Primary Match: who are and who shall be even 
+Secondary Match: it be a few who shall be 
+Secondary Match: be a few who shall be called 
+
+
+Primary Match: dwelleth in flesh he shall be called 
+Secondary Match: be a few who shall be called 
+
+
+Primary Match: And who shall be his seed Behold 
+Secondary Match: it be a few who shall be 
+Secondary Match: be a few who shall be called 
+
+
+Primary Match: of Christ for so shall he be 
+Secondary Match: have said so shall it be for 
+Secondary Match: said so shall it be for this 
+Secondary Match: so shall it be for this is 
+
+
+Primary Match: me shall be a type of things 
+Secondary Match: it be a few who shall be 
+Secondary Match: be a few who shall be called 
+
+
+Primary Match: for so shall he be called And 
+Secondary Match: be a few who shall be called 
+Secondary Match: have said so shall it be for 
+Secondary Match: said so shall it be for this 
+Secondary Match: so shall it be for this is 
+
+
+Primary Match: he shall be called the Son of 
+Secondary Match: be a few who shall be called 
+
+
+Primary Match: are and who shall be even until 
+Secondary Match: shall not be made known even until 
+Secondary Match: it be a few who shall be 
+Secondary Match: be a few who shall be called 
+
+
+Primary Match: shall be called the Son of God 
+Secondary Match: be a few who shall be called 
+
+
+Primary Match: in flesh he shall be called the 
+Secondary Match: be a few who shall be called 
+
+
+Primary Match: shall be even until the resurrection of 
+Secondary Match: shall not be made known even until 
+
+
+Primary Match: unto me shall be a type of 
+Secondary Match: it be a few who shall be 
+Secondary Match: be a few who shall be called 
+
+
+Primary Match: do unto me shall be a type 
+Secondary Match: it be a few who shall be 
+Secondary Match: be a few who shall be called 
+
+
+Primary Match: and who shall be even until the 
+Secondary Match: shall not be made known even until 
+Secondary Match: it be a few who shall be 
+Secondary Match: be a few who shall be called 
+
+
+Primary Match: when it shall no more be expedient 
+Secondary Match: people of Nephi shall no more be 
+Secondary Match: of Nephi shall no more be numbered 
+Secondary Match: Nephi shall no more be numbered among 
+Secondary Match: shall no more be numbered among the 
+
+
+Primary Match: shall he be called And now the 
+Secondary Match: be a few who shall be called 
+
+
+Primary Match: come when it shall no more be 
+Secondary Match: people of Nephi shall no more be 
+Secondary Match: of Nephi shall no more be numbered 
+Secondary Match: Nephi shall no more be numbered among 
+Secondary Match: shall no more be numbered among the 
+
+
+Primary Match: who shall be his seed Behold I 
+Secondary Match: it be a few who shall be 
+Secondary Match: be a few who shall be called 
+
+
+Primary Match: it shall no more be expedient to 
+Secondary Match: people of Nephi shall no more be 
+Secondary Match: of Nephi shall no more be numbered 
+Secondary Match: Nephi shall no more be numbered among 
+Secondary Match: shall no more be numbered among the 
+
+
+Primary Match: what say ye And who shall be 
+Secondary Match: it be a few who shall be 
+Secondary Match: be a few who shall be called 
+
+
+Primary Match: shall do unto me shall be a 
+Secondary Match: it be a few who shall be 
+Secondary Match: be a few who shall be called 
+
+
+Primary Match: shall no more be expedient to keep 
+Secondary Match: people of Nephi shall no more be 
+Secondary Match: of Nephi shall no more be numbered 
+Secondary Match: Nephi shall no more be numbered among 
+Secondary Match: shall no more be numbered among the 
+
+
+Primary Match: so shall he be called And now 
+Secondary Match: be a few who shall be called 
+
+
+Primary Match: keep the commandments of God ye shall 
+Secondary Match: shall come Will ye keep my commandments 
+
+
+Primary Match: shall be a type of things to 
+Secondary Match: it be a few who shall be 
+Secondary Match: be a few who shall be called 
+
+
+Primary Match: after this shall be as a type 
+Secondary Match: it be a few who shall be 
+Secondary Match: be a few who shall be called 
+
+
+Primary Match: say ye And who shall be his 
+Secondary Match: it be a few who shall be 
+Secondary Match: be a few who shall be called 
+
+
+Primary Match: flesh he shall be called the Son 
+Secondary Match: be a few who shall be called 
+
+

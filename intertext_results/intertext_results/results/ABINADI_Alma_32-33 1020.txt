@@ -1,0 +1,248 @@
+Primary Source: Resources/ABINADI.txt
+Secondary Source: Resources/Alma 32-33.txt
+Match Case: No
+Strict Search: No
+Fuzzy Search Parameters: 10/20
+Time to complete: 0.5458333333333333 minutes.
+Left Match Count: 37
+Right Match Count: 128
+
+Primary Match: if ye understand these things ye have not taught them therefore ye have perverted the ways of the Lord Ye 
+Secondary Match: not to have a perfect knowledge of things therefore if ye have faith ye hope for things which are not 
+Secondary Match: scriptures if ye suppose that they have taught you this ye do not understand them Do ye remember to have 
+Secondary Match: if ye suppose that they have taught you this ye do not understand them Do ye remember to have read 
+
+
+Primary Match: for perverting the ways of the Lord For if ye understand these things ye have not taught them therefore ye 
+Secondary Match: faith faith is not to have a perfect knowledge of things therefore if ye have faith ye hope for things 
+Secondary Match: faith is not to have a perfect knowledge of things therefore if ye have faith ye hope for things which 
+Secondary Match: is not to have a perfect knowledge of things therefore if ye have faith ye hope for things which are 
+Secondary Match: not to have a perfect knowledge of things therefore if ye have faith ye hope for things which are not 
+Secondary Match: to have a perfect knowledge of things therefore if ye have faith ye hope for things which are not seen 
+Secondary Match: have a perfect knowledge of things therefore if ye have faith ye hope for things which are not seen which 
+Secondary Match: scriptures if ye suppose that they have taught you this ye do not understand them Do ye remember to have 
+Secondary Match: if ye suppose that they have taught you this ye do not understand them Do ye remember to have read 
+
+
+Primary Match: For if ye understand these things ye have not taught them therefore ye have perverted the ways of the Lord 
+Secondary Match: not to have a perfect knowledge of things therefore if ye have faith ye hope for things which are not 
+Secondary Match: scriptures if ye suppose that they have taught you this ye do not understand them Do ye remember to have 
+Secondary Match: if ye suppose that they have taught you this ye do not understand them Do ye remember to have read 
+
+
+Primary Match: have ye taught this people that they should do all these things I say unto you Nay ye have not 
+Secondary Match: scriptures if ye suppose that they have taught you this ye do not understand them Do ye remember to have 
+Secondary Match: if ye suppose that they have taught you this ye do not understand them Do ye remember to have read 
+Secondary Match: ye suppose that they have taught you this ye do not understand them Do ye remember to have read what 
+
+
+Primary Match: on every hand and shall be driven and scattered to and fro even as a wild flock is driven by 
+Secondary Match: that it is on the one hand even as it is on the other and it shall be unto every 
+Secondary Match: it is on the one hand even as it is on the other and it shall be unto every man 
+Secondary Match: is on the one hand even as it is on the other and it shall be unto every man according 
+
+
+Primary Match: all these things I say unto you Nay ye have not Touch me not for God shall smite you if 
+Secondary Match: not to have a perfect knowledge of things therefore if ye have faith ye hope for things which are not 
+
+
+Primary Match: this I say unto you Nay ye have not And have ye taught this people that they should do all 
+Secondary Match: scriptures if ye suppose that they have taught you this ye do not understand them Do ye remember to have 
+Secondary Match: if ye suppose that they have taught you this ye do not understand them Do ye remember to have read 
+Secondary Match: ye suppose that they have taught you this ye do not understand them Do ye remember to have read what 
+
+
+Primary Match: I say unto you Nay ye have not And have ye taught this people that they should do all these 
+Secondary Match: scriptures if ye suppose that they have taught you this ye do not understand them Do ye remember to have 
+Secondary Match: if ye suppose that they have taught you this ye do not understand them Do ye remember to have read 
+Secondary Match: ye suppose that they have taught you this ye do not understand them Do ye remember to have read what 
+
+
+Primary Match: Lord For if ye understand these things ye have not taught them therefore ye have perverted the ways of the 
+Secondary Match: not to have a perfect knowledge of things therefore if ye have faith ye hope for things which are not 
+Secondary Match: scriptures if ye suppose that they have taught you this ye do not understand them Do ye remember to have 
+Secondary Match: if ye suppose that they have taught you this ye do not understand them Do ye remember to have read 
+
+
+Primary Match: say unto you Nay ye have not And have ye taught this people that they should do all these things 
+Secondary Match: scriptures if ye suppose that they have taught you this ye do not understand them Do ye remember to have 
+Secondary Match: if ye suppose that they have taught you this ye do not understand them Do ye remember to have read 
+Secondary Match: ye suppose that they have taught you this ye do not understand them Do ye remember to have read what 
+
+
+Primary Match: unto you Nay ye have not And have ye taught this people that they should do all these things I 
+Secondary Match: scriptures if ye suppose that they have taught you this ye do not understand them Do ye remember to have 
+Secondary Match: if ye suppose that they have taught you this ye do not understand them Do ye remember to have read 
+Secondary Match: ye suppose that they have taught you this ye do not understand them Do ye remember to have read what 
+
+
+Primary Match: wo be unto you for perverting the ways of the Lord For if ye understand these things ye have not 
+Secondary Match: not to have a perfect knowledge of things therefore if ye have faith ye hope for things which are not 
+
+
+Primary Match: you Nay ye have not And have ye taught this people that they should do all these things I say 
+Secondary Match: scriptures if ye suppose that they have taught you this ye do not understand them Do ye remember to have 
+Secondary Match: if ye suppose that they have taught you this ye do not understand them Do ye remember to have read 
+Secondary Match: ye suppose that they have taught you this ye do not understand them Do ye remember to have read what 
+
+
+Primary Match: be unto you for perverting the ways of the Lord For if ye understand these things ye have not taught 
+Secondary Match: not to have a perfect knowledge of things therefore if ye have faith ye hope for things which are not 
+Secondary Match: scriptures if ye suppose that they have taught you this ye do not understand them Do ye remember to have 
+Secondary Match: if ye suppose that they have taught you this ye do not understand them Do ye remember to have read 
+
+
+Primary Match: taught this people that they should do all these things I say unto you Nay ye have not Touch me 
+Secondary Match: scriptures if ye suppose that they have taught you this ye do not understand them Do ye remember to have 
+Secondary Match: if ye suppose that they have taught you this ye do not understand them Do ye remember to have read 
+Secondary Match: ye suppose that they have taught you this ye do not understand them Do ye remember to have read what 
+
+
+Primary Match: ways of the Lord For if ye understand these things ye have not taught them therefore ye have perverted the 
+Secondary Match: not to have a perfect knowledge of things therefore if ye have faith ye hope for things which are not 
+Secondary Match: scriptures if ye suppose that they have taught you this ye do not understand them Do ye remember to have 
+Secondary Match: if ye suppose that they have taught you this ye do not understand them Do ye remember to have read 
+
+
+Primary Match: I say unto you Nay ye have not Touch me not for God shall smite you if ye lay your 
+Secondary Match: is your knowledge perfect Behold I say unto you Nay neither must ye lay aside your faith for ye have 
+Secondary Match: your knowledge perfect Behold I say unto you Nay neither must ye lay aside your faith for ye have only 
+Secondary Match: perfect Behold I say unto you Nay neither must ye lay aside your faith for ye have only exercised your 
+Secondary Match: Behold I say unto you Nay neither must ye lay aside your faith for ye have only exercised your faith 
+Secondary Match: I say unto you Nay neither must ye lay aside your faith for ye have only exercised your faith to 
+Secondary Match: say unto you Nay neither must ye lay aside your faith for ye have only exercised your faith to plant 
+
+
+Primary Match: of the Lord For if ye understand these things ye have not taught them therefore ye have perverted the ways 
+Secondary Match: not to have a perfect knowledge of things therefore if ye have faith ye hope for things which are not 
+Secondary Match: scriptures if ye suppose that they have taught you this ye do not understand them Do ye remember to have 
+Secondary Match: if ye suppose that they have taught you this ye do not understand them Do ye remember to have read 
+
+
+Primary Match: unto you for perverting the ways of the Lord For if ye understand these things ye have not taught them 
+Secondary Match: not to have a perfect knowledge of things therefore if ye have faith ye hope for things which are not 
+Secondary Match: ye ought to search the scriptures if ye suppose that they have taught you this ye do not understand them 
+Secondary Match: to search the scriptures if ye suppose that they have taught you this ye do not understand them Do ye 
+Secondary Match: search the scriptures if ye suppose that they have taught you this ye do not understand them Do ye remember 
+Secondary Match: the scriptures if ye suppose that they have taught you this ye do not understand them Do ye remember to 
+Secondary Match: scriptures if ye suppose that they have taught you this ye do not understand them Do ye remember to have 
+Secondary Match: if ye suppose that they have taught you this ye do not understand them Do ye remember to have read 
+Secondary Match: ye suppose that they have taught you this ye do not understand them Do ye remember to have read what 
+
+
+Primary Match: things I say unto you Nay ye have not Touch me not for God shall smite you if ye lay 
+Secondary Match: not to have a perfect knowledge of things therefore if ye have faith ye hope for things which are not 
+
+
+Primary Match: perverting the ways of the Lord For if ye understand these things ye have not taught them therefore ye have 
+Secondary Match: not to have a perfect knowledge of things therefore if ye have faith ye hope for things which are not 
+Secondary Match: scriptures if ye suppose that they have taught you this ye do not understand them Do ye remember to have 
+Secondary Match: if ye suppose that they have taught you this ye do not understand them Do ye remember to have read 
+
+
+Primary Match: have not And have ye taught this people that they should do all these things I say unto you Nay 
+Secondary Match: scriptures if ye suppose that they have taught you this ye do not understand them Do ye remember to have 
+Secondary Match: if ye suppose that they have taught you this ye do not understand them Do ye remember to have read 
+Secondary Match: ye suppose that they have taught you this ye do not understand them Do ye remember to have read what 
+
+
+Primary Match: say unto you Nay ye have not Touch me not for God shall smite you if ye lay your hands 
+Secondary Match: is your knowledge perfect Behold I say unto you Nay neither must ye lay aside your faith for ye have 
+Secondary Match: your knowledge perfect Behold I say unto you Nay neither must ye lay aside your faith for ye have only 
+Secondary Match: perfect Behold I say unto you Nay neither must ye lay aside your faith for ye have only exercised your 
+Secondary Match: Behold I say unto you Nay neither must ye lay aside your faith for ye have only exercised your faith 
+Secondary Match: I say unto you Nay neither must ye lay aside your faith for ye have only exercised your faith to 
+Secondary Match: say unto you Nay neither must ye lay aside your faith for ye have only exercised your faith to plant 
+
+
+Primary Match: you for perverting the ways of the Lord For if ye understand these things ye have not taught them therefore 
+Secondary Match: faith faith is not to have a perfect knowledge of things therefore if ye have faith ye hope for things 
+Secondary Match: faith is not to have a perfect knowledge of things therefore if ye have faith ye hope for things which 
+Secondary Match: is not to have a perfect knowledge of things therefore if ye have faith ye hope for things which are 
+Secondary Match: not to have a perfect knowledge of things therefore if ye have faith ye hope for things which are not 
+Secondary Match: to have a perfect knowledge of things therefore if ye have faith ye hope for things which are not seen 
+Secondary Match: have a perfect knowledge of things therefore if ye have faith ye hope for things which are not seen which 
+Secondary Match: ye ought to search the scriptures if ye suppose that they have taught you this ye do not understand them 
+Secondary Match: to search the scriptures if ye suppose that they have taught you this ye do not understand them Do ye 
+Secondary Match: search the scriptures if ye suppose that they have taught you this ye do not understand them Do ye remember 
+Secondary Match: the scriptures if ye suppose that they have taught you this ye do not understand them Do ye remember to 
+Secondary Match: scriptures if ye suppose that they have taught you this ye do not understand them Do ye remember to have 
+Secondary Match: if ye suppose that they have taught you this ye do not understand them Do ye remember to have read 
+Secondary Match: ye suppose that they have taught you this ye do not understand them Do ye remember to have read what 
+
+
+Primary Match: the Lord For if ye understand these things ye have not taught them therefore ye have perverted the ways of 
+Secondary Match: not to have a perfect knowledge of things therefore if ye have faith ye hope for things which are not 
+Secondary Match: scriptures if ye suppose that they have taught you this ye do not understand them Do ye remember to have 
+Secondary Match: if ye suppose that they have taught you this ye do not understand them Do ye remember to have read 
+
+
+Primary Match: these things I say unto you Nay ye have not Touch me not for God shall smite you if ye 
+Secondary Match: not to have a perfect knowledge of things therefore if ye have faith ye hope for things which are not 
+
+
+Primary Match: all this I say unto you Nay ye have not And have ye taught this people that they should do 
+Secondary Match: scriptures if ye suppose that they have taught you this ye do not understand them Do ye remember to have 
+Secondary Match: if ye suppose that they have taught you this ye do not understand them Do ye remember to have read 
+Secondary Match: ye suppose that they have taught you this ye do not understand them Do ye remember to have read what 
+
+
+Primary Match: ye taught this people that they should do all these things I say unto you Nay ye have not Touch 
+Secondary Match: scriptures if ye suppose that they have taught you this ye do not understand them Do ye remember to have 
+Secondary Match: if ye suppose that they have taught you this ye do not understand them Do ye remember to have read 
+Secondary Match: ye suppose that they have taught you this ye do not understand them Do ye remember to have read what 
+
+
+Primary Match: the ways of the Lord For if ye understand these things ye have not taught them therefore ye have perverted 
+Secondary Match: not to have a perfect knowledge of things therefore if ye have faith ye hope for things which are not 
+Secondary Match: scriptures if ye suppose that they have taught you this ye do not understand them Do ye remember to have 
+Secondary Match: if ye suppose that they have taught you this ye do not understand them Do ye remember to have read 
+
+
+Primary Match: smitten on every hand and shall be driven and scattered to and fro even as a wild flock is driven 
+Secondary Match: that it is on the one hand even as it is on the other and it shall be unto every 
+Secondary Match: it is on the one hand even as it is on the other and it shall be unto every man 
+Secondary Match: is on the one hand even as it is on the other and it shall be unto every man according 
+
+
+Primary Match: ye have not And have ye taught this people that they should do all these things I say unto you 
+Secondary Match: scriptures if ye suppose that they have taught you this ye do not understand them Do ye remember to have 
+Secondary Match: if ye suppose that they have taught you this ye do not understand them Do ye remember to have read 
+Secondary Match: ye suppose that they have taught you this ye do not understand them Do ye remember to have read what 
+
+
+Primary Match: not recall the words which I have spoken unto you concerning this people for they are true and that ye 
+Secondary Match: perfect knowledge of things therefore if ye have faith ye hope for things which are not seen which are true 
+Secondary Match: knowledge of things therefore if ye have faith ye hope for things which are not seen which are true And 
+Secondary Match: of things therefore if ye have faith ye hope for things which are not seen which are true And now 
+Secondary Match: things therefore if ye have faith ye hope for things which are not seen which are true And now behold 
+Secondary Match: therefore if ye have faith ye hope for things which are not seen which are true And now behold I 
+Secondary Match: if ye have faith ye hope for things which are not seen which are true And now behold I say 
+Secondary Match: ye have faith ye hope for things which are not seen which are true And now behold I say unto 
+Secondary Match: have faith ye hope for things which are not seen which are true And now behold I say unto you 
+
+
+Primary Match: if ye teach the law of Moses also teach that it is a shadow of those things which are to 
+Secondary Match: a perfect knowledge of things therefore if ye have faith ye hope for things which are not seen which are 
+
+
+Primary Match: be smitten on every hand and shall be driven and scattered to and fro even as a wild flock is 
+Secondary Match: that it is on the one hand even as it is on the other and it shall be unto every 
+Secondary Match: it is on the one hand even as it is on the other and it shall be unto every man 
+Secondary Match: is on the one hand even as it is on the other and it shall be unto every man according 
+
+
+Primary Match: things for to keep these commandments I say unto you Nay for if ye had the Lord would not have 
+Secondary Match: not to have a perfect knowledge of things therefore if ye have faith ye hope for things which are not 
+
+
+Primary Match: Therefore if ye teach the law of Moses also teach that it is a shadow of those things which are 
+Secondary Match: a perfect knowledge of things therefore if ye have faith ye hope for things which are not seen which are 
+
+
+Primary Match: not And have ye taught this people that they should do all these things I say unto you Nay ye 
+Secondary Match: scriptures if ye suppose that they have taught you this ye do not understand them Do ye remember to have 
+Secondary Match: if ye suppose that they have taught you this ye do not understand them Do ye remember to have read 
+Secondary Match: ye suppose that they have taught you this ye do not understand them Do ye remember to have read what 
+
+

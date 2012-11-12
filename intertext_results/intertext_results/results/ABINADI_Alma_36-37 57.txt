@@ -1,0 +1,114 @@
+Primary Source: Resources/ABINADI.txt
+Secondary Source: Resources/Alma 36-37.txt
+Match Case: No
+Strict Search: No
+Fuzzy Search Parameters: 5/7
+Time to complete: 0.31745 minutes.
+Left Match Count: 22
+Right Match Count: 39
+
+Primary Match: ye shall do unto me shall be 
+Secondary Match: ye do these things ye shall be 
+
+
+Primary Match: do all these things for to keep 
+Secondary Match: for these things that these records do 
+
+
+Primary Match: For if ye understand these things ye 
+Secondary Match: and if ye do these things ye 
+Secondary Match: if ye do these things ye shall 
+
+
+Primary Match: every nation kindred tongue and people shall 
+Secondary Match: unto every nation kindred tongue and people 
+Secondary Match: every nation kindred tongue and people that 
+
+
+Primary Match: commandments of God ye shall be saved 
+Secondary Match: the commandments of God ye shall be 
+Secondary Match: commandments of God ye shall be cut 
+
+
+Primary Match: if ye keep the commandments which the 
+Secondary Match: if ye keep not his commandments ye 
+
+
+Primary Match: the commandments of God ye shall be 
+Secondary Match: the commandments of God ye shall be 
+Secondary Match: commandments of God ye shall be cut 
+
+
+Primary Match: to every nation kindred tongue and people 
+Secondary Match: unto every nation kindred tongue and people 
+Secondary Match: every nation kindred tongue and people that 
+
+
+Primary Match: words which I have spoken unto you 
+Secondary Match: words which I have spoken unto you 
+
+
+Primary Match: say unto you were it not for 
+Secondary Match: say unto you were it not for 
+
+
+Primary Match: saved yea if ye keep the commandments 
+Secondary Match: if ye keep not his commandments ye 
+
+
+Primary Match: yea if ye keep the commandments which 
+Secondary Match: if ye keep not his commandments ye 
+
+
+Primary Match: if ye understand these things ye have 
+Secondary Match: and if ye do these things ye 
+Secondary Match: if ye do these things ye shall 
+
+
+Primary Match: to do all these things for to 
+Secondary Match: for these things that these records do 
+
+
+Primary Match: I know if ye keep the commandments 
+Secondary Match: if ye keep not his commandments ye 
+
+
+Primary Match: every nation kindred tongue and people Yea 
+Secondary Match: unto every nation kindred tongue and people 
+Secondary Match: every nation kindred tongue and people that 
+
+
+Primary Match: know if ye keep the commandments of 
+Secondary Match: if ye keep not his commandments ye 
+
+
+Primary Match: keep the commandments of God ye shall 
+Secondary Match: ye shall keep the commandments of God 
+Secondary Match: shall keep the commandments of God ye 
+Secondary Match: keep the commandments of God ye shall 
+Secondary Match: ye shall keep the commandments of God 
+Secondary Match: shall keep the commandments of God ye 
+Secondary Match: keep the commandments of God ye shall 
+Secondary Match: keep the commandments of God ye shall 
+Secondary Match: ye keep not his commandments ye shall 
+
+
+Primary Match: Lord For if ye understand these things 
+Secondary Match: and if ye do these things ye 
+Secondary Match: if ye do these things ye shall 
+
+
+Primary Match: if ye keep the commandments of God 
+Secondary Match: if ye keep not his commandments ye 
+Secondary Match: if ye keep the commandments of God 
+
+
+Primary Match: observe to do all these things for 
+Secondary Match: for these things that these records do 
+
+
+Primary Match: when every nation kindred tongue and people 
+Secondary Match: unto every nation kindred tongue and people 
+Secondary Match: every nation kindred tongue and people that 
+
+

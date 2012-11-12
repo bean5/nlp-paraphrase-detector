@@ -1,0 +1,466 @@
+Primary Source: Resources/ABINADI.txt
+Secondary Source: Resources/Alma 36-37.txt
+Match Case: No
+Strict Search: No
+Fuzzy Search Parameters: 4/6
+Time to complete: 0.25848333333333334 minutes.
+Left Match Count: 85
+Right Match Count: 202
+
+Primary Match: these things ye have not taught 
+Secondary Match: should not have known these things 
+Secondary Match: not have known these things but 
+Secondary Match: not for these things that these 
+Secondary Match: if ye do these things ye 
+Secondary Match: ye do these things ye shall 
+
+
+Primary Match: you were it not for this 
+Secondary Match: unto you were it not for 
+Secondary Match: you were it not for these 
+
+
+Primary Match: if ye keep the commandments which 
+Secondary Match: if ye keep not his commandments 
+Secondary Match: ye keep not his commandments ye 
+Secondary Match: But if ye keep the commandments 
+Secondary Match: if ye keep the commandments of 
+
+
+Primary Match: were it not for this all 
+Secondary Match: son this is not all for 
+Secondary Match: this is not all for ye 
+
+
+Primary Match: soul What ye shall do unto 
+Secondary Match: ye do these things ye shall 
+
+
+Primary Match: unto you this is not all 
+Secondary Match: my son this is not all 
+Secondary Match: son this is not all for 
+Secondary Match: this is not all for ye 
+
+
+Primary Match: the words which I have spoken 
+Secondary Match: the words which I have spoken 
+Secondary Match: words which I have spoken unto 
+
+
+Primary Match: they should do all these things 
+Secondary Match: these things that these records do 
+
+
+Primary Match: understand these things ye have not 
+Secondary Match: should not have known these things 
+Secondary Match: not have known these things but 
+Secondary Match: not for these things that these 
+Secondary Match: if ye do these things ye 
+Secondary Match: ye do these things ye shall 
+Secondary Match: ye should understand that these things 
+Secondary Match: understand that these things are not 
+
+
+Primary Match: things which are to come And 
+Secondary Match: these things which are sacred which 
+Secondary Match: things which are sacred which he 
+
+
+Primary Match: shadow of those things which are 
+Secondary Match: these things which are sacred which 
+Secondary Match: things which are sacred which he 
+
+
+Primary Match: Moses why do ye not keep 
+Secondary Match: ye keep not his commandments ye 
+
+
+Primary Match: ye keep the commandments which the 
+Secondary Match: ye keep not his commandments ye 
+
+
+Primary Match: nation kindred tongue and people shall 
+Secondary Match: every nation kindred tongue and people 
+Secondary Match: nation kindred tongue and people that 
+
+
+Primary Match: observe to do all these things 
+Secondary Match: these things that these records do 
+
+
+Primary Match: commandments of God ye shall be 
+Secondary Match: the commandments of God ye shall 
+Secondary Match: commandments of God ye shall prosper 
+Secondary Match: the commandments of God ye shall 
+Secondary Match: commandments of God ye shall prosper 
+Secondary Match: the commandments of God ye shall 
+Secondary Match: commandments of God ye shall be 
+Secondary Match: of God ye shall be cut 
+Secondary Match: God ye shall be cut off 
+Secondary Match: not his commandments ye shall be 
+Secondary Match: his commandments ye shall be cut 
+Secondary Match: commandments ye shall be cut off 
+Secondary Match: of God and ye shall be 
+Secondary Match: God and ye shall be delivered 
+
+
+Primary Match: those things which are to come 
+Secondary Match: these things which are sacred which 
+Secondary Match: things which are sacred which he 
+
+
+Primary Match: things which are to come Teach 
+Secondary Match: these things which are sacred which 
+Secondary Match: things which are sacred which he 
+
+
+Primary Match: do all these things I say 
+Secondary Match: these things that these records do 
+
+
+Primary Match: every nation kindred tongue and people 
+Secondary Match: forth unto every nation kindred tongue 
+Secondary Match: unto every nation kindred tongue and 
+Secondary Match: every nation kindred tongue and people 
+Secondary Match: nation kindred tongue and people that 
+
+
+Primary Match: say unto you were it not 
+Secondary Match: say unto you were it not 
+
+
+Primary Match: if ye understand these things ye 
+Secondary Match: and if ye do these things 
+Secondary Match: if ye do these things ye 
+Secondary Match: ye do these things ye shall 
+Secondary Match: ye should understand that these things 
+
+
+Primary Match: things for to keep these commandments 
+Secondary Match: not for these things that these 
+Secondary Match: for these things that these records 
+
+
+Primary Match: nation kindred tongue and people Yea 
+Secondary Match: every nation kindred tongue and people 
+Secondary Match: nation kindred tongue and people that 
+
+
+Primary Match: yea if ye keep the commandments 
+Secondary Match: if ye keep not his commandments 
+Secondary Match: ye keep not his commandments ye 
+Secondary Match: But if ye keep the commandments 
+Secondary Match: if ye keep the commandments of 
+
+
+Primary Match: For if ye understand these things 
+Secondary Match: and if ye do these things 
+Secondary Match: if ye do these things ye 
+Secondary Match: ye do these things ye shall 
+Secondary Match: ye should understand that these things 
+
+
+Primary Match: day Behold even as ye have 
+Secondary Match: have kept even as I have 
+
+
+Primary Match: do all these things for to 
+Secondary Match: not for these things that these 
+Secondary Match: for these things that these records 
+Secondary Match: these things that these records do 
+
+
+Primary Match: keep the commandments of God ye 
+Secondary Match: keep the commandments of God ye 
+Secondary Match: keep the commandments of God ye 
+Secondary Match: keep the commandments of God ye 
+Secondary Match: ye keep not his commandments ye 
+Secondary Match: ye keep the commandments of God 
+
+
+Primary Match: unto you were it not for 
+Secondary Match: unto you were it not for 
+Secondary Match: you were it not for these 
+
+
+Primary Match: if ye keep the commandments of 
+Secondary Match: if ye keep not his commandments 
+Secondary Match: ye keep not his commandments ye 
+Secondary Match: But if ye keep the commandments 
+Secondary Match: if ye keep the commandments of 
+
+
+Primary Match: all these things for to keep 
+Secondary Match: Nephi and keep all these things 
+Secondary Match: and keep all these things sacred 
+Secondary Match: keep all these things sacred which 
+Secondary Match: not for these things that these 
+Secondary Match: for these things that these records 
+
+
+Primary Match: for his people which was prepared 
+Secondary Match: for so was it prepared for 
+
+
+Primary Match: understanding therefore ye have not been 
+Secondary Match: not repent therefore they have been 
+
+
+Primary Match: those that have been and who 
+Secondary Match: of those people who have been 
+Secondary Match: those people who have been destroyed 
+
+
+Primary Match: dwelleth in flesh he shall be 
+Secondary Match: in God shall be supported in 
+
+
+Primary Match: God ye shall be saved yea 
+Secondary Match: commandments of God ye shall be 
+Secondary Match: of God ye shall be cut 
+Secondary Match: God ye shall be cut off 
+Secondary Match: of God and ye shall be 
+Secondary Match: God and ye shall be delivered 
+
+
+Primary Match: the commandments of God ye shall 
+Secondary Match: the commandments of God ye shall 
+Secondary Match: commandments of God ye shall prosper 
+Secondary Match: the commandments of God ye shall 
+Secondary Match: commandments of God ye shall prosper 
+Secondary Match: the commandments of God ye shall 
+Secondary Match: commandments of God ye shall be 
+
+
+Primary Match: shadow of things which are to 
+Secondary Match: these things which are sacred which 
+Secondary Match: things which are sacred which he 
+
+
+Primary Match: concerning these things Have they not 
+Secondary Match: not for these things that these 
+
+
+Primary Match: of God ye shall be saved 
+Secondary Match: commandments of God ye shall be 
+Secondary Match: of God ye shall be cut 
+Secondary Match: God ye shall be cut off 
+Secondary Match: of God and ye shall be 
+Secondary Match: God and ye shall be delivered 
+
+
+Primary Match: these things Have they not said 
+Secondary Match: not for these things that these 
+
+
+Primary Match: of God shall come forth in 
+Secondary Match: in God shall be supported in 
+
+
+Primary Match: not for this all mankind must 
+Secondary Match: son this is not all for 
+Secondary Match: this is not all for ye 
+
+
+Primary Match: Thus God executeth vengeance upon those 
+Secondary Match: their God for vengeance upon those 
+Secondary Match: God for vengeance upon those who 
+
+
+Primary Match: these things for to keep these 
+Secondary Match: not for these things that these 
+Secondary Match: for these things that these records 
+
+
+Primary Match: Lord For if ye understand these 
+Secondary Match: if ye do these things ye 
+
+
+Primary Match: which I have spoken unto you 
+Secondary Match: which I have spoken unto you 
+
+
+Primary Match: people O God receive my soul 
+Secondary Match: my God did rack my soul 
+
+
+Primary Match: of those things which are to 
+Secondary Match: these things which are sacred which 
+Secondary Match: things which are sacred which he 
+
+
+Primary Match: every nation kindred tongue and people 
+Secondary Match: forth unto every nation kindred tongue 
+Secondary Match: unto every nation kindred tongue and 
+Secondary Match: every nation kindred tongue and people 
+Secondary Match: nation kindred tongue and people that 
+
+
+Primary Match: to every nation kindred tongue and 
+Secondary Match: forth unto every nation kindred tongue 
+Secondary Match: unto every nation kindred tongue and 
+Secondary Match: every nation kindred tongue and people 
+
+
+Primary Match: Lord when every nation kindred tongue 
+Secondary Match: forth unto every nation kindred tongue 
+Secondary Match: unto every nation kindred tongue and 
+Secondary Match: every nation kindred tongue and people 
+
+
+Primary Match: ye shall do unto me shall 
+Secondary Match: ye do these things ye shall 
+
+
+Primary Match: God receive my soul What ye 
+Secondary Match: my God did rack my soul 
+
+
+Primary Match: this is not all For O 
+Secondary Match: my son this is not all 
+Secondary Match: son this is not all for 
+Secondary Match: this is not all for ye 
+
+
+Primary Match: do ye not keep it Why 
+Secondary Match: ye keep not his commandments ye 
+
+
+Primary Match: to do all these things for 
+Secondary Match: not for these things that these 
+Secondary Match: for these things that these records 
+Secondary Match: these things that these records do 
+
+
+Primary Match: you this is not all For 
+Secondary Match: my son this is not all 
+Secondary Match: son this is not all for 
+Secondary Match: this is not all for ye 
+
+
+Primary Match: not keep it Why do ye 
+Secondary Match: ye keep not his commandments ye 
+
+
+Primary Match: when every nation kindred tongue and 
+Secondary Match: forth unto every nation kindred tongue 
+Secondary Match: unto every nation kindred tongue and 
+Secondary Match: every nation kindred tongue and people 
+
+
+Primary Match: declared to every nation kindred tongue 
+Secondary Match: forth unto every nation kindred tongue 
+Secondary Match: unto every nation kindred tongue and 
+Secondary Match: every nation kindred tongue and people 
+
+
+Primary Match: should do all these things I 
+Secondary Match: these things that these records do 
+
+
+Primary Match: of things which are to come 
+Secondary Match: these things which are sacred which 
+Secondary Match: things which are sacred which he 
+
+
+Primary Match: would that ye should understand that 
+Secondary Match: I would that ye should understand 
+Secondary Match: would that ye should understand that 
+
+
+Primary Match: ye And who shall be his 
+Secondary Match: not his commandments ye shall be 
+Secondary Match: his commandments ye shall be cut 
+
+
+Primary Match: God executeth vengeance upon those that 
+Secondary Match: their God for vengeance upon those 
+Secondary Match: God for vengeance upon those who 
+
+
+Primary Match: even as ye have done unto 
+Secondary Match: have kept even as I have 
+
+
+Primary Match: why do ye not keep it 
+Secondary Match: ye keep not his commandments ye 
+
+
+Primary Match: ye keep the commandments of God 
+Secondary Match: keep the commandments of God ye 
+Secondary Match: keep the commandments of God ye 
+Secondary Match: keep the commandments of God ye 
+Secondary Match: ye keep not his commandments ye 
+Secondary Match: ye keep the commandments of God 
+
+
+Primary Match: I would that ye should understand 
+Secondary Match: I would that ye should understand 
+Secondary Match: would that ye should understand that 
+
+
+Primary Match: in flesh he shall be called 
+Secondary Match: in God shall be supported in 
+
+
+Primary Match: ye not keep it Why do 
+Secondary Match: ye keep not his commandments ye 
+
+
+Primary Match: a shadow of things which are 
+Secondary Match: these things which are sacred which 
+Secondary Match: things which are sacred which he 
+Secondary Match: things are not without a shadow 
+
+
+Primary Match: know if ye keep the commandments 
+Secondary Match: if ye keep not his commandments 
+Secondary Match: ye keep not his commandments ye 
+Secondary Match: But if ye keep the commandments 
+Secondary Match: if ye keep the commandments of 
+
+
+Primary Match: in that day ye shall be 
+Secondary Match: in God shall be supported in 
+
+
+Primary Match: O God receive my soul What 
+Secondary Match: my God did rack my soul 
+
+
+Primary Match: my soul What ye shall do 
+Secondary Match: ye do these things ye shall 
+
+
+Primary Match: God shall come forth in the 
+Secondary Match: in God shall be supported in 
+
+
+Primary Match: What ye shall do unto me 
+Secondary Match: ye do these things ye shall 
+
+
+Primary Match: Behold even as ye have done 
+Secondary Match: have kept even as I have 
+
+
+Primary Match: words which I have spoken unto 
+Secondary Match: the words which I have spoken 
+Secondary Match: words which I have spoken unto 
+
+
+Primary Match: ye understand these things ye have 
+Secondary Match: if ye do these things ye 
+Secondary Match: ye do these things ye shall 
+Secondary Match: ye should understand that these things 
+
+
+Primary Match: it not for this all mankind 
+Secondary Match: son this is not all for 
+Secondary Match: this is not all for ye 
+
+
+Primary Match: therefore ye have not been wise 
+Secondary Match: not repent therefore they have been 
+
+

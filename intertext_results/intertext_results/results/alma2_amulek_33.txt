@@ -1,0 +1,1590 @@
+Primary Source: corpora/Amulek.txt
+Secondary Source: corpora/Alma 2.txt
+Match Case: No
+Use Porter Stemmer: Yes
+Strict Search: No
+Fuzzy Search Parameters: 3/3
+Time to complete: 1.0389 minutes.
+Left Match Count: 285
+Right Match Count: 727
+
+
+
+Primary Match: thou hast lied 	[basis: thou hast li ]
+Secondary Match: thou hast lied 	[basis: thou hast li ]
+
+
+Primary Match: in your hearts 	[basis: in your heart ]
+Secondary Match: in your hearts 	[basis: in your heart ]
+Secondary Match: in your hearts 	[basis: in your heart ]
+Secondary Match: in your heart 	[basis: in your heart ]
+Secondary Match: your hearts in 	[basis: your heart in ]
+Secondary Match: in your hearts 	[basis: in your heart ]
+Secondary Match: in your heart 	[basis: in your heart ]
+
+
+Primary Match: an atonement should 	[basis: an aton should ]
+Secondary Match: an atonement should 	[basis: an aton should ]
+
+
+Primary Match: except ye repent 	[basis: except ye repent ]
+Secondary Match: except ye repent 	[basis: except ye repent ]
+Secondary Match: ye repent ye 	[basis: ye repent ye ]
+Secondary Match: except ye repent 	[basis: except ye repent ]
+Secondary Match: except ye repent 	[basis: except ye repent ]
+
+
+Primary Match: there can be 	[basis: there can be ]
+Secondary Match: there can be 	[basis: there can be ]
+
+
+Primary Match: should be made 	[basis: should be made ]
+Secondary Match: should be made 	[basis: should be made ]
+Secondary Match: should be made 	[basis: should be made ]
+
+
+Primary Match: all things which 	[basis: all thing which ]
+Secondary Match: all things which 	[basis: all thing which ]
+
+
+Primary Match: have received so 	[basis: have receiv so ]
+Secondary Match: have received so 	[basis: have receiv so ]
+
+
+Primary Match: all both old 	[basis: all both old ]
+Secondary Match: all both old 	[basis: all both old ]
+
+
+Primary Match: is in christ 	[basis: is in christ ]
+Secondary Match: is in christ 	[basis: is in christ ]
+Secondary Match: is in christ 	[basis: is in christ ]
+Secondary Match: is in christ 	[basis: is in christ ]
+
+
+Primary Match: there is a 	[basis: there is a ]
+Secondary Match: there is a 	[basis: there is a ]
+Secondary Match: there is a 	[basis: there is a ]
+Secondary Match: there is a 	[basis: there is a ]
+Secondary Match: there is a 	[basis: there is a ]
+Secondary Match: there is a 	[basis: there is a ]
+Secondary Match: there is a 	[basis: there is a ]
+Secondary Match: there is a 	[basis: there is a ]
+Secondary Match: there is a 	[basis: there is a ]
+Secondary Match: there is a 	[basis: there is a ]
+Secondary Match: there is a 	[basis: there is a ]
+Secondary Match: there is a 	[basis: there is a ]
+Secondary Match: there is a 	[basis: there is a ]
+Secondary Match: there is a 	[basis: there is a ]
+
+
+Primary Match: him who hath 	[basis: him who hath ]
+Secondary Match: him who hath 	[basis: him who hath ]
+
+
+Primary Match: law ye do 	[basis: law ye do ]
+Secondary Match: ye do ye 	[basis: ye do ye ]
+
+
+Primary Match: went on rebelling 	[basis: went on rebel ]
+Secondary Match: one on one 	[basis: on on on ]
+
+
+Primary Match: which is in 	[basis: which is in ]
+Secondary Match: which is in 	[basis: which is in ]
+Secondary Match: which is in 	[basis: which is in ]
+Secondary Match: which is in 	[basis: which is in ]
+Secondary Match: which is in 	[basis: which is in ]
+Secondary Match: which is in 	[basis: which is in ]
+Secondary Match: which is in 	[basis: which is in ]
+Secondary Match: which is in 	[basis: which is in ]
+Secondary Match: which is in 	[basis: which is in ]
+Secondary Match: which is in 	[basis: which is in ]
+Secondary Match: which is in 	[basis: which is in ]
+
+
+Primary Match: his fierce anger 	[basis: hi fierc anger ]
+Secondary Match: his fierce anger 	[basis: hi fierc anger ]
+
+
+Primary Match: no one to 	[basis: no on to ]
+Secondary Match: one on one 	[basis: on on on ]
+
+
+Primary Match: which is in 	[basis: which is in ]
+Secondary Match: which is in 	[basis: which is in ]
+Secondary Match: which is in 	[basis: which is in ]
+Secondary Match: which is in 	[basis: which is in ]
+Secondary Match: which is in 	[basis: which is in ]
+Secondary Match: which is in 	[basis: which is in ]
+Secondary Match: which is in 	[basis: which is in ]
+Secondary Match: which is in 	[basis: which is in ]
+Secondary Match: which is in 	[basis: which is in ]
+Secondary Match: which is in 	[basis: which is in ]
+Secondary Match: which is in 	[basis: which is in ]
+
+
+Primary Match: now behold my 	[basis: now behold my ]
+Secondary Match: now behold my 	[basis: now behold my ]
+Secondary Match: now behold my 	[basis: now behold my ]
+Secondary Match: now behold my 	[basis: now behold my ]
+
+
+Primary Match: much faith as 	[basis: much faith as ]
+Secondary Match: as much as 	[basis: as much as ]
+
+
+Primary Match: is not all 	[basis: is not all ]
+Secondary Match: is not all 	[basis: is not all ]
+Secondary Match: is not all 	[basis: is not all ]
+Secondary Match: is not all 	[basis: is not all ]
+Secondary Match: is not all 	[basis: is not all ]
+Secondary Match: is not all 	[basis: is not all ]
+Secondary Match: is not all 	[basis: is not all ]
+Secondary Match: not all is 	[basis: not all is ]
+
+
+Primary Match: with utter destruction 	[basis: with utter destruct ]
+Secondary Match: with utter destruction 	[basis: with utter destruct ]
+
+
+Primary Match: when you do 	[basis: when you do ]
+Secondary Match: you do you 	[basis: you do you ]
+
+
+Primary Match: in your sins 	[basis: in your sin ]
+Secondary Match: in your sins 	[basis: in your sin ]
+
+
+Primary Match: shall be restored 	[basis: shall be restor ]
+Secondary Match: shall be restored 	[basis: shall be restor ]
+Secondary Match: shall be restored 	[basis: shall be restor ]
+Secondary Match: shall be restored 	[basis: shall be restor ]
+Secondary Match: shall be restored 	[basis: shall be restor ]
+Secondary Match: shall be restored 	[basis: shall be restor ]
+Secondary Match: shall be restored 	[basis: shall be restor ]
+Secondary Match: shall be restored 	[basis: shall be restor ]
+
+
+Primary Match: god which is 	[basis: god which is ]
+Secondary Match: god which is 	[basis: god which is ]
+Secondary Match: god which is 	[basis: god which is ]
+Secondary Match: god which is 	[basis: god which is ]
+Secondary Match: god which is 	[basis: god which is ]
+
+
+Primary Match: ye should be 	[basis: ye should be ]
+Secondary Match: ye should be 	[basis: ye should be ]
+
+
+Primary Match: behold now is 	[basis: behold now is ]
+Secondary Match: now behold is 	[basis: now behold is ]
+Secondary Match: now behold is 	[basis: now behold is ]
+
+
+Primary Match: soon at hand 	[basis: soon at hand ]
+Secondary Match: soon at hand 	[basis: soon at hand ]
+
+
+Primary Match: power over you 	[basis: power over you ]
+Secondary Match: power over you 	[basis: power over you ]
+
+
+Primary Match: as though there 	[basis: as though there ]
+Secondary Match: as though there 	[basis: as though there ]
+
+
+Primary Match: there can be 	[basis: there can be ]
+Secondary Match: there can be 	[basis: there can be ]
+
+
+Primary Match: you my brethren 	[basis: you my brethren ]
+Secondary Match: you my brethren 	[basis: you my brethren ]
+Secondary Match: my brethren you 	[basis: my brethren you ]
+Secondary Match: you my brethren 	[basis: you my brethren ]
+Secondary Match: you my brethren 	[basis: you my brethren ]
+Secondary Match: you my brethren 	[basis: you my brethren ]
+Secondary Match: you my brethren 	[basis: you my brethren ]
+Secondary Match: my brethren my 	[basis: my brethren my ]
+
+
+Primary Match: my brethren that 	[basis: my brethren that ]
+Secondary Match: my brethren my 	[basis: my brethren my ]
+
+
+Primary Match: having no one 	[basis: have no on ]
+Secondary Match: one on one 	[basis: on on on ]
+
+
+Primary Match: be good or 	[basis: be good or ]
+Secondary Match: be good or 	[basis: be good or ]
+
+
+Primary Match: that ye do 	[basis: that ye do ]
+Secondary Match: ye do ye 	[basis: ye do ye ]
+
+
+Primary Match: ye will repent 	[basis: ye will repent ]
+Secondary Match: ye repent ye 	[basis: ye repent ye ]
+
+
+Primary Match: those who do 	[basis: those who do ]
+Secondary Match: those who do 	[basis: those who do ]
+
+
+Primary Match: ye should remember 	[basis: ye should rememb ]
+Secondary Match: ye should remember 	[basis: ye should rememb ]
+Secondary Match: ye should remember 	[basis: ye should rememb ]
+Secondary Match: ye should remember 	[basis: ye should rememb ]
+Secondary Match: ye should remember 	[basis: ye should rememb ]
+Secondary Match: ye should remember 	[basis: ye should rememb ]
+
+
+Primary Match: ye have received 	[basis: ye have receiv ]
+Secondary Match: have ye received 	[basis: have ye receiv ]
+
+
+Primary Match: if ye do 	[basis: if ye do ]
+Secondary Match: if ye do 	[basis: if ye do ]
+Secondary Match: if ye do 	[basis: if ye do ]
+Secondary Match: ye do ye 	[basis: ye do ye ]
+Secondary Match: ye do if 	[basis: ye do if ]
+Secondary Match: do if ye 	[basis: do if ye ]
+Secondary Match: if ye do 	[basis: if ye do ]
+Secondary Match: if ye do 	[basis: if ye do ]
+
+
+Primary Match: do not suppose 	[basis: do not suppos ]
+Secondary Match: do not suppose 	[basis: do not suppos ]
+Secondary Match: do not suppose 	[basis: do not suppos ]
+
+
+Primary Match: there is a 	[basis: there is a ]
+Secondary Match: there is a 	[basis: there is a ]
+Secondary Match: there is a 	[basis: there is a ]
+Secondary Match: there is a 	[basis: there is a ]
+Secondary Match: there is a 	[basis: there is a ]
+Secondary Match: there is a 	[basis: there is a ]
+Secondary Match: there is a 	[basis: there is a ]
+Secondary Match: there is a 	[basis: there is a ]
+Secondary Match: there is a 	[basis: there is a ]
+Secondary Match: there is a 	[basis: there is a ]
+Secondary Match: there is a 	[basis: there is a ]
+Secondary Match: there is a 	[basis: there is a ]
+Secondary Match: there is a 	[basis: there is a ]
+Secondary Match: there is a 	[basis: there is a ]
+
+
+Primary Match: they may have 	[basis: thei mai have ]
+Secondary Match: they may have 	[basis: thei mai have ]
+Secondary Match: they may have 	[basis: thei mai have ]
+
+
+Primary Match: now my beloved 	[basis: now my belov ]
+Secondary Match: now my beloved 	[basis: now my belov ]
+Secondary Match: now my beloved 	[basis: now my belov ]
+Secondary Match: now my beloved 	[basis: now my belov ]
+Secondary Match: now my beloved 	[basis: now my belov ]
+Secondary Match: now my beloved 	[basis: now my belov ]
+Secondary Match: now my beloved 	[basis: now my belov ]
+
+
+Primary Match: which is called 	[basis: which is call ]
+Secondary Match: which is called 	[basis: which is call ]
+
+
+Primary Match: sent his angel 	[basis: sent hi angel ]
+Secondary Match: sent his angel 	[basis: sent hi angel ]
+Secondary Match: sent his angel 	[basis: sent hi angel ]
+
+
+Primary Match: we shall be 	[basis: we shall be ]
+Secondary Match: we shall be 	[basis: we shall be ]
+
+
+Primary Match: take upon him 	[basis: take upon him ]
+Secondary Match: take upon him 	[basis: take upon him ]
+
+
+Primary Match: therefore if ye 	[basis: therefor if ye ]
+Secondary Match: therefore if ye 	[basis: therefor if ye ]
+
+
+Primary Match: yea even all 	[basis: yea even all ]
+Secondary Match: yea even all 	[basis: yea even all ]
+
+
+Primary Match: if ye will 	[basis: if ye will ]
+Secondary Match: if ye will 	[basis: if ye will ]
+Secondary Match: if ye will 	[basis: if ye will ]
+Secondary Match: if ye will 	[basis: if ye will ]
+Secondary Match: if ye will 	[basis: if ye will ]
+Secondary Match: if ye will 	[basis: if ye will ]
+Secondary Match: if ye will 	[basis: if ye will ]
+Secondary Match: if ye will 	[basis: if ye will ]
+Secondary Match: if ye will 	[basis: if ye will ]
+
+
+Primary Match: who believe on 	[basis: who believ on ]
+Secondary Match: who believe on 	[basis: who believ on ]
+Secondary Match: one on one 	[basis: on on on ]
+
+
+Primary Match: ye shall one 	[basis: ye shall on ]
+Secondary Match: one on one 	[basis: on on on ]
+
+
+Primary Match: unto you do 	[basis: unto you do ]
+Secondary Match: you do you 	[basis: you do you ]
+
+
+Primary Match: this temporal death 	[basis: thi tempor death ]
+Secondary Match: this temporal death 	[basis: thi tempor death ]
+
+
+Primary Match: these are they 	[basis: these ar thei ]
+Secondary Match: these are they 	[basis: these ar thei ]
+Secondary Match: these are they 	[basis: these ar thei ]
+Secondary Match: these are they 	[basis: these ar thei ]
+
+
+Primary Match: world for behold 	[basis: world for behold ]
+Secondary Match: world for behold 	[basis: world for behold ]
+
+
+Primary Match: a god but 	[basis: a god but ]
+Secondary Match: god but god 	[basis: god but god ]
+Secondary Match: god but god 	[basis: god but god ]
+
+
+Primary Match: on his name 	[basis: on hi name ]
+Secondary Match: on his name 	[basis: on hi name ]
+Secondary Match: on his name 	[basis: on hi name ]
+Secondary Match: on his name 	[basis: on hi name ]
+Secondary Match: on his name 	[basis: on hi name ]
+Secondary Match: on his name 	[basis: on hi name ]
+Secondary Match: one on one 	[basis: on on on ]
+
+
+Primary Match: you my brethren 	[basis: you my brethren ]
+Secondary Match: you my brethren 	[basis: you my brethren ]
+Secondary Match: my brethren you 	[basis: my brethren you ]
+Secondary Match: you my brethren 	[basis: you my brethren ]
+Secondary Match: you my brethren 	[basis: you my brethren ]
+Secondary Match: you my brethren 	[basis: you my brethren ]
+Secondary Match: you my brethren 	[basis: you my brethren ]
+Secondary Match: my brethren my 	[basis: my brethren my ]
+
+
+Primary Match: ye cannot be 	[basis: ye cannot be ]
+Secondary Match: ye cannot be 	[basis: ye cannot be ]
+
+
+Primary Match: though there had 	[basis: though there had ]
+Secondary Match: though there had 	[basis: though there had ]
+
+
+Primary Match: no place in 	[basis: no place in ]
+Secondary Match: no place in 	[basis: no place in ]
+
+
+Primary Match: my brethren that 	[basis: my brethren that ]
+Secondary Match: my brethren my 	[basis: my brethren my ]
+
+
+Primary Match: no redemption made 	[basis: no redempt made ]
+Secondary Match: no redemption made 	[basis: no redempt made ]
+
+
+Primary Match: should fall into 	[basis: should fall into ]
+Secondary Match: should fall into 	[basis: should fall into ]
+Secondary Match: should fall into 	[basis: should fall into ]
+
+
+Primary Match: rest from all 	[basis: rest from all ]
+Secondary Match: rest from all 	[basis: rest from all ]
+
+
+Primary Match: now my beloved 	[basis: now my belov ]
+Secondary Match: now my beloved 	[basis: now my belov ]
+Secondary Match: now my beloved 	[basis: now my belov ]
+Secondary Match: now my beloved 	[basis: now my belov ]
+Secondary Match: now my beloved 	[basis: now my belov ]
+Secondary Match: now my beloved 	[basis: now my belov ]
+Secondary Match: now my beloved 	[basis: now my belov ]
+
+
+Primary Match: for behold have 	[basis: for behold have ]
+Secondary Match: for behold have 	[basis: for behold have ]
+
+
+Primary Match: there shall be 	[basis: there shall be ]
+Secondary Match: there shall be 	[basis: there shall be ]
+Secondary Match: there shall be 	[basis: there shall be ]
+Secondary Match: there shall be 	[basis: there shall be ]
+
+
+Primary Match: lord god hath 	[basis: lord god hath ]
+Secondary Match: lord god hath 	[basis: lord god hath ]
+Secondary Match: lord god hath 	[basis: lord god hath ]
+Secondary Match: lord god hath 	[basis: lord god hath ]
+
+
+Primary Match: have eternal life 	[basis: have etern life ]
+Secondary Match: have eternal life 	[basis: have etern life ]
+Secondary Match: eternal life having 	[basis: etern life have ]
+
+
+Primary Match: shall there be 	[basis: shall there be ]
+Secondary Match: there shall be 	[basis: there shall be ]
+Secondary Match: there shall be 	[basis: there shall be ]
+Secondary Match: there shall be 	[basis: there shall be ]
+
+
+Primary Match: your sins yea 	[basis: your sin yea ]
+Secondary Match: your sins yea 	[basis: your sin yea ]
+
+
+Primary Match: unclean thing can 	[basis: unclean thing can ]
+Secondary Match: unclean thing can 	[basis: unclean thing can ]
+
+
+Primary Match: at this time 	[basis: at thi time ]
+Secondary Match: at this time 	[basis: at thi time ]
+Secondary Match: at this time 	[basis: at thi time ]
+Secondary Match: at this time 	[basis: at thi time ]
+Secondary Match: at this time 	[basis: at thi time ]
+Secondary Match: at this time 	[basis: at thi time ]
+
+
+Primary Match: no unclean thing 	[basis: no unclean thing ]
+Secondary Match: no unclean thing 	[basis: no unclean thing ]
+
+
+Primary Match: which is in 	[basis: which is in ]
+Secondary Match: which is in 	[basis: which is in ]
+Secondary Match: which is in 	[basis: which is in ]
+Secondary Match: which is in 	[basis: which is in ]
+Secondary Match: which is in 	[basis: which is in ]
+Secondary Match: which is in 	[basis: which is in ]
+Secondary Match: which is in 	[basis: which is in ]
+Secondary Match: which is in 	[basis: which is in ]
+Secondary Match: which is in 	[basis: which is in ]
+Secondary Match: which is in 	[basis: which is in ]
+Secondary Match: which is in 	[basis: which is in ]
+
+
+Primary Match: ye have done 	[basis: ye have done ]
+Secondary Match: ye have done 	[basis: ye have done ]
+
+
+Primary Match: you do not 	[basis: you do not ]
+Secondary Match: you do you 	[basis: you do you ]
+Secondary Match: you do not 	[basis: you do not ]
+
+
+Primary Match: ye repent o 	[basis: ye repent o ]
+Secondary Match: ye repent ye 	[basis: ye repent ye ]
+
+
+Primary Match: all shall rise 	[basis: all shall rise ]
+Secondary Match: all shall rise 	[basis: all shall rise ]
+Secondary Match: all shall rise 	[basis: all shall rise ]
+
+
+Primary Match: behold ye have 	[basis: behold ye have ]
+Secondary Match: behold ye have 	[basis: behold ye have ]
+Secondary Match: behold have ye 	[basis: behold have ye ]
+
+
+Primary Match: are true for 	[basis: ar true for ]
+Secondary Match: are true for 	[basis: ar true for ]
+
+
+Primary Match: be led away 	[basis: be led awai ]
+Secondary Match: be led away 	[basis: be led awai ]
+
+
+Primary Match: one eternal god 	[basis: on etern god ]
+Secondary Match: one on one 	[basis: on on on ]
+
+
+Primary Match: much as a 	[basis: much as a ]
+Secondary Match: as much as 	[basis: as much as ]
+
+
+Primary Match: this temporal death 	[basis: thi tempor death ]
+Secondary Match: this temporal death 	[basis: thi tempor death ]
+
+
+Primary Match: may not be 	[basis: mai not be ]
+Secondary Match: may not be 	[basis: mai not be ]
+Secondary Match: may not be 	[basis: mai not be ]
+Secondary Match: may not be 	[basis: mai not be ]
+Secondary Match: may not be 	[basis: mai not be ]
+
+
+Primary Match: who are now 	[basis: who ar now ]
+Secondary Match: who are now 	[basis: who ar now ]
+Secondary Match: who are now 	[basis: who ar now ]
+Secondary Match: who are now 	[basis: who ar now ]
+
+
+Primary Match: visited with utter 	[basis: visit with utter ]
+Secondary Match: visited with utter 	[basis: visit with utter ]
+
+
+Primary Match: if we do 	[basis: if we do ]
+Secondary Match: if we do 	[basis: if we do ]
+
+
+Primary Match: be raised from 	[basis: be rais from ]
+Secondary Match: being raised from 	[basis: be rais from ]
+
+
+Primary Match: were not for 	[basis: were not for ]
+Secondary Match: were not for 	[basis: were not for ]
+Secondary Match: were not for 	[basis: were not for ]
+
+
+Primary Match: ye do not 	[basis: ye do not ]
+Secondary Match: do ye not 	[basis: do ye not ]
+Secondary Match: do ye not 	[basis: do ye not ]
+Secondary Match: do ye not 	[basis: do ye not ]
+Secondary Match: do ye not 	[basis: do ye not ]
+Secondary Match: do ye not 	[basis: do ye not ]
+Secondary Match: ye do not 	[basis: ye do not ]
+Secondary Match: ye do not 	[basis: ye do not ]
+Secondary Match: ye do ye 	[basis: ye do ye ]
+Secondary Match: ye do not 	[basis: ye do not ]
+
+
+Primary Match: be visited with 	[basis: be visit with ]
+Secondary Match: be visited with 	[basis: be visit with ]
+
+
+Primary Match: joint shall be 	[basis: joint shall be ]
+Secondary Match: joint shall be 	[basis: joint shall be ]
+
+
+Primary Match: also my brethren 	[basis: also my brethren ]
+Secondary Match: my brethren my 	[basis: my brethren my ]
+
+
+Primary Match: no more out 	[basis: no more out ]
+Secondary Match: no more out 	[basis: no more out ]
+Secondary Match: no more out 	[basis: no more out ]
+
+
+Primary Match: ye do not 	[basis: ye do not ]
+Secondary Match: do ye not 	[basis: do ye not ]
+Secondary Match: do ye not 	[basis: do ye not ]
+Secondary Match: do ye not 	[basis: do ye not ]
+Secondary Match: do ye not 	[basis: do ye not ]
+Secondary Match: do ye not 	[basis: do ye not ]
+Secondary Match: ye do not 	[basis: ye do not ]
+Secondary Match: ye do not 	[basis: ye do not ]
+Secondary Match: ye do ye 	[basis: ye do ye ]
+Secondary Match: ye do not 	[basis: ye do not ]
+
+
+Primary Match: my beloved brethren 	[basis: my belov brethren ]
+Secondary Match: my beloved brethren 	[basis: my belov brethren ]
+Secondary Match: my beloved brethren 	[basis: my belov brethren ]
+Secondary Match: my beloved brethren 	[basis: my belov brethren ]
+Secondary Match: my beloved brethren 	[basis: my belov brethren ]
+Secondary Match: my beloved brethren 	[basis: my belov brethren ]
+Secondary Match: my beloved brethren 	[basis: my belov brethren ]
+Secondary Match: my beloved brethren 	[basis: my belov brethren ]
+Secondary Match: my beloved brethren 	[basis: my belov brethren ]
+Secondary Match: my brethren my 	[basis: my brethren my ]
+Secondary Match: my beloved brethren 	[basis: my belov brethren ]
+
+
+Primary Match: these things are 	[basis: these thing ar ]
+Secondary Match: these things are 	[basis: these thing ar ]
+Secondary Match: these things are 	[basis: these thing ar ]
+Secondary Match: these things are 	[basis: these thing ar ]
+Secondary Match: these things are 	[basis: these thing ar ]
+
+
+Primary Match: we do not 	[basis: we do not ]
+Secondary Match: we do not 	[basis: we do not ]
+Secondary Match: we do not 	[basis: we do not ]
+Secondary Match: we do not 	[basis: we do not ]
+
+
+Primary Match: after ye have 	[basis: after ye have ]
+Secondary Match: after ye have 	[basis: after ye have ]
+
+
+Primary Match: ye will not 	[basis: ye will not ]
+Secondary Match: ye will not 	[basis: ye will not ]
+Secondary Match: ye will not 	[basis: ye will not ]
+Secondary Match: ye will not 	[basis: ye will not ]
+Secondary Match: ye will not 	[basis: ye will not ]
+Secondary Match: ye will not 	[basis: ye will not ]
+Secondary Match: ye will not 	[basis: ye will not ]
+
+
+Primary Match: therefore if ye 	[basis: therefor if ye ]
+Secondary Match: therefore if ye 	[basis: therefor if ye ]
+
+
+Primary Match: this mortal body 	[basis: thi mortal bodi ]
+Secondary Match: this mortal body 	[basis: thi mortal bodi ]
+Secondary Match: this mortal body 	[basis: thi mortal bodi ]
+
+
+Primary Match: believe on his 	[basis: believ on hi ]
+Secondary Match: believe on his 	[basis: believ on hi ]
+Secondary Match: one on one 	[basis: on on on ]
+
+
+Primary Match: for behold if 	[basis: for behold if ]
+Secondary Match: for behold if 	[basis: for behold if ]
+Secondary Match: for behold if 	[basis: for behold if ]
+
+
+Primary Match: these things were 	[basis: these thing were ]
+Secondary Match: these things were 	[basis: these thing were ]
+
+
+Primary Match: ye are brought 	[basis: ye ar brought ]
+Secondary Match: ye are brought 	[basis: ye ar brought ]
+
+
+Primary Match: god upon your 	[basis: god upon your ]
+Secondary Match: your god upon 	[basis: your god upon ]
+
+
+Primary Match: ye are in 	[basis: ye ar in ]
+Secondary Match: ye are in 	[basis: ye ar in ]
+Secondary Match: ye are in 	[basis: ye ar in ]
+
+
+Primary Match: now my brethren 	[basis: now my brethren ]
+Secondary Match: now my brethren 	[basis: now my brethren ]
+Secondary Match: now my brethren 	[basis: now my brethren ]
+Secondary Match: now my brethren 	[basis: now my brethren ]
+Secondary Match: now my brethren 	[basis: now my brethren ]
+Secondary Match: now my brethren 	[basis: now my brethren ]
+Secondary Match: now my brethren 	[basis: now my brethren ]
+Secondary Match: my brethren my 	[basis: my brethren my ]
+Secondary Match: now my brethren 	[basis: now my brethren ]
+Secondary Match: now my brethren 	[basis: now my brethren ]
+
+
+Primary Match: christ shall come 	[basis: christ shall come ]
+Secondary Match: christ shall come 	[basis: christ shall come ]
+Secondary Match: christ shall come 	[basis: christ shall come ]
+
+
+Primary Match: which is just 	[basis: which is just ]
+Secondary Match: which is just 	[basis: which is just ]
+Secondary Match: which is just 	[basis: which is just ]
+
+
+Primary Match: ye do not 	[basis: ye do not ]
+Secondary Match: do ye not 	[basis: do ye not ]
+Secondary Match: do ye not 	[basis: do ye not ]
+Secondary Match: do ye not 	[basis: do ye not ]
+Secondary Match: do ye not 	[basis: do ye not ]
+Secondary Match: do ye not 	[basis: do ye not ]
+Secondary Match: ye do not 	[basis: ye do not ]
+Secondary Match: ye do not 	[basis: ye do not ]
+Secondary Match: ye do ye 	[basis: ye do ye ]
+Secondary Match: ye do not 	[basis: ye do not ]
+
+
+Primary Match: is a god 	[basis: is a god ]
+Secondary Match: is a god 	[basis: is a god ]
+Secondary Match: is a god 	[basis: is a god ]
+Secondary Match: is a god 	[basis: is a god ]
+Secondary Match: is a god 	[basis: is a god ]
+
+
+Primary Match: in many instances 	[basis: in mani instanc ]
+Secondary Match: in many instances 	[basis: in mani instanc ]
+
+
+Primary Match: this is not 	[basis: thi is not ]
+Secondary Match: this is not 	[basis: thi is not ]
+Secondary Match: this is not 	[basis: thi is not ]
+Secondary Match: this is not 	[basis: thi is not ]
+Secondary Match: is not this 	[basis: is not thi ]
+Secondary Match: this is not 	[basis: thi is not ]
+Secondary Match: this is not 	[basis: thi is not ]
+Secondary Match: this is not 	[basis: thi is not ]
+Secondary Match: this is not 	[basis: thi is not ]
+Secondary Match: this is not 	[basis: thi is not ]
+
+
+Primary Match: be judged according 	[basis: be judg accord ]
+Secondary Match: be judged according 	[basis: be judg accord ]
+Secondary Match: be judged according 	[basis: be judg accord ]
+Secondary Match: be judged according 	[basis: be judg accord ]
+Secondary Match: be judged according 	[basis: be judg accord ]
+Secondary Match: be judged according 	[basis: be judg accord ]
+
+
+Primary Match: young both bond 	[basis: young both bond ]
+Secondary Match: young both bond 	[basis: young both bond ]
+
+
+Primary Match: if ye have 	[basis: if ye have ]
+Secondary Match: if ye have 	[basis: if ye have ]
+Secondary Match: if ye have 	[basis: if ye have ]
+Secondary Match: if ye have 	[basis: if ye have ]
+Secondary Match: if ye have 	[basis: if ye have ]
+Secondary Match: if ye have 	[basis: if ye have ]
+
+
+Primary Match: god but thou 	[basis: god but thou ]
+Secondary Match: god but god 	[basis: god but god ]
+Secondary Match: god but god 	[basis: god but god ]
+
+
+Primary Match: all shall be 	[basis: all shall be ]
+Secondary Match: shall all be 	[basis: shall all be ]
+
+
+Primary Match: therefore if ye 	[basis: therefor if ye ]
+Secondary Match: therefore if ye 	[basis: therefor if ye ]
+
+
+Primary Match: shall believe on 	[basis: shall believ on ]
+Secondary Match: one on one 	[basis: on on on ]
+
+
+Primary Match: thou wilt be 	[basis: thou wilt be ]
+Secondary Match: thou wilt be 	[basis: thou wilt be ]
+
+
+Primary Match: there is no 	[basis: there is no ]
+Secondary Match: there is no 	[basis: there is no ]
+Secondary Match: there is no 	[basis: there is no ]
+Secondary Match: there is no 	[basis: there is no ]
+Secondary Match: there is no 	[basis: there is no ]
+Secondary Match: there is no 	[basis: there is no ]
+
+
+Primary Match: thou hast lied 	[basis: thou hast li ]
+Secondary Match: thou hast lied 	[basis: thou hast li ]
+
+
+Primary Match: these things are 	[basis: these thing ar ]
+Secondary Match: these things are 	[basis: these thing ar ]
+Secondary Match: these things are 	[basis: these thing ar ]
+Secondary Match: these things are 	[basis: these thing ar ]
+Secondary Match: these things are 	[basis: these thing ar ]
+
+
+Primary Match: a holy prophet 	[basis: a holi prophet ]
+Secondary Match: a holy prophet 	[basis: a holi prophet ]
+
+
+Primary Match: is in me 	[basis: is in me ]
+Secondary Match: is in me 	[basis: is in me ]
+Secondary Match: is in me 	[basis: is in me ]
+Secondary Match: is in me 	[basis: is in me ]
+Secondary Match: is in me 	[basis: is in me ]
+Secondary Match: is in me 	[basis: is in me ]
+Secondary Match: is in me 	[basis: is in me ]
+Secondary Match: is in me 	[basis: is in me ]
+Secondary Match: in me in 	[basis: in me in ]
+
+
+Primary Match: you do not 	[basis: you do not ]
+Secondary Match: you do you 	[basis: you do you ]
+Secondary Match: you do not 	[basis: you do not ]
+
+
+Primary Match: as ye have 	[basis: as ye have ]
+Secondary Match: as ye have 	[basis: as ye have ]
+Secondary Match: as ye have 	[basis: as ye have ]
+
+
+Primary Match: made white through 	[basis: made white through ]
+Secondary Match: made white through 	[basis: made white through ]
+
+
+Primary Match: a temporal death 	[basis: a tempor death ]
+Secondary Match: a temporal death 	[basis: a tempor death ]
+
+
+Primary Match: in this life 	[basis: in thi life ]
+Secondary Match: in this life 	[basis: in thi life ]
+Secondary Match: in this life 	[basis: in thi life ]
+
+
+Primary Match: shall not be 	[basis: shall not be ]
+Secondary Match: shall not be 	[basis: shall not be ]
+Secondary Match: shall not be 	[basis: shall not be ]
+Secondary Match: shall not be 	[basis: shall not be ]
+Secondary Match: shall not be 	[basis: shall not be ]
+Secondary Match: shall not be 	[basis: shall not be ]
+
+
+Primary Match: unto you for 	[basis: unto you for ]
+Secondary Match: you for you 	[basis: you for you ]
+
+
+Primary Match: shall be all 	[basis: shall be all ]
+Secondary Match: shall all be 	[basis: shall all be ]
+
+
+Primary Match: been no redemption 	[basis: been no redempt ]
+Secondary Match: been no redemption 	[basis: been no redempt ]
+
+
+Primary Match: is one eternal 	[basis: is on etern ]
+Secondary Match: is one eternal 	[basis: is on etern ]
+Secondary Match: is one eternal 	[basis: is on etern ]
+Secondary Match: one on one 	[basis: on on on ]
+
+
+Primary Match: repent o ye 	[basis: repent o ye ]
+Secondary Match: ye repent ye 	[basis: ye repent ye ]
+
+
+Primary Match: redeem his people 	[basis: redeem hi peopl ]
+Secondary Match: redeem his people 	[basis: redeem hi peopl ]
+Secondary Match: redeem his people 	[basis: redeem hi peopl ]
+Secondary Match: redeem his people 	[basis: redeem hi peopl ]
+
+
+Primary Match: have been spoken 	[basis: have been spoken ]
+Secondary Match: have been spoken 	[basis: have been spoken ]
+Secondary Match: have been spoken 	[basis: have been spoken ]
+Secondary Match: having been spoken 	[basis: have been spoken ]
+Secondary Match: have been spoken 	[basis: have been spoken ]
+
+
+Primary Match: can no more 	[basis: can no more ]
+Secondary Match: can no more 	[basis: can no more ]
+
+
+Primary Match: was this same 	[basis: wa thi same ]
+Secondary Match: was this same 	[basis: wa thi same ]
+
+
+Primary Match: be brought about 	[basis: be brought about ]
+Secondary Match: be brought about 	[basis: be brought about ]
+Secondary Match: be brought about 	[basis: be brought about ]
+
+
+Primary Match: sit down in 	[basis: sit down in ]
+Secondary Match: sit down in 	[basis: sit down in ]
+Secondary Match: sit down in 	[basis: sit down in ]
+Secondary Match: sit down in 	[basis: sit down in ]
+
+
+Primary Match: all these things 	[basis: all these thing ]
+Secondary Match: all these things 	[basis: all these thing ]
+Secondary Match: all these things 	[basis: all these thing ]
+Secondary Match: all these things 	[basis: all these thing ]
+Secondary Match: all these things 	[basis: all these thing ]
+Secondary Match: all these things 	[basis: all these thing ]
+
+
+Primary Match: in unholy temples 	[basis: in unholi templ ]
+Secondary Match: in unholy temples 	[basis: in unholi templ ]
+
+
+Primary Match: shall have eternal 	[basis: shall have etern ]
+Secondary Match: shall have eternal 	[basis: shall have etern ]
+
+
+Primary Match: you if ye 	[basis: you if ye ]
+Secondary Match: you if ye 	[basis: you if ye ]
+Secondary Match: you if ye 	[basis: you if ye ]
+Secondary Match: you if ye 	[basis: you if ye ]
+Secondary Match: you if ye 	[basis: you if ye ]
+Secondary Match: you if ye 	[basis: you if ye ]
+Secondary Match: you if ye 	[basis: you if ye ]
+
+
+Primary Match: if ye do 	[basis: if ye do ]
+Secondary Match: if ye do 	[basis: if ye do ]
+Secondary Match: if ye do 	[basis: if ye do ]
+Secondary Match: ye do ye 	[basis: ye do ye ]
+Secondary Match: ye do if 	[basis: ye do if ]
+Secondary Match: do if ye 	[basis: do if ye ]
+Secondary Match: if ye do 	[basis: if ye do ]
+Secondary Match: if ye do 	[basis: if ye do ]
+
+
+Primary Match: one to confer 	[basis: on to confer ]
+Secondary Match: one on one 	[basis: on on on ]
+
+
+Primary Match: for ye are 	[basis: for ye ar ]
+Secondary Match: for ye are 	[basis: for ye ar ]
+Secondary Match: for ye are 	[basis: for ye ar ]
+Secondary Match: are ye for 	[basis: ar ye for ]
+
+
+Primary Match: ye may not 	[basis: ye mai not ]
+Secondary Match: ye may not 	[basis: ye mai not ]
+Secondary Match: ye may not 	[basis: ye mai not ]
+Secondary Match: ye may not 	[basis: ye mai not ]
+Secondary Match: ye may not 	[basis: ye mai not ]
+Secondary Match: ye may not 	[basis: ye mai not ]
+Secondary Match: ye may not 	[basis: ye mai not ]
+
+
+Primary Match: spirit which is 	[basis: spirit which is ]
+Secondary Match: spirit which is 	[basis: spirit which is ]
+
+
+Primary Match: on his name 	[basis: on hi name ]
+Secondary Match: on his name 	[basis: on hi name ]
+Secondary Match: on his name 	[basis: on hi name ]
+Secondary Match: on his name 	[basis: on hi name ]
+Secondary Match: on his name 	[basis: on hi name ]
+Secondary Match: on his name 	[basis: on hi name ]
+Secondary Match: one on one 	[basis: on on on ]
+
+
+Primary Match: stand before god 	[basis: stand befor god ]
+Secondary Match: stand before god 	[basis: stand befor god ]
+Secondary Match: stand before god 	[basis: stand befor god ]
+
+
+Primary Match: led away by 	[basis: led awai by ]
+Secondary Match: led away by 	[basis: led awai by ]
+
+
+Primary Match: o ye wicked 	[basis: o ye wick ]
+Secondary Match: o ye wicked 	[basis: o ye wick ]
+
+
+Primary Match: these things ye 	[basis: these thing ye ]
+Secondary Match: these things ye 	[basis: these thing ye ]
+
+
+Primary Match: is no god 	[basis: is no god ]
+Secondary Match: is no god 	[basis: is no god ]
+Secondary Match: is no god 	[basis: is no god ]
+
+
+Primary Match: all those who 	[basis: all those who ]
+Secondary Match: all those who 	[basis: all those who ]
+Secondary Match: all those who 	[basis: all those who ]
+
+
+Primary Match: believe on his 	[basis: believ on hi ]
+Secondary Match: believe on his 	[basis: believ on hi ]
+Secondary Match: one on one 	[basis: on on on ]
+
+
+Primary Match: one day rest 	[basis: on dai rest ]
+Secondary Match: one on one 	[basis: on on on ]
+
+
+Primary Match: your exceeding poverty 	[basis: your exceed poverti ]
+Secondary Match: your exceeding poverty 	[basis: your exceed poverti ]
+
+
+Primary Match: which is one 	[basis: which is on ]
+Secondary Match: one on one 	[basis: on on on ]
+
+
+Primary Match: you for behold 	[basis: you for behold ]
+Secondary Match: you for you 	[basis: you for you ]
+Secondary Match: for behold you 	[basis: for behold you ]
+
+
+Primary Match: received so many 	[basis: receiv so mani ]
+Secondary Match: received so many 	[basis: receiv so mani ]
+
+
+Primary Match: is soon at 	[basis: is soon at ]
+Secondary Match: is soon at 	[basis: is soon at ]
+
+
+Primary Match: ye may not 	[basis: ye mai not ]
+Secondary Match: ye may not 	[basis: ye mai not ]
+Secondary Match: ye may not 	[basis: ye mai not ]
+Secondary Match: ye may not 	[basis: ye mai not ]
+Secondary Match: ye may not 	[basis: ye mai not ]
+Secondary Match: ye may not 	[basis: ye mai not ]
+Secondary Match: ye may not 	[basis: ye mai not ]
+
+
+Primary Match: have had so 	[basis: have had so ]
+Secondary Match: having had so 	[basis: have had so ]
+
+
+Primary Match: my brethren i 	[basis: my brethren i ]
+Secondary Match: my brethren my 	[basis: my brethren my ]
+
+
+Primary Match: which have been 	[basis: which have been ]
+Secondary Match: which have been 	[basis: which have been ]
+Secondary Match: which have been 	[basis: which have been ]
+Secondary Match: which have been 	[basis: which have been ]
+Secondary Match: which have been 	[basis: which have been ]
+Secondary Match: which have been 	[basis: which have been ]
+Secondary Match: which have been 	[basis: which have been ]
+Secondary Match: which have been 	[basis: which have been ]
+Secondary Match: which have been 	[basis: which have been ]
+
+
+Primary Match: this people by 	[basis: thi peopl by ]
+Secondary Match: by this people 	[basis: by thi peopl ]
+
+
+Primary Match: stand in need 	[basis: stand in need ]
+Secondary Match: stand in need 	[basis: stand in need ]
+Secondary Match: stand in need 	[basis: stand in need ]
+
+
+Primary Match: righteous who are 	[basis: righteou who ar ]
+Secondary Match: who are righteous 	[basis: who ar righteou ]
+Secondary Match: are righteous are 	[basis: ar righteou ar ]
+
+
+Primary Match: things are true 	[basis: thing ar true ]
+Secondary Match: things are true 	[basis: thing ar true ]
+Secondary Match: things are true 	[basis: thing ar true ]
+
+
+Primary Match: power over you 	[basis: power over you ]
+Secondary Match: power over you 	[basis: power over you ]
+
+
+Primary Match: ye have desired 	[basis: ye have desir ]
+Secondary Match: ye have desired 	[basis: ye have desir ]
+
+
+Primary Match: lord o thou 	[basis: lord o thou ]
+Secondary Match: o lord o 	[basis: o lord o ]
+Secondary Match: lord o lord 	[basis: lord o lord ]
+
+
+Primary Match: behold if ye 	[basis: behold if ye ]
+Secondary Match: behold if ye 	[basis: behold if ye ]
+Secondary Match: behold if ye 	[basis: behold if ye ]
+Secondary Match: behold if ye 	[basis: behold if ye ]
+Secondary Match: behold if ye 	[basis: behold if ye ]
+
+
+Primary Match: whether they be 	[basis: whether thei be ]
+Secondary Match: whether they be 	[basis: whether thei be ]
+Secondary Match: whether they be 	[basis: whether thei be ]
+
+
+Primary Match: my beloved brethren 	[basis: my belov brethren ]
+Secondary Match: my beloved brethren 	[basis: my belov brethren ]
+Secondary Match: my beloved brethren 	[basis: my belov brethren ]
+Secondary Match: my beloved brethren 	[basis: my belov brethren ]
+Secondary Match: my beloved brethren 	[basis: my belov brethren ]
+Secondary Match: my beloved brethren 	[basis: my belov brethren ]
+Secondary Match: my beloved brethren 	[basis: my belov brethren ]
+Secondary Match: my beloved brethren 	[basis: my belov brethren ]
+Secondary Match: my beloved brethren 	[basis: my belov brethren ]
+Secondary Match: my brethren my 	[basis: my brethren my ]
+Secondary Match: my beloved brethren 	[basis: my belov brethren ]
+
+
+Primary Match: hearts be full 	[basis: heart be full ]
+Secondary Match: heart be full 	[basis: heart be full ]
+
+
+Primary Match: how can ye 	[basis: how can ye ]
+Secondary Match: how can ye 	[basis: how can ye ]
+
+
+Primary Match: holy spirit which 	[basis: holi spirit which ]
+Secondary Match: holy spirit which 	[basis: holi spirit which ]
+
+
+Primary Match: had been no 	[basis: had been no ]
+Secondary Match: had been no 	[basis: had been no ]
+
+
+Primary Match: my beloved brethren 	[basis: my belov brethren ]
+Secondary Match: my beloved brethren 	[basis: my belov brethren ]
+Secondary Match: my beloved brethren 	[basis: my belov brethren ]
+Secondary Match: my beloved brethren 	[basis: my belov brethren ]
+Secondary Match: my beloved brethren 	[basis: my belov brethren ]
+Secondary Match: my beloved brethren 	[basis: my belov brethren ]
+Secondary Match: my beloved brethren 	[basis: my belov brethren ]
+Secondary Match: my beloved brethren 	[basis: my belov brethren ]
+Secondary Match: my beloved brethren 	[basis: my belov brethren ]
+Secondary Match: my brethren my 	[basis: my brethren my ]
+Secondary Match: my beloved brethren 	[basis: my belov brethren ]
+
+
+Primary Match: fall into transgression 	[basis: fall into transgress ]
+Secondary Match: fall into transgression 	[basis: fall into transgress ]
+
+
+Primary Match: cannot be saved 	[basis: cannot be save ]
+Secondary Match: cannot be saved 	[basis: cannot be save ]
+Secondary Match: cannot be saved 	[basis: cannot be save ]
+
+
+Primary Match: thing can inherit 	[basis: thing can inherit ]
+Secondary Match: thing can inherit 	[basis: thing can inherit ]
+
+
+Primary Match: his holy name 	[basis: hi holi name ]
+Secondary Match: his holy name 	[basis: hi holi name ]
+
+
+Primary Match: behold this is 	[basis: behold thi is ]
+Secondary Match: behold this is 	[basis: behold thi is ]
+Secondary Match: behold this is 	[basis: behold thi is ]
+Secondary Match: behold this is 	[basis: behold thi is ]
+Secondary Match: behold this is 	[basis: behold thi is ]
+Secondary Match: behold this is 	[basis: behold thi is ]
+Secondary Match: behold this is 	[basis: behold thi is ]
+
+
+Primary Match: the lord o 	[basis: the lord o ]
+Secondary Match: o lord o 	[basis: o lord o ]
+Secondary Match: lord o lord 	[basis: lord o lord ]
+
+
+Primary Match: shall rise from 	[basis: shall rise from ]
+Secondary Match: shall rise from 	[basis: shall rise from ]
+Secondary Match: shall rise from 	[basis: shall rise from ]
+
+
+Primary Match: after ye have 	[basis: after ye have ]
+Secondary Match: after ye have 	[basis: after ye have ]
+
+
+Primary Match: those who are 	[basis: those who ar ]
+Secondary Match: those who are 	[basis: those who ar ]
+Secondary Match: those who are 	[basis: those who ar ]
+Secondary Match: those who are 	[basis: those who ar ]
+Secondary Match: those who are 	[basis: those who ar ]
+
+
+Primary Match: for ye are 	[basis: for ye ar ]
+Secondary Match: for ye are 	[basis: for ye ar ]
+Secondary Match: for ye are 	[basis: for ye ar ]
+Secondary Match: are ye for 	[basis: ar ye for ]
+
+
+Primary Match: that ye do 	[basis: that ye do ]
+Secondary Match: ye do ye 	[basis: ye do ye ]
+
+
+Primary Match: things which have 	[basis: thing which have ]
+Secondary Match: things which have 	[basis: thing which have ]
+
+
+Primary Match: my brethren i 	[basis: my brethren i ]
+Secondary Match: my brethren my 	[basis: my brethren my ]
+
+
+Primary Match: god hath spoken 	[basis: god hath spoken ]
+Secondary Match: god hath spoken 	[basis: god hath spoken ]
+
+
+Primary Match: therefore ye cannot 	[basis: therefor ye cannot ]
+Secondary Match: therefore ye cannot 	[basis: therefor ye cannot ]
+
+
+Primary Match: be saved except 	[basis: be save except ]
+Secondary Match: be saved except 	[basis: be save except ]
+
+
+Primary Match: upon your hearts 	[basis: upon your heart ]
+Secondary Match: your hearts upon 	[basis: your heart upon ]
+Secondary Match: your hearts upon 	[basis: your heart upon ]
+
+
+Primary Match: there had been 	[basis: there had been ]
+Secondary Match: there had been 	[basis: there had been ]
+
+
+Primary Match: these things but 	[basis: these thing but ]
+Secondary Match: these things but 	[basis: these thing but ]
+Secondary Match: these things but 	[basis: these thing but ]
+Secondary Match: these things but 	[basis: these thing but ]
+
+
+Primary Match: there is a 	[basis: there is a ]
+Secondary Match: there is a 	[basis: there is a ]
+Secondary Match: there is a 	[basis: there is a ]
+Secondary Match: there is a 	[basis: there is a ]
+Secondary Match: there is a 	[basis: there is a ]
+Secondary Match: there is a 	[basis: there is a ]
+Secondary Match: there is a 	[basis: there is a ]
+Secondary Match: there is a 	[basis: there is a ]
+Secondary Match: there is a 	[basis: there is a ]
+Secondary Match: there is a 	[basis: there is a ]
+Secondary Match: there is a 	[basis: there is a ]
+Secondary Match: there is a 	[basis: there is a ]
+Secondary Match: there is a 	[basis: there is a ]
+Secondary Match: there is a 	[basis: there is a ]
+
+
+Primary Match: may have faith 	[basis: mai have faith ]
+Secondary Match: may have faith 	[basis: mai have faith ]
+
+
+Primary Match: whether they be 	[basis: whether thei be ]
+Secondary Match: whether they be 	[basis: whether thei be ]
+Secondary Match: whether they be 	[basis: whether thei be ]
+
+
+Primary Match: then ye shall 	[basis: then ye shall ]
+Secondary Match: then shall ye 	[basis: then shall ye ]
+
+
+Primary Match: yea humble yourselves 	[basis: yea humbl yourselv ]
+Secondary Match: yea humble yourselves 	[basis: yea humbl yourselv ]
+
+
+Primary Match: them in their 	[basis: them in their ]
+Secondary Match: them in their 	[basis: them in their ]
+
+
+Primary Match: would not be 	[basis: would not be ]
+Secondary Match: would not be 	[basis: would not be ]
+Secondary Match: would not be 	[basis: would not be ]
+
+
+Primary Match: may god grant 	[basis: mai god grant ]
+Secondary Match: may god grant 	[basis: mai god grant ]
+Secondary Match: may god grant 	[basis: mai god grant ]
+Secondary Match: may god grant 	[basis: mai god grant ]
+Secondary Match: may god grant 	[basis: mai god grant ]
+
+
+Primary Match: they be good 	[basis: thei be good ]
+Secondary Match: they be good 	[basis: thei be good ]
+
+
+Primary Match: raised from this 	[basis: rais from thi ]
+Secondary Match: raised from this 	[basis: rais from thi ]
+
+
+Primary Match: are true behold 	[basis: ar true behold ]
+Secondary Match: are true behold 	[basis: ar true behold ]
+
+
+Primary Match: humble yourselves even 	[basis: humbl yourselv even ]
+Secondary Match: humble yourselves even 	[basis: humbl yourselv even ]
+
+
+Primary Match: holy ones of 	[basis: holi on of ]
+Secondary Match: one on one 	[basis: on on on ]
+
+
+Primary Match: ye do not 	[basis: ye do not ]
+Secondary Match: do ye not 	[basis: do ye not ]
+Secondary Match: do ye not 	[basis: do ye not ]
+Secondary Match: do ye not 	[basis: do ye not ]
+Secondary Match: do ye not 	[basis: do ye not ]
+Secondary Match: do ye not 	[basis: do ye not ]
+Secondary Match: ye do not 	[basis: ye do not ]
+Secondary Match: ye do not 	[basis: ye do not ]
+Secondary Match: ye do ye 	[basis: ye do ye ]
+Secondary Match: ye do not 	[basis: ye do not ]
+
+
+Primary Match: ye may be 	[basis: ye mai be ]
+Secondary Match: ye may be 	[basis: ye mai be ]
+Secondary Match: ye may be 	[basis: ye mai be ]
+Secondary Match: ye may be 	[basis: ye mai be ]
+Secondary Match: ye may be 	[basis: ye mai be ]
+
+
+Primary Match: i went on 	[basis: i went on ]
+Secondary Match: one on one 	[basis: on on on ]
+
+
+Primary Match: can ye be 	[basis: can ye be ]
+Secondary Match: can ye be 	[basis: can ye be ]
+
+
+Primary Match: ye shall be 	[basis: ye shall be ]
+Secondary Match: ye shall be 	[basis: ye shall be ]
+Secondary Match: ye shall be 	[basis: ye shall be ]
+Secondary Match: ye shall be 	[basis: ye shall be ]
+Secondary Match: ye shall be 	[basis: ye shall be ]
+Secondary Match: ye shall be 	[basis: ye shall be ]
+Secondary Match: ye shall be 	[basis: ye shall be ]
+Secondary Match: ye shall be 	[basis: ye shall be ]
+Secondary Match: ye shall be 	[basis: ye shall be ]
+Secondary Match: ye shall be 	[basis: ye shall be ]
+Secondary Match: ye shall be 	[basis: ye shall be ]
+
+
+Primary Match: shall be no 	[basis: shall be no ]
+Secondary Match: shall be no 	[basis: shall be no ]
+
+
+Primary Match: should be made 	[basis: should be made ]
+Secondary Match: should be made 	[basis: should be made ]
+Secondary Match: should be made 	[basis: should be made ]
+
+
+Primary Match: been spoken concerning 	[basis: been spoken concern ]
+Secondary Match: been spoken concerning 	[basis: been spoken concern ]
+
+
+Primary Match: this is all 	[basis: thi is all ]
+Secondary Match: this is all 	[basis: thi is all ]
+
+
+Primary Match: do not understand 	[basis: do not understand ]
+Secondary Match: do not understand 	[basis: do not understand ]
+
+
+Primary Match: man who has 	[basis: man who ha ]
+Secondary Match: man who has 	[basis: man who ha ]
+
+
+Primary Match: take upon him 	[basis: take upon him ]
+Secondary Match: take upon him 	[basis: take upon him ]
+
+
+Primary Match: word in your 	[basis: word in your ]
+Secondary Match: word in your 	[basis: word in your ]
+
+
+Primary Match: stand before god 	[basis: stand befor god ]
+Secondary Match: stand before god 	[basis: stand befor god ]
+Secondary Match: stand before god 	[basis: stand befor god ]
+
+
+Primary Match: you nay but 	[basis: you nai but ]
+Secondary Match: you nay but 	[basis: you nai but ]
+
+
+Primary Match: their sins for 	[basis: their sin for ]
+Secondary Match: for their sins 	[basis: for their sin ]
+
+
+Primary Match: be judged according 	[basis: be judg accord ]
+Secondary Match: be judged according 	[basis: be judg accord ]
+Secondary Match: be judged according 	[basis: be judg accord ]
+Secondary Match: be judged according 	[basis: be judg accord ]
+Secondary Match: be judged according 	[basis: be judg accord ]
+Secondary Match: be judged according 	[basis: be judg accord ]
+
+
+Primary Match: be lost but 	[basis: be lost but ]
+Secondary Match: be lost but 	[basis: be lost but ]
+
+
+Primary Match: exercise your faith 	[basis: exercis your faith ]
+Secondary Match: exercised your faith 	[basis: exercis your faith ]
+
+
+Primary Match: more out but 	[basis: more out but ]
+Secondary Match: more out but 	[basis: more out but ]
+
+
+Primary Match: this people yea 	[basis: thi peopl yea ]
+Secondary Match: this people yea 	[basis: thi peopl yea ]
+Secondary Match: this people yea 	[basis: thi peopl yea ]
+Secondary Match: this people yea 	[basis: thi peopl yea ]
+Secondary Match: this people yea 	[basis: thi peopl yea ]
+
+
+Primary Match: ye should do 	[basis: ye should do ]
+Secondary Match: ye do ye 	[basis: ye do ye ]
+Secondary Match: ye should do 	[basis: ye should do ]
+
+
+Primary Match: death which is 	[basis: death which is ]
+Secondary Match: death which is 	[basis: death which is ]
+
+
+Primary Match: shall one day 	[basis: shall on dai ]
+Secondary Match: one on one 	[basis: on on on ]
+
+
+Primary Match: if ye will 	[basis: if ye will ]
+Secondary Match: if ye will 	[basis: if ye will ]
+Secondary Match: if ye will 	[basis: if ye will ]
+Secondary Match: if ye will 	[basis: if ye will ]
+Secondary Match: if ye will 	[basis: if ye will ]
+Secondary Match: if ye will 	[basis: if ye will ]
+Secondary Match: if ye will 	[basis: if ye will ]
+Secondary Match: if ye will 	[basis: if ye will ]
+Secondary Match: if ye will 	[basis: if ye will ]
+
+
+Primary Match: if a man 	[basis: if a man ]
+Secondary Match: if a man 	[basis: if a man ]
+Secondary Match: if a man 	[basis: if a man ]
+Secondary Match: if a man 	[basis: if a man ]
+
+
+Primary Match: the holy ones 	[basis: the holi on ]
+Secondary Match: one on one 	[basis: on on on ]
+
+
+Primary Match: by an angel 	[basis: by an angel ]
+Secondary Match: by an angel 	[basis: by an angel ]
+
+
+Primary Match: which is in 	[basis: which is in ]
+Secondary Match: which is in 	[basis: which is in ]
+Secondary Match: which is in 	[basis: which is in ]
+Secondary Match: which is in 	[basis: which is in ]
+Secondary Match: which is in 	[basis: which is in ]
+Secondary Match: which is in 	[basis: which is in ]
+Secondary Match: which is in 	[basis: which is in ]
+Secondary Match: which is in 	[basis: which is in ]
+Secondary Match: which is in 	[basis: which is in ]
+Secondary Match: which is in 	[basis: which is in ]
+Secondary Match: which is in 	[basis: which is in ]
+
+
+Primary Match: things are true 	[basis: thing ar true ]
+Secondary Match: things are true 	[basis: thing ar true ]
+Secondary Match: things are true 	[basis: thing ar true ]
+
+
+Primary Match: so much as 	[basis: so much as ]
+Secondary Match: so much as 	[basis: so much as ]
+Secondary Match: as much as 	[basis: as much as ]
+
+
+Primary Match: things but behold 	[basis: thing but behold ]
+Secondary Match: things but behold 	[basis: thing but behold ]
+Secondary Match: thing but behold 	[basis: thing but behold ]
+
+
+Primary Match: in me for 	[basis: in me for ]
+Secondary Match: in me in 	[basis: in me in ]
+
+
+Primary Match: shall be restored 	[basis: shall be restor ]
+Secondary Match: shall be restored 	[basis: shall be restor ]
+Secondary Match: shall be restored 	[basis: shall be restor ]
+Secondary Match: shall be restored 	[basis: shall be restor ]
+Secondary Match: shall be restored 	[basis: shall be restor ]
+Secondary Match: shall be restored 	[basis: shall be restor ]
+Secondary Match: shall be restored 	[basis: shall be restor ]
+Secondary Match: shall be restored 	[basis: shall be restor ]
+
+
+Primary Match: do cast you 	[basis: do cast you ]
+Secondary Match: you do you 	[basis: you do you ]
+
+
+Primary Match: on rebelling against 	[basis: on rebel against ]
+Secondary Match: one on one 	[basis: on on on ]
+
+
+Primary Match: be made white 	[basis: be made white ]
+Secondary Match: made white being 	[basis: made white be ]
+
+
+Primary Match: should be made 	[basis: should be made ]
+Secondary Match: should be made 	[basis: should be made ]
+Secondary Match: should be made 	[basis: should be made ]
+
+
+Primary Match: in his fierce 	[basis: in hi fierc ]
+Secondary Match: in his fierce 	[basis: in hi fierc ]
+
+
+Primary Match: if ye have 	[basis: if ye have ]
+Secondary Match: if ye have 	[basis: if ye have ]
+Secondary Match: if ye have 	[basis: if ye have ]
+Secondary Match: if ye have 	[basis: if ye have ]
+Secondary Match: if ye have 	[basis: if ye have ]
+Secondary Match: if ye have 	[basis: if ye have ]
+
+
+Primary Match: these things behold 	[basis: these thing behold ]
+Secondary Match: these things behold 	[basis: these thing behold ]
+Secondary Match: these things behold 	[basis: these thing behold ]
+Secondary Match: behold these things 	[basis: behold these thing ]
+
+
+Primary Match: repentance that ye 	[basis: repent that ye ]
+Secondary Match: ye repent ye 	[basis: ye repent ye ]
+
+
+Primary Match: whether there shall 	[basis: whether there shall ]
+Secondary Match: whether there shall 	[basis: whether there shall ]
+
+
+Primary Match: there is not 	[basis: there is not ]
+Secondary Match: is there not 	[basis: is there not ]
+
+
+Primary Match: can be nothing 	[basis: can be noth ]
+Secondary Match: can be nothing 	[basis: can be noth ]
+
+
+Primary Match: from this temporal 	[basis: from thi tempor ]
+Secondary Match: from this temporal 	[basis: from thi tempor ]
+
+
+Primary Match: atonement should be 	[basis: aton should be ]
+Secondary Match: atonement should be 	[basis: aton should be ]
+
+
+Primary Match: as ye have 	[basis: as ye have ]
+Secondary Match: as ye have 	[basis: as ye have ]
+Secondary Match: as ye have 	[basis: as ye have ]
+
+
+Primary Match: go no more 	[basis: go no more ]
+Secondary Match: go no more 	[basis: go no more ]
+Secondary Match: go no more 	[basis: go no more ]
+Secondary Match: go no more 	[basis: go no more ]
+
+
+Primary Match: place in you 	[basis: place in you ]
+Secondary Match: place in you 	[basis: place in you ]
+Secondary Match: place in you 	[basis: place in you ]
+
+
+Primary Match: ye do not 	[basis: ye do not ]
+Secondary Match: do ye not 	[basis: do ye not ]
+Secondary Match: do ye not 	[basis: do ye not ]
+Secondary Match: do ye not 	[basis: do ye not ]
+Secondary Match: do ye not 	[basis: do ye not ]
+Secondary Match: do ye not 	[basis: do ye not ]
+Secondary Match: ye do not 	[basis: ye do not ]
+Secondary Match: ye do not 	[basis: ye do not ]
+Secondary Match: ye do ye 	[basis: ye do ye ]
+Secondary Match: ye do not 	[basis: ye do not ]
+
+
+Primary Match: be no christ 	[basis: be no christ ]
+Secondary Match: be no christ 	[basis: be no christ ]
+
+
+Primary Match: behold my beloved 	[basis: behold my belov ]
+Secondary Match: behold my beloved 	[basis: behold my belov ]
+
+
+Primary Match: o ye wicked 	[basis: o ye wick ]
+Secondary Match: o ye wicked 	[basis: o ye wick ]
+
+
+Primary Match: all those who 	[basis: all those who ]
+Secondary Match: all those who 	[basis: all those who ]
+Secondary Match: all those who 	[basis: all those who ]
+
+
+Primary Match: hath made them 	[basis: hath made them ]
+Secondary Match: hath made them 	[basis: hath made them ]
+
+
+Primary Match: thing shall be 	[basis: thing shall be ]
+Secondary Match: things shall be 	[basis: thing shall be ]
+Secondary Match: things shall be 	[basis: thing shall be ]
+
+
+Primary Match: our last king 	[basis: our last king ]
+Secondary Match: our last king 	[basis: our last king ]
+
+

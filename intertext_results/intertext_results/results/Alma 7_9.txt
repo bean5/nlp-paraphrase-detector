@@ -1,0 +1,9 @@
+Primary Source: Resources/Alma 7.txt
+Secondary Source: Resources/Alma 9.txt
+Match Case: No
+Strict Search: No
+Fuzzy Search Parameters: 5/6
+Time to complete: 0.047483333333333336 minutes.
+Left Match Count: 0
+Right Match Count: 0
+

@@ -1,0 +1,38 @@
+Primary Source: corpora/Amulek.txt
+Secondary Source: corpora/Alma 2.txt
+Match Case: No
+Use Porter Stemmer: Yes
+Strict Search: No
+Fuzzy Search Parameters: 6/6
+Time to complete: 1.9442 minutes.
+Left Match Count: 7
+Right Match Count: 7
+
+Primary Match: there had been no redemption made 	[basis: there had been no redempt made ]
+Secondary Match: there had been no redemption made 	[basis: there had been no redempt made ]
+
+
+Primary Match: as though there had been no 	[basis: as though there had been no ]
+Secondary Match: as though there had been no 	[basis: as though there had been no ]
+
+
+Primary Match: though there had been no redemption 	[basis: though there had been no redempt ]
+Secondary Match: though there had been no redemption 	[basis: though there had been no redempt ]
+
+
+Primary Match: good or whether they be evil 	[basis: good or whether thei be evil ]
+Secondary Match: whether they be good or evil 	[basis: whether thei be good or evil ]
+
+
+Primary Match: lord which is in me for 	[basis: lord which is in me for ]
+Secondary Match: which is in me which is 	[basis: which is in me which is ]
+
+
+Primary Match: the lord which is in me 	[basis: the lord which is in me ]
+Secondary Match: which is in me which is 	[basis: which is in me which is ]
+
+
+Primary Match: which is in me for i 	[basis: which is in me for i ]
+Secondary Match: which is in me which is 	[basis: which is in me which is ]
+
+

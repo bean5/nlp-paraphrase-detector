@@ -1,0 +1,345 @@
+Primary Source: Resources/King Benjamin.txt
+Secondary Source: Resources/Abinadi.txt
+Match Case: No
+Strict Search: No
+Fuzzy Search Parameters: 4/6
+Time to complete: 0.3516166666666667 minutes.
+Left Match Count: 66
+Right Match Count: 138
+
+Primary Match: this much I can tell you 
+Secondary Match: this much I tell you what 
+Secondary Match: But this much I tell you 
+
+
+Primary Match: doeth this shall be found at 
+Secondary Match: shall be destroyed at this time 
+Secondary Match: I shall be destroyed at this 
+
+
+Primary Match: if ye do keep his commandments 
+Secondary Match: yea if ye keep the commandments 
+Secondary Match: if ye keep the commandments of 
+Secondary Match: if ye keep the commandments which 
+Secondary Match: know if ye keep the commandments 
+
+
+Primary Match: voice by which ye shall be 
+Secondary Match: ye shall be taken by the 
+Secondary Match: and ye shall be taken by 
+
+
+Primary Match: by which ye shall be called 
+Secondary Match: ye shall be taken by the 
+Secondary Match: and ye shall be taken by 
+
+
+Primary Match: or who ever shall be even 
+Secondary Match: who shall be even until the 
+Secondary Match: and who shall be even until 
+Secondary Match: are and who shall be even 
+
+
+Primary Match: not for these things which have 
+Secondary Match: understand these things ye have not 
+Secondary Match: these things ye have not taught 
+
+
+Primary Match: not been taught concerning these things 
+Secondary Match: concerning these things Have they not 
+Secondary Match: these things ye have not taught 
+
+
+Primary Match: out in open rebellion against God 
+Secondary Match: and rebellion against God remaineth in 
+Secondary Match: rebellion against God remaineth in his 
+
+
+Primary Match: for he shall be called by 
+Secondary Match: for so shall he be called 
+
+
+Primary Match: concerning these things or even do 
+Secondary Match: more or less concerning these things 
+Secondary Match: or less concerning these things Have 
+
+
+Primary Match: if ye shall keep the commandments 
+Secondary Match: yea if ye keep the commandments 
+Secondary Match: if ye keep the commandments of 
+Secondary Match: if ye keep the commandments which 
+Secondary Match: know if ye keep the commandments 
+
+
+Primary Match: all these things to have taught 
+Secondary Match: these things ye have not taught 
+
+
+Primary Match: I have not done these things 
+Secondary Match: understand these things ye have not 
+Secondary Match: these things ye have not taught 
+
+
+Primary Match: these things to have taught them 
+Secondary Match: things ye have not taught them 
+Secondary Match: these things ye have not taught 
+
+
+Primary Match: do as ye have hitherto done 
+Secondary Match: Behold even as ye have done 
+Secondary Match: even as ye have done unto 
+Secondary Match: as ye have done unto me 
+
+
+Primary Match: nothing concerning these things or even 
+Secondary Match: more or less concerning these things 
+Secondary Match: or less concerning these things Have 
+
+
+Primary Match: all these things if ye should 
+Secondary Match: For if ye understand these things 
+Secondary Match: they should do all these things 
+Secondary Match: should do all these things I 
+Secondary Match: if ye understand these things ye 
+
+
+Primary Match: have fallen into the hands of 
+Secondary Match: have fallen into your hands Yea 
+Secondary Match: I have fallen into your hands 
+
+
+Primary Match: kingdom of God For behold are 
+Secondary Match: kingdom of God For these are 
+
+
+Primary Match: which was prepared from the foundation 
+Secondary Match: was prepared from the foundation of 
+Secondary Match: which was prepared from the foundation 
+Secondary Match: people which was prepared from the 
+Secondary Match: his people which was prepared from 
+
+
+Primary Match: these things unto those who are 
+Secondary Match: And these are those who have 
+Secondary Match: these are those who have part 
+Secondary Match: death And these are those who 
+
+
+Primary Match: I say unto you wo be 
+Secondary Match: I say unto you wo be 
+Secondary Match: say unto you wo be unto 
+
+
+Primary Match: called for he shall be called 
+Secondary Match: for so shall he be called 
+
+
+Primary Match: you believe all these things see 
+Secondary Match: unto you that all these things 
+Secondary Match: you that all these things were 
+
+
+Primary Match: this shall be found at the 
+Secondary Match: shall be destroyed at this time 
+Secondary Match: I shall be destroyed at this 
+
+
+Primary Match: who ever shall be even unto 
+Secondary Match: who shall be even until the 
+Secondary Match: and who shall be even until 
+Secondary Match: are and who shall be even 
+
+
+Primary Match: even so shall it be among 
+Secondary Match: even so he shall be led 
+Secondary Match: Yea even so he shall be 
+
+
+Primary Match: in your hearts that ye are 
+Secondary Match: are not written in your hearts 
+
+
+Primary Match: is called for he shall be 
+Secondary Match: for so shall he be called 
+
+
+Primary Match: as ye have hitherto done As 
+Secondary Match: Behold even as ye have done 
+Secondary Match: even as ye have done unto 
+Secondary Match: as ye have done unto me 
+
+
+Primary Match: which I have told you Believe 
+Secondary Match: have I told you that which 
+
+
+Primary Match: know nothing concerning these things or 
+Secondary Match: more or less concerning these things 
+Secondary Match: or less concerning these things Have 
+
+
+Primary Match: have not been taught concerning these 
+Secondary Match: these things ye have not taught 
+
+
+Primary Match: ye have made ye shall be 
+Secondary Match: ye shall be hunted and ye 
+
+
+Primary Match: God For behold are we not 
+Secondary Match: God For behold did not Moses 
+Secondary Match: of God For behold did not 
+
+
+Primary Match: man can be saved except the 
+Secondary Match: man be saved except it were 
+Secondary Match: any man be saved except it 
+Secondary Match: not any man be saved except 
+
+
+Primary Match: atonement which was prepared from the 
+Secondary Match: which was prepared from the foundation 
+Secondary Match: people which was prepared from the 
+Secondary Match: his people which was prepared from 
+
+
+Primary Match: which I have spoken unto you 
+Secondary Match: which I have spoken unto you 
+
+
+Primary Match: these things if ye should transgress 
+Secondary Match: For if ye understand these things 
+Secondary Match: if ye understand these things ye 
+
+
+Primary Match: your hearts that ye are not 
+Secondary Match: are not written in your hearts 
+
+
+Primary Match: have not done these things that 
+Secondary Match: understand these things ye have not 
+Secondary Match: these things ye have not taught 
+
+
+Primary Match: But this much I can tell 
+Secondary Match: saved But this much I tell 
+Secondary Match: But this much I tell you 
+
+
+Primary Match: must have fallen into the hands 
+Secondary Match: have fallen into your hands Yea 
+Secondary Match: I have fallen into your hands 
+
+
+Primary Match: whereby man can be saved except 
+Secondary Match: man be saved except it were 
+Secondary Match: any man be saved except it 
+Secondary Match: not any man be saved except 
+
+
+Primary Match: the atonement which was prepared from 
+Secondary Match: which was prepared from the foundation 
+Secondary Match: people which was prepared from the 
+Secondary Match: his people which was prepared from 
+
+
+Primary Match: if ye would keep his commandments 
+Secondary Match: yea if ye keep the commandments 
+Secondary Match: if ye keep the commandments of 
+Secondary Match: if ye keep the commandments which 
+Secondary Match: know if ye keep the commandments 
+
+
+Primary Match: commandments of God which shall be 
+Secondary Match: commandments of God ye shall be 
+
+
+Primary Match: who are or who ever shall 
+Secondary Match: and who are and who shall 
+Secondary Match: who are and who shall be 
+
+
+Primary Match: God Behold ye have called me 
+Secondary Match: God ye have judged me that 
+Secondary Match: of God ye have judged me 
+
+
+Primary Match: if you believe all these things 
+Secondary Match: unto you that all these things 
+Secondary Match: you that all these things were 
+
+
+Primary Match: have been taught all these things 
+Secondary Match: these things ye have not taught 
+
+
+Primary Match: you for which if ye do 
+Secondary Match: unto you Nay for if ye 
+Secondary Match: you Nay for if ye had 
+
+
+Primary Match: taught all these things if ye 
+Secondary Match: For if ye understand these things 
+Secondary Match: these things ye have not taught 
+Secondary Match: if ye understand these things ye 
+
+
+Primary Match: for a remission of your sins 
+Secondary Match: for a remission of their sins 
+
+
+Primary Match: conditions which I have told you 
+Secondary Match: have I told you that which 
+
+
+Primary Match: that even so shall it be 
+Secondary Match: even so he shall be led 
+Secondary Match: Yea even so he shall be 
+
+
+Primary Match: was prepared from the foundation of 
+Secondary Match: was prepared from the foundation of 
+Secondary Match: which was prepared from the foundation 
+
+
+Primary Match: things to have taught them to 
+Secondary Match: things ye have not taught them 
+
+
+Primary Match: in open rebellion against God therefore 
+Secondary Match: and rebellion against God remaineth in 
+Secondary Match: rebellion against God remaineth in his 
+
+
+Primary Match: say unto you if ye have 
+Secondary Match: say unto you Nay ye have 
+Secondary Match: say unto you Nay ye have 
+
+
+Primary Match: name written always in your hearts 
+Secondary Match: are not written in your hearts 
+Secondary Match: written in your hearts I perceive 
+Secondary Match: not written in your hearts I 
+
+
+Primary Match: commanded you for which if ye 
+Secondary Match: unto you Nay for if ye 
+Secondary Match: you Nay for if ye had 
+
+
+Primary Match: written always in your hearts that 
+Secondary Match: are not written in your hearts 
+Secondary Match: written in your hearts I perceive 
+Secondary Match: not written in your hearts I 
+
+
+Primary Match: are or who ever shall be 
+Secondary Match: are and who shall be even 
+Secondary Match: who are and who shall be 
+
+
+Primary Match: say unto you wo be unto 
+Secondary Match: I say unto you wo be 
+Secondary Match: say unto you wo be unto 
+
+

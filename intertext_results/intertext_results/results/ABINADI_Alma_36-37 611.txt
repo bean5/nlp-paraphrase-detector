@@ -1,0 +1,539 @@
+Primary Source: Resources/ABINADI.txt
+Secondary Source: Resources/Alma 36-37.txt
+Match Case: No
+Strict Search: No
+Fuzzy Search Parameters: 6/11
+Time to complete: 0.4837166666666667 minutes.
+Left Match Count: 70
+Right Match Count: 320
+
+Primary Match: every nation kindred tongue and people shall see eye to eye 
+Secondary Match: forth unto every nation kindred tongue and people that they shall 
+Secondary Match: unto every nation kindred tongue and people that they shall know 
+Secondary Match: every nation kindred tongue and people that they shall know of 
+
+
+Primary Match: of the Lord when every nation kindred tongue and people shall 
+Secondary Match: forth unto every nation kindred tongue and people that they shall 
+Secondary Match: unto every nation kindred tongue and people that they shall know 
+Secondary Match: every nation kindred tongue and people that they shall know of 
+
+
+Primary Match: God ye shall be saved yea if ye keep the commandments 
+Secondary Match: that inasmuch as ye shall keep the commandments of God ye 
+Secondary Match: inasmuch as ye shall keep the commandments of God ye shall 
+Secondary Match: as ye shall keep the commandments of God ye shall prosper 
+Secondary Match: ye shall keep the commandments of God ye shall prosper in 
+Secondary Match: shall keep the commandments of God ye shall prosper in the 
+Secondary Match: that inasmuch as ye shall keep the commandments of God ye 
+Secondary Match: inasmuch as ye shall keep the commandments of God ye shall 
+Secondary Match: as ye shall keep the commandments of God ye shall prosper 
+Secondary Match: ye shall keep the commandments of God ye shall prosper in 
+Secondary Match: shall keep the commandments of God ye shall prosper in the 
+Secondary Match: as ye will not keep the commandments of God ye shall 
+Secondary Match: ye will not keep the commandments of God ye shall be 
+Secondary Match: will not keep the commandments of God ye shall be cut 
+Secondary Match: not keep the commandments of God ye shall be cut off 
+Secondary Match: keep the commandments of God ye shall be cut off from 
+Secondary Match: he said but if ye keep not his commandments ye shall 
+Secondary Match: said but if ye keep not his commandments ye shall be 
+Secondary Match: but if ye keep not his commandments ye shall be cut 
+Secondary Match: if ye keep not his commandments ye shall be cut off 
+Secondary Match: ye keep not his commandments ye shall be cut off from 
+Secondary Match: unto God and if ye do these things ye shall be 
+Secondary Match: God and if ye do these things ye shall be lifted 
+
+
+Primary Match: even all those that have perished in their sins ever since 
+Secondary Match: all their oaths and their covenants and their agreements in their 
+
+
+Primary Match: of God ye shall be saved yea if ye keep the 
+Secondary Match: inasmuch as ye shall keep the commandments of God ye shall 
+Secondary Match: as ye shall keep the commandments of God ye shall prosper 
+Secondary Match: ye shall keep the commandments of God ye shall prosper in 
+Secondary Match: inasmuch as ye shall keep the commandments of God ye shall 
+Secondary Match: as ye shall keep the commandments of God ye shall prosper 
+Secondary Match: ye shall keep the commandments of God ye shall prosper in 
+Secondary Match: ye will not keep the commandments of God ye shall be 
+Secondary Match: said but if ye keep not his commandments ye shall be 
+Secondary Match: but if ye keep not his commandments ye shall be cut 
+Secondary Match: if ye keep not his commandments ye shall be cut off 
+Secondary Match: unto God and if ye do these things ye shall be 
+Secondary Match: God and if ye do these things ye shall be lifted 
+
+
+Primary Match: you I will not recall the words which I have spoken 
+Secondary Match: remember the words which I have spoken unto you trust not 
+Secondary Match: the words which I have spoken unto you trust not those 
+Secondary Match: words which I have spoken unto you trust not those secret 
+
+
+Primary Match: not for this all mankind must have perished But behold the 
+Secondary Match: their captivity But behold my son this is not all for 
+Secondary Match: captivity But behold my son this is not all for ye 
+Secondary Match: But behold my son this is not all for ye ought 
+
+
+Primary Match: in their sins yea even all those that have perished in 
+Secondary Match: all their oaths and their covenants and their agreements in their 
+Secondary Match: and their agreements in their secret abominations yea and all their 
+Secondary Match: their agreements in their secret abominations yea and all their signs 
+Secondary Match: in their secret abominations yea and all their signs and their 
+
+
+Primary Match: have believed in their words or all those that have kept 
+Secondary Match: all their oaths and their covenants and their agreements in their 
+
+
+Primary Match: yea even all those that have perished in their sins ever 
+Secondary Match: all their oaths and their covenants and their agreements in their 
+Secondary Match: and their agreements in their secret abominations yea and all their 
+Secondary Match: their agreements in their secret abominations yea and all their signs 
+Secondary Match: in their secret abominations yea and all their signs and their 
+
+
+Primary Match: concerning these things Have they not said that God himself should 
+Secondary Match: of God I should not have known these things but God 
+Secondary Match: God I should not have known these things but God has 
+
+
+Primary Match: all those that have perished in their sins ever since the 
+Secondary Match: all their oaths and their covenants and their agreements in their 
+
+
+Primary Match: sins yea even all those that have perished in their sins 
+Secondary Match: all their oaths and their covenants and their agreements in their 
+Secondary Match: and their agreements in their secret abominations yea and all their 
+Secondary Match: their agreements in their secret abominations yea and all their signs 
+Secondary Match: in their secret abominations yea and all their signs and their 
+
+
+Primary Match: these things I say unto you Nay ye have not Touch 
+Secondary Match: say unto you were it not for these things that these 
+
+
+Primary Match: the prophets and all those that have believed in their words 
+Secondary Match: all their oaths and their covenants and their agreements in their 
+
+
+Primary Match: if ye keep the commandments of God ye shall be saved 
+Secondary Match: that inasmuch as ye shall keep the commandments of God ye 
+Secondary Match: inasmuch as ye shall keep the commandments of God ye shall 
+Secondary Match: as ye shall keep the commandments of God ye shall prosper 
+Secondary Match: ye shall keep the commandments of God ye shall prosper in 
+Secondary Match: shall keep the commandments of God ye shall prosper in the 
+Secondary Match: that inasmuch as ye shall keep the commandments of God ye 
+Secondary Match: inasmuch as ye shall keep the commandments of God ye shall 
+Secondary Match: as ye shall keep the commandments of God ye shall prosper 
+Secondary Match: ye shall keep the commandments of God ye shall prosper in 
+Secondary Match: shall keep the commandments of God ye shall prosper in the 
+Secondary Match: as ye will not keep the commandments of God ye shall 
+Secondary Match: ye will not keep the commandments of God ye shall be 
+Secondary Match: will not keep the commandments of God ye shall be cut 
+Secondary Match: not keep the commandments of God ye shall be cut off 
+Secondary Match: keep the commandments of God ye shall be cut off from 
+Secondary Match: he said but if ye keep not his commandments ye shall 
+Secondary Match: said but if ye keep not his commandments ye shall be 
+Secondary Match: but if ye keep not his commandments ye shall be cut 
+Secondary Match: if ye keep not his commandments ye shall be cut off 
+Secondary Match: ye keep not his commandments ye shall be cut off from 
+Secondary Match: unto God and if ye do these things ye shall be 
+Secondary Match: God and if ye do these things ye shall be lifted 
+
+
+Primary Match: know if ye keep the commandments of God ye shall be 
+Secondary Match: that inasmuch as ye shall keep the commandments of God ye 
+Secondary Match: inasmuch as ye shall keep the commandments of God ye shall 
+Secondary Match: as ye shall keep the commandments of God ye shall prosper 
+Secondary Match: ye shall keep the commandments of God ye shall prosper in 
+Secondary Match: shall keep the commandments of God ye shall prosper in the 
+Secondary Match: know that inasmuch as ye shall keep the commandments of God 
+Secondary Match: that inasmuch as ye shall keep the commandments of God ye 
+Secondary Match: inasmuch as ye shall keep the commandments of God ye shall 
+Secondary Match: as ye shall keep the commandments of God ye shall prosper 
+Secondary Match: ye shall keep the commandments of God ye shall prosper in 
+Secondary Match: shall keep the commandments of God ye shall prosper in the 
+Secondary Match: as ye will not keep the commandments of God ye shall 
+Secondary Match: ye will not keep the commandments of God ye shall be 
+Secondary Match: will not keep the commandments of God ye shall be cut 
+Secondary Match: not keep the commandments of God ye shall be cut off 
+Secondary Match: keep the commandments of God ye shall be cut off from 
+Secondary Match: he said but if ye keep not his commandments ye shall 
+Secondary Match: said but if ye keep not his commandments ye shall be 
+Secondary Match: but if ye keep not his commandments ye shall be cut 
+Secondary Match: if ye keep not his commandments ye shall be cut off 
+Secondary Match: ye keep not his commandments ye shall be cut off from 
+Secondary Match: unto God and if ye do these things ye shall be 
+Secondary Match: God and if ye do these things ye shall be lifted 
+
+
+Primary Match: commandments of God ye shall be saved yea if ye keep 
+Secondary Match: that inasmuch as ye shall keep the commandments of God ye 
+Secondary Match: inasmuch as ye shall keep the commandments of God ye shall 
+Secondary Match: as ye shall keep the commandments of God ye shall prosper 
+Secondary Match: ye shall keep the commandments of God ye shall prosper in 
+Secondary Match: shall keep the commandments of God ye shall prosper in the 
+Secondary Match: that inasmuch as ye shall keep the commandments of God ye 
+Secondary Match: inasmuch as ye shall keep the commandments of God ye shall 
+Secondary Match: as ye shall keep the commandments of God ye shall prosper 
+Secondary Match: ye shall keep the commandments of God ye shall prosper in 
+Secondary Match: shall keep the commandments of God ye shall prosper in the 
+Secondary Match: as ye will not keep the commandments of God ye shall 
+Secondary Match: ye will not keep the commandments of God ye shall be 
+Secondary Match: will not keep the commandments of God ye shall be cut 
+Secondary Match: not keep the commandments of God ye shall be cut off 
+Secondary Match: keep the commandments of God ye shall be cut off from 
+Secondary Match: he said but if ye keep not his commandments ye shall 
+Secondary Match: said but if ye keep not his commandments ye shall be 
+Secondary Match: but if ye keep not his commandments ye shall be cut 
+Secondary Match: if ye keep not his commandments ye shall be cut off 
+Secondary Match: ye keep not his commandments ye shall be cut off from 
+Secondary Match: unto God and if ye do these things ye shall be 
+Secondary Match: God and if ye do these things ye shall be lifted 
+
+
+Primary Match: Lord when every nation kindred tongue and people shall see eye 
+Secondary Match: forth unto every nation kindred tongue and people that they shall 
+Secondary Match: unto every nation kindred tongue and people that they shall know 
+Secondary Match: every nation kindred tongue and people that they shall know of 
+
+
+Primary Match: die in their sins yea even all those that have perished 
+Secondary Match: all their oaths and their covenants and their agreements in their 
+Secondary Match: and their agreements in their secret abominations yea and all their 
+Secondary Match: their agreements in their secret abominations yea and all their signs 
+Secondary Match: in their secret abominations yea and all their signs and their 
+
+
+Primary Match: behold I say unto you that all these things were types 
+Secondary Match: say unto you were it not for these things that these 
+
+
+Primary Match: after this shall be as a type and a shadow of 
+Secondary Match: a type in this thing For just as surely as this 
+
+
+Primary Match: you that when his soul has been made an offering for 
+Secondary Match: you for he has fulfilled his promises which he has made 
+
+
+Primary Match: him and die in their sins yea even all those that 
+Secondary Match: all their oaths and their covenants and their agreements in their 
+Secondary Match: and their agreements in their secret abominations yea and all their 
+Secondary Match: their agreements in their secret abominations yea and all their signs 
+Secondary Match: in their secret abominations yea and all their signs and their 
+
+
+Primary Match: ye shall do unto me shall be a type of things 
+Secondary Match: unto God and if ye do these things ye shall be 
+Secondary Match: God and if ye do these things ye shall be lifted 
+Secondary Match: and if ye do these things ye shall be lifted up 
+Secondary Match: if ye do these things ye shall be lifted up at 
+Secondary Match: ye do these things ye shall be lifted up at the 
+
+
+Primary Match: Lord shall be declared to every nation kindred tongue and people 
+Secondary Match: forth unto every nation kindred tongue and people that they shall 
+Secondary Match: unto every nation kindred tongue and people that they shall know 
+Secondary Match: every nation kindred tongue and people that they shall know of 
+
+
+Primary Match: things for to keep these commandments I say unto you Nay 
+Secondary Match: say unto you were it not for these things that these 
+
+
+Primary Match: their sins yea even all those that have perished in their 
+Secondary Match: all their oaths and their covenants and their agreements in their 
+Secondary Match: and their agreements in their secret abominations yea and all their 
+Secondary Match: their agreements in their secret abominations yea and all their signs 
+Secondary Match: in their secret abominations yea and all their signs and their 
+
+
+Primary Match: me after this shall be as a type and a shadow 
+Secondary Match: a type in this thing For just as surely as this 
+
+
+Primary Match: shall be saved yea if ye keep the commandments which the 
+Secondary Match: inasmuch as ye shall keep the commandments of God ye shall 
+Secondary Match: as ye shall keep the commandments of God ye shall prosper 
+Secondary Match: ye shall keep the commandments of God ye shall prosper in 
+Secondary Match: inasmuch as ye shall keep the commandments of God ye shall 
+Secondary Match: as ye shall keep the commandments of God ye shall prosper 
+Secondary Match: ye shall keep the commandments of God ye shall prosper in 
+Secondary Match: ye will not keep the commandments of God ye shall be 
+Secondary Match: he said but if ye keep not his commandments ye shall 
+Secondary Match: said but if ye keep not his commandments ye shall be 
+Secondary Match: but if ye keep not his commandments ye shall be cut 
+Secondary Match: if ye keep not his commandments ye shall be cut off 
+Secondary Match: ye keep not his commandments ye shall be cut off from 
+
+
+Primary Match: say unto you were it not for this all mankind must 
+Secondary Match: command you for you must appeal unto the Lord for all 
+Secondary Match: you for you must appeal unto the Lord for all things 
+
+
+Primary Match: you do with me after this shall be as a type 
+Secondary Match: a type in this thing For just as surely as this 
+
+
+Primary Match: ye shall be saved yea if ye keep the commandments which 
+Secondary Match: inasmuch as ye shall keep the commandments of God ye shall 
+Secondary Match: as ye shall keep the commandments of God ye shall prosper 
+Secondary Match: ye shall keep the commandments of God ye shall prosper in 
+Secondary Match: inasmuch as ye shall keep the commandments of God ye shall 
+Secondary Match: as ye shall keep the commandments of God ye shall prosper 
+Secondary Match: ye shall keep the commandments of God ye shall prosper in 
+Secondary Match: ye will not keep the commandments of God ye shall be 
+Secondary Match: he said but if ye keep not his commandments ye shall 
+Secondary Match: said but if ye keep not his commandments ye shall be 
+Secondary Match: but if ye keep not his commandments ye shall be cut 
+Secondary Match: if ye keep not his commandments ye shall be cut off 
+Secondary Match: ye keep not his commandments ye shall be cut off from 
+
+
+Primary Match: the commandments of God ye shall be saved yea if ye 
+Secondary Match: inasmuch as ye shall keep the commandments of God ye shall 
+Secondary Match: as ye shall keep the commandments of God ye shall prosper 
+Secondary Match: ye shall keep the commandments of God ye shall prosper in 
+Secondary Match: inasmuch as ye shall keep the commandments of God ye shall 
+Secondary Match: as ye shall keep the commandments of God ye shall prosper 
+Secondary Match: ye shall keep the commandments of God ye shall prosper in 
+Secondary Match: ye will not keep the commandments of God ye shall be 
+Secondary Match: said but if ye keep not his commandments ye shall be 
+Secondary Match: but if ye keep not his commandments ye shall be cut 
+Secondary Match: if ye keep not his commandments ye shall be cut off 
+Secondary Match: unto God and if ye do these things ye shall be 
+Secondary Match: God and if ye do these things ye shall be lifted 
+
+
+Primary Match: do with me after this shall be as a type and 
+Secondary Match: a type in this thing For just as surely as this 
+
+
+Primary Match: not recall the words which I have spoken unto you concerning 
+Secondary Match: remember the words which I have spoken unto you trust not 
+Secondary Match: the words which I have spoken unto you trust not those 
+Secondary Match: words which I have spoken unto you trust not those secret 
+
+
+Primary Match: dwelleth in flesh he shall be called the Son of God 
+Secondary Match: whosoever shall put their trust in God shall be supported in 
+Secondary Match: shall put their trust in God shall be supported in their 
+
+
+Primary Match: those that have believed in their words or all those that 
+Secondary Match: all their oaths and their covenants and their agreements in their 
+
+
+Primary Match: unto you were it not for this all mankind must have 
+Secondary Match: command you for you must appeal unto the Lord for all 
+Secondary Match: you for you must appeal unto the Lord for all things 
+
+
+Primary Match: all the prophets and all those that have believed in their 
+Secondary Match: all their oaths and their covenants and their agreements in their 
+
+
+Primary Match: all those that have believed in their words or all those 
+Secondary Match: all their oaths and their covenants and their agreements in their 
+
+
+Primary Match: ye keep the commandments of God ye shall be saved yea 
+Secondary Match: that inasmuch as ye shall keep the commandments of God ye 
+Secondary Match: inasmuch as ye shall keep the commandments of God ye shall 
+Secondary Match: as ye shall keep the commandments of God ye shall prosper 
+Secondary Match: ye shall keep the commandments of God ye shall prosper in 
+Secondary Match: shall keep the commandments of God ye shall prosper in the 
+Secondary Match: that inasmuch as ye shall keep the commandments of God ye 
+Secondary Match: inasmuch as ye shall keep the commandments of God ye shall 
+Secondary Match: as ye shall keep the commandments of God ye shall prosper 
+Secondary Match: ye shall keep the commandments of God ye shall prosper in 
+Secondary Match: shall keep the commandments of God ye shall prosper in the 
+Secondary Match: as ye will not keep the commandments of God ye shall 
+Secondary Match: ye will not keep the commandments of God ye shall be 
+Secondary Match: will not keep the commandments of God ye shall be cut 
+Secondary Match: not keep the commandments of God ye shall be cut off 
+Secondary Match: keep the commandments of God ye shall be cut off from 
+Secondary Match: said but if ye keep not his commandments ye shall be 
+Secondary Match: but if ye keep not his commandments ye shall be cut 
+Secondary Match: if ye keep not his commandments ye shall be cut off 
+Secondary Match: ye keep not his commandments ye shall be cut off from 
+
+
+Primary Match: in flesh he shall be called the Son of God and 
+Secondary Match: whosoever shall put their trust in God shall be supported in 
+Secondary Match: shall put their trust in God shall be supported in their 
+
+
+Primary Match: keep the commandments of God ye shall be saved yea if 
+Secondary Match: that inasmuch as ye shall keep the commandments of God ye 
+Secondary Match: inasmuch as ye shall keep the commandments of God ye shall 
+Secondary Match: as ye shall keep the commandments of God ye shall prosper 
+Secondary Match: ye shall keep the commandments of God ye shall prosper in 
+Secondary Match: shall keep the commandments of God ye shall prosper in the 
+Secondary Match: that inasmuch as ye shall keep the commandments of God ye 
+Secondary Match: inasmuch as ye shall keep the commandments of God ye shall 
+Secondary Match: as ye shall keep the commandments of God ye shall prosper 
+Secondary Match: ye shall keep the commandments of God ye shall prosper in 
+Secondary Match: shall keep the commandments of God ye shall prosper in the 
+Secondary Match: as ye will not keep the commandments of God ye shall 
+Secondary Match: ye will not keep the commandments of God ye shall be 
+Secondary Match: will not keep the commandments of God ye shall be cut 
+Secondary Match: not keep the commandments of God ye shall be cut off 
+Secondary Match: keep the commandments of God ye shall be cut off from 
+Secondary Match: he said but if ye keep not his commandments ye shall 
+Secondary Match: said but if ye keep not his commandments ye shall be 
+Secondary Match: but if ye keep not his commandments ye shall be cut 
+Secondary Match: if ye keep not his commandments ye shall be cut off 
+Secondary Match: ye keep not his commandments ye shall be cut off from 
+Secondary Match: unto God and if ye do these things ye shall be 
+Secondary Match: God and if ye do these things ye shall be lifted 
+
+
+Primary Match: against him and die in their sins yea even all those 
+Secondary Match: all their oaths and their covenants and their agreements in their 
+Secondary Match: and their agreements in their secret abominations yea and all their 
+Secondary Match: their agreements in their secret abominations yea and all their signs 
+Secondary Match: in their secret abominations yea and all their signs and their 
+
+
+Primary Match: I say unto you that all these things were types of 
+Secondary Match: say unto you were it not for these things that these 
+
+
+Primary Match: will not recall the words which I have spoken unto you 
+Secondary Match: remember the words which I have spoken unto you trust not 
+Secondary Match: the words which I have spoken unto you trust not those 
+Secondary Match: words which I have spoken unto you trust not those secret 
+
+
+Primary Match: every nation kindred tongue and people Yea Lord thy watchmen shall 
+Secondary Match: forth unto every nation kindred tongue and people that they shall 
+Secondary Match: unto every nation kindred tongue and people that they shall know 
+Secondary Match: every nation kindred tongue and people that they shall know of 
+
+
+Primary Match: shall be declared to every nation kindred tongue and people Yea 
+Secondary Match: forth unto every nation kindred tongue and people that they shall 
+Secondary Match: unto every nation kindred tongue and people that they shall know 
+Secondary Match: every nation kindred tongue and people that they shall know of 
+
+
+Primary Match: say unto you that all these things were types of things 
+Secondary Match: say unto you were it not for these things that these 
+
+
+Primary Match: prophets and all those that have believed in their words or 
+Secondary Match: all their oaths and their covenants and their agreements in their 
+
+
+Primary Match: rebel against him and die in their sins yea even all 
+Secondary Match: all their oaths and their covenants and their agreements in their 
+Secondary Match: and their agreements in their secret abominations yea and all their 
+Secondary Match: their agreements in their secret abominations yea and all their signs 
+Secondary Match: in their secret abominations yea and all their signs and their 
+
+
+Primary Match: these things Have they not said that God himself should come 
+Secondary Match: of God I should not have known these things but God 
+Secondary Match: God I should not have known these things but God has 
+
+
+Primary Match: I know if ye keep the commandments of God ye shall 
+Secondary Match: that inasmuch as ye shall keep the commandments of God ye 
+Secondary Match: inasmuch as ye shall keep the commandments of God ye shall 
+Secondary Match: as ye shall keep the commandments of God ye shall prosper 
+Secondary Match: ye shall keep the commandments of God ye shall prosper in 
+Secondary Match: shall keep the commandments of God ye shall prosper in the 
+Secondary Match: know that inasmuch as ye shall keep the commandments of God 
+Secondary Match: that inasmuch as ye shall keep the commandments of God ye 
+Secondary Match: inasmuch as ye shall keep the commandments of God ye shall 
+Secondary Match: as ye shall keep the commandments of God ye shall prosper 
+Secondary Match: ye shall keep the commandments of God ye shall prosper in 
+Secondary Match: shall keep the commandments of God ye shall prosper in the 
+Secondary Match: as ye will not keep the commandments of God ye shall 
+Secondary Match: ye will not keep the commandments of God ye shall be 
+Secondary Match: he said but if ye keep not his commandments ye shall 
+Secondary Match: said but if ye keep not his commandments ye shall be 
+Secondary Match: but if ye keep not his commandments ye shall be cut 
+Secondary Match: if ye keep not his commandments ye shall be cut off 
+
+
+Primary Match: all these things I say unto you Nay ye have not 
+Secondary Match: say unto you were it not for these things that these 
+
+
+Primary Match: the Lord when every nation kindred tongue and people shall see 
+Secondary Match: forth unto every nation kindred tongue and people that they shall 
+Secondary Match: unto every nation kindred tongue and people that they shall know 
+Secondary Match: every nation kindred tongue and people that they shall know of 
+
+
+Primary Match: it not for this all mankind must have perished But behold 
+Secondary Match: their captivity But behold my son this is not all for 
+Secondary Match: captivity But behold my son this is not all for ye 
+Secondary Match: But behold my son this is not all for ye ought 
+
+
+Primary Match: in their words or all those that have kept the commandments 
+Secondary Match: all their oaths and their covenants and their agreements in their 
+
+
+Primary Match: be saved yea if ye keep the commandments which the Lord 
+Secondary Match: said but if ye keep not his commandments ye shall be 
+Secondary Match: but if ye keep not his commandments ye shall be cut 
+Secondary Match: if ye keep not his commandments ye shall be cut off 
+
+
+Primary Match: these things for to keep these commandments I say unto you 
+Secondary Match: say unto you were it not for these things that these 
+
+
+Primary Match: God And it will come to pass that ye shall be 
+Secondary Match: ye will not keep the commandments of God ye shall be 
+
+
+Primary Match: this shall be as a type and a shadow of things 
+Secondary Match: a type in this thing For just as surely as this 
+
+
+Primary Match: you were it not for this all mankind must have perished 
+Secondary Match: command you for you must appeal unto the Lord for all 
+Secondary Match: you for you must appeal unto the Lord for all things 
+
+
+Primary Match: and die in their sins yea even all those that have 
+Secondary Match: all their oaths and their covenants and their agreements in their 
+Secondary Match: and their agreements in their secret abominations yea and all their 
+Secondary Match: their agreements in their secret abominations yea and all their signs 
+Secondary Match: in their secret abominations yea and all their signs and their 
+
+
+Primary Match: that have believed in their words or all those that have 
+Secondary Match: all their oaths and their covenants and their agreements in their 
+
+
+Primary Match: when every nation kindred tongue and people shall see eye to 
+Secondary Match: forth unto every nation kindred tongue and people that they shall 
+Secondary Match: unto every nation kindred tongue and people that they shall know 
+Secondary Match: every nation kindred tongue and people that they shall know of 
+
+
+Primary Match: and all those that have believed in their words or all 
+Secondary Match: all their oaths and their covenants and their agreements in their 
+
+
+Primary Match: with me after this shall be as a type and a 
+Secondary Match: a type in this thing For just as surely as this 
+
+
+Primary Match: believed in their words or all those that have kept the 
+Secondary Match: all their oaths and their covenants and their agreements in their 
+
+
+Primary Match: But behold I say unto you that all these things were 
+Secondary Match: say unto you were it not for these things that these 
+
+

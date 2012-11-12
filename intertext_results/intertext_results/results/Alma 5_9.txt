@@ -1,0 +1,76 @@
+Primary Source: resources/Alma 5.txt
+Secondary Source: resources/Alma 9.txt
+Match Case: No
+Strict Search: No
+Fuzzy Search Parameters: 5/6
+Time to complete: 0.09153333333333333 minutes.
+Left Match Count: 14
+Right Match Count: 25
+
+Primary Match: works which are meet for repentance 
+Secondary Match: forth works which are meet for 
+Secondary Match: which are meet for repentance seeing 
+Secondary Match: works which are meet for repentance 
+
+
+Primary Match: that ye may not be destroyed 
+Secondary Match: ye may not be destroyed the 
+Secondary Match: that ye may not be destroyed 
+
+
+Primary Match: that will persist in your wickedness 
+Secondary Match: persist in your wickedness that your 
+
+
+Primary Match: unto you if ye are not 
+Secondary Match: are not unto you if ye 
+
+
+Primary Match: do bring forth works which are 
+Secondary Match: to bring forth works which are 
+Secondary Match: bring forth works which are meet 
+
+
+Primary Match: ye may not be destroyed And 
+Secondary Match: ye may not be destroyed the 
+Secondary Match: that ye may not be destroyed 
+
+
+Primary Match: will persist in your wickedness I 
+Secondary Match: persist in your wickedness that your 
+
+
+Primary Match: persist in your wickedness I say 
+Secondary Match: persist in your wickedness that your 
+
+
+Primary Match: forth works which are meet for 
+Secondary Match: forth works which are meet for 
+Secondary Match: bring forth works which are meet 
+Secondary Match: works which are meet for repentance 
+
+
+Primary Match: which are meet for repentance Yea 
+Secondary Match: which are meet for repentance seeing 
+Secondary Match: works which are meet for repentance 
+
+
+Primary Match: remembrance his mercy and long suffering 
+Secondary Match: his mercy and his long suffering 
+
+
+Primary Match: bring forth works which are meet 
+Secondary Match: forth works which are meet for 
+Secondary Match: to bring forth works which are 
+Secondary Match: bring forth works which are meet 
+
+
+Primary Match: his mercy and long suffering towards 
+Secondary Match: mercy and his long suffering towards 
+Secondary Match: his mercy and his long suffering 
+
+
+Primary Match: you if ye are not ye 
+Secondary Match: are not unto you if ye 
+
+

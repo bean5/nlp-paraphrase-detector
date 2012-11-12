@@ -1,0 +1,448 @@
+Primary Source: Resources/ABINADI.txt
+Secondary Source: Resources/Alma 32-33.txt
+Match Case: No
+Strict Search: No
+Fuzzy Search Parameters: 4/6
+Time to complete: 0.16321666666666665 minutes.
+Left Match Count: 89
+Right Match Count: 172
+
+Primary Match: now ye have said that salvation 
+Secondary Match: Behold ye have said that ye 
+Secondary Match: ye have said that ye could 
+
+
+Primary Match: Behold even as ye have done 
+Secondary Match: Behold ye have said that ye 
+
+
+Primary Match: light that is endless that can 
+Secondary Match: is light and whatsoever is light 
+Secondary Match: light and whatsoever is light is 
+
+
+Primary Match: do ye not keep it Why 
+Secondary Match: ye were blessed do ye not 
+
+
+Primary Match: you And if ye slay me 
+Secondary Match: you if ye suppose that ye 
+
+
+Primary Match: He is the light and the 
+Secondary Match: is light and whatsoever is light 
+Secondary Match: light and whatsoever is light is 
+
+
+Primary Match: is not all For O how 
+Secondary Match: is not all these are not 
+
+
+Primary Match: ye have not taught them therefore 
+Secondary Match: therefore if ye have faith ye 
+
+
+Primary Match: unto you this is not all 
+Secondary Match: also Now this is not all 
+Secondary Match: Now this is not all little 
+Secondary Match: this is not all little children 
+Secondary Match: But behold this is not all 
+Secondary Match: behold this is not all these 
+Secondary Match: this is not all these are 
+Secondary Match: is not all these are not 
+
+
+Primary Match: against you And if ye slay 
+Secondary Match: you if ye suppose that ye 
+
+
+Primary Match: smite you if ye lay your 
+Secondary Match: you if ye suppose that ye 
+
+
+Primary Match: not And have ye taught this 
+Secondary Match: they have taught you this ye 
+Secondary Match: have taught you this ye do 
+Secondary Match: taught you this ye do not 
+
+
+Primary Match: hath subjected them which is damnation 
+Secondary Match: which is most precious which is 
+
+
+Primary Match: who hath subjected them which is 
+Secondary Match: which is most precious which is 
+
+
+Primary Match: soul What ye shall do unto 
+Secondary Match: what ye shall do because ye 
+Secondary Match: ye shall do because ye are 
+
+
+Primary Match: say unto you Nay for if 
+Secondary Match: I say unto you Nay for 
+Secondary Match: say unto you Nay for if 
+Secondary Match: unto you Nay for if a 
+Secondary Match: you Nay for if a man 
+
+
+Primary Match: Moses why do ye not keep 
+Secondary Match: ye were blessed do ye not 
+
+
+Primary Match: shadow of those things which are 
+Secondary Match: things which are not seen which 
+Secondary Match: which are not seen which are 
+
+
+Primary Match: world yea a light that is 
+Secondary Match: is light and whatsoever is light 
+Secondary Match: light and whatsoever is light is 
+
+
+Primary Match: you this is not all For 
+Secondary Match: also Now this is not all 
+Secondary Match: Now this is not all little 
+Secondary Match: this is not all little children 
+Secondary Match: But behold this is not all 
+Secondary Match: behold this is not all these 
+Secondary Match: this is not all these are 
+Secondary Match: is not all these are not 
+
+
+Primary Match: those things which are to come 
+Secondary Match: things which are not seen which 
+Secondary Match: which are not seen which are 
+
+
+Primary Match: you if ye lay your hands 
+Secondary Match: you if ye suppose that ye 
+
+
+Primary Match: for ye have said that ye 
+Secondary Match: ye have faith ye hope for 
+Secondary Match: Behold ye have said that ye 
+Secondary Match: ye have said that ye could 
+
+
+Primary Match: of things which are to come 
+Secondary Match: things which are not seen which 
+Secondary Match: which are not seen which are 
+
+
+Primary Match: have ye taught this people that 
+Secondary Match: they have taught you this ye 
+Secondary Match: have taught you this ye do 
+
+
+Primary Match: which are to come And now 
+Secondary Match: which are not seen which are 
+
+
+Primary Match: yea a light that is endless 
+Secondary Match: is light and whatsoever is light 
+Secondary Match: light and whatsoever is light is 
+
+
+Primary Match: taught them therefore ye have perverted 
+Secondary Match: therefore if ye have faith ye 
+
+
+Primary Match: for your iniquities for ye have 
+Secondary Match: ye have faith ye hope for 
+Secondary Match: aside your faith for ye have 
+Secondary Match: your faith for ye have only 
+Secondary Match: for ye have only exercised your 
+
+
+Primary Match: have said that ye teach the 
+Secondary Match: Behold ye have said that ye 
+Secondary Match: ye have said that ye could 
+
+
+Primary Match: therefore ye have not been wise 
+Secondary Match: therefore if ye have faith ye 
+
+
+Primary Match: not keep them these are they 
+Secondary Match: is not all these are not 
+Secondary Match: not all these are not the 
+
+
+Primary Match: them therefore ye have perverted the 
+Secondary Match: therefore if ye have faith ye 
+
+
+Primary Match: why do ye not keep it 
+Secondary Match: ye were blessed do ye not 
+
+
+Primary Match: And now ye have said that 
+Secondary Match: Behold ye have said that ye 
+Secondary Match: ye have said that ye could 
+
+
+Primary Match: this is not all For O 
+Secondary Match: also Now this is not all 
+Secondary Match: Now this is not all little 
+Secondary Match: this is not all little children 
+Secondary Match: expand O then is not this 
+Secondary Match: O then is not this real 
+Secondary Match: But behold this is not all 
+Secondary Match: behold this is not all these 
+Secondary Match: this is not all these are 
+Secondary Match: is not all these are not 
+
+
+Primary Match: hearts to understanding therefore ye have 
+Secondary Match: therefore if ye have faith ye 
+
+
+Primary Match: things which are to come And 
+Secondary Match: things which are not seen which 
+Secondary Match: which are not seen which are 
+
+
+Primary Match: what say ye And who shall 
+Secondary Match: what ye shall do because ye 
+
+
+Primary Match: would not keep them these are 
+Secondary Match: is not all these are not 
+Secondary Match: not all these are not the 
+
+
+Primary Match: which are to come Teach them 
+Secondary Match: which are not seen which are 
+
+
+Primary Match: ye have said that ye teach 
+Secondary Match: Behold ye have said that ye 
+Secondary Match: ye have said that ye could 
+
+
+Primary Match: a shadow of things which are 
+Secondary Match: things which are not seen which 
+Secondary Match: which are not seen which are 
+
+
+Primary Match: ye not keep it Why do 
+Secondary Match: ye were blessed do ye not 
+
+
+Primary Match: Christ He is the light and 
+Secondary Match: is light and whatsoever is light 
+Secondary Match: light and whatsoever is light is 
+
+
+Primary Match: ye shall do unto me shall 
+Secondary Match: of me what ye shall do 
+Secondary Match: me what ye shall do because 
+Secondary Match: what ye shall do because ye 
+Secondary Match: ye shall do because ye are 
+
+
+Primary Match: testimony against you And if ye 
+Secondary Match: you if ye suppose that ye 
+
+
+Primary Match: which is endless that there can 
+Secondary Match: which is most precious which is 
+
+
+Primary Match: also a life which is endless 
+Secondary Match: which is most precious which is 
+
+
+Primary Match: my soul What ye shall do 
+Secondary Match: what ye shall do because ye 
+Secondary Match: ye shall do because ye are 
+
+
+Primary Match: is the light and the life 
+Secondary Match: is light and whatsoever is light 
+Secondary Match: light and whatsoever is light is 
+
+
+Primary Match: of those things which are to 
+Secondary Match: things which are not seen which 
+Secondary Match: which are not seen which are 
+
+
+Primary Match: not taught them therefore ye have 
+Secondary Match: therefore if ye have faith ye 
+
+
+Primary Match: not keep it Why do ye 
+Secondary Match: ye were blessed do ye not 
+
+
+Primary Match: I say unto you Nay for 
+Secondary Match: I say unto you Nay for 
+Secondary Match: say unto you Nay for if 
+
+
+Primary Match: ye have said that salvation cometh 
+Secondary Match: Behold ye have said that ye 
+Secondary Match: ye have said that ye could 
+
+
+Primary Match: say unto you this is not 
+Secondary Match: is not this real I say 
+
+
+Primary Match: But behold I say unto you 
+Secondary Match: But behold I say unto you 
+
+
+Primary Match: And have ye taught this people 
+Secondary Match: they have taught you this ye 
+Secondary Match: have taught you this ye do 
+
+
+Primary Match: people And now ye have said 
+Secondary Match: Behold ye have said that ye 
+Secondary Match: ye have said that ye could 
+
+
+Primary Match: can be saved Therefore if ye 
+Secondary Match: this can ye do if ye 
+Secondary Match: can ye do if ye will 
+
+
+Primary Match: ye can be saved Therefore if 
+Secondary Match: this can ye do if ye 
+Secondary Match: can ye do if ye will 
+
+
+Primary Match: shadow of things which are to 
+Secondary Match: things which are not seen which 
+Secondary Match: which are not seen which are 
+
+
+Primary Match: day Behold even as ye have 
+Secondary Match: Behold ye have said that ye 
+
+
+Primary Match: if ye slay me ye will 
+Secondary Match: can ye do if ye will 
+Secondary Match: ye do if ye will Amen 
+
+
+Primary Match: shall be brought to stand before 
+Secondary Match: shall stand before him to be 
+
+
+Primary Match: in Christ He is the light 
+Secondary Match: is light and whatsoever is light 
+Secondary Match: light and whatsoever is light is 
+
+
+Primary Match: understanding therefore ye have not been 
+Secondary Match: therefore if ye have faith ye 
+
+
+Primary Match: shall smite you if ye lay 
+Secondary Match: you if ye suppose that ye 
+
+
+Primary Match: God shall smite you if ye 
+Secondary Match: you if ye suppose that ye 
+
+
+Primary Match: unto you Nay for if ye 
+Secondary Match: say unto you Nay for if 
+Secondary Match: unto you Nay for if a 
+Secondary Match: you Nay for if a man 
+Secondary Match: you if ye suppose that ye 
+
+
+Primary Match: life which is endless that there 
+Secondary Match: which is most precious which is 
+
+
+Primary Match: your iniquities for ye have said 
+Secondary Match: ye have faith ye hope for 
+Secondary Match: aside your faith for ye have 
+Secondary Match: your faith for ye have only 
+Secondary Match: for ye have only exercised your 
+Secondary Match: Behold ye have said that ye 
+Secondary Match: ye have said that ye could 
+
+
+Primary Match: What ye shall do unto me 
+Secondary Match: of me what ye shall do 
+Secondary Match: me what ye shall do because 
+Secondary Match: what ye shall do because ye 
+Secondary Match: ye shall do because ye are 
+
+
+Primary Match: and also a life which is 
+Secondary Match: which is most precious which is 
+
+
+Primary Match: a life which is endless that 
+Secondary Match: which is most precious which is 
+
+
+Primary Match: of Moses why do ye not 
+Secondary Match: ye were blessed do ye not 
+
+
+Primary Match: ye shall be taken by the 
+Secondary Match: behold by and by ye shall 
+Secondary Match: by and by ye shall pluck 
+
+
+Primary Match: things which are to come Teach 
+Secondary Match: things which are not seen which 
+Secondary Match: which are not seen which are 
+
+
+Primary Match: them which is damnation Having gone 
+Secondary Match: which is most precious which is 
+
+
+Primary Match: you Nay for if ye had 
+Secondary Match: say unto you Nay for if 
+Secondary Match: unto you Nay for if a 
+Secondary Match: you Nay for if a man 
+Secondary Match: you if ye suppose that ye 
+
+
+Primary Match: and ye shall be taken by 
+Secondary Match: behold by and by ye shall 
+Secondary Match: by and by ye shall pluck 
+
+
+Primary Match: subjected them which is damnation Having 
+Secondary Match: which is most precious which is 
+
+
+Primary Match: therefore ye have perverted the ways 
+Secondary Match: therefore if ye have faith ye 
+
+
+Primary Match: iniquities for ye have said that 
+Secondary Match: ye have faith ye hope for 
+Secondary Match: Behold ye have said that ye 
+Secondary Match: ye have said that ye could 
+
+
+Primary Match: have not taught them therefore ye 
+Secondary Match: therefore if ye have faith ye 
+
+
+Primary Match: to understanding therefore ye have not 
+Secondary Match: therefore if ye have faith ye 
+
+
+Primary Match: which is damnation Having gone according 
+Secondary Match: which is most precious which is 
+
+
+Primary Match: a light that is endless that 
+Secondary Match: is light and whatsoever is light 
+Secondary Match: light and whatsoever is light is 
+
+

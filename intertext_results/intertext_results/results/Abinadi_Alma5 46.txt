@@ -1,0 +1,733 @@
+Primary Source: corpora/Abinadi.txt
+Secondary Source: corpora/Alma 5.txt
+Match Case: No
+Strict Search: No
+Fuzzy Search Parameters: 4/6
+Time to complete: 0.13158333333333333 minutes.
+Left Match Count: 149
+Right Match Count: 277
+
+Primary Match: Moses why do ye not keep 
+Secondary Match: ye are not ye are not 
+
+
+Primary Match: now ought ye not to tremble 
+Secondary Match: ye are not ye are not 
+
+
+Primary Match: ye set your hearts upon riches 
+Secondary Match: upon your riches Yea will ye 
+
+
+Primary Match: time shall come when it shall 
+Secondary Match: when the time shall come for 
+Secondary Match: not when the time shall come 
+
+
+Primary Match: therefore ye have not been wise 
+Secondary Match: ye are not ye are not 
+
+
+Primary Match: you if ye lay your hands 
+Secondary Match: you if ye are not ye 
+
+
+Primary Match: I say unto you Nay ye 
+Secondary Match: say unto you Nay except ye 
+
+
+Primary Match: transgressions And now are they not 
+Secondary Match: ye are not ye are not 
+Secondary Match: are not ye are not prepared 
+
+
+Primary Match: ye have not Touch me not 
+Secondary Match: ye are not ye are not 
+
+
+Primary Match: subjected them which is damnation Having 
+Secondary Match: which is in me which is 
+
+
+Primary Match: this is not all For O 
+Secondary Match: come And this is not all 
+Secondary Match: is not all Do ye not 
+Secondary Match: And this is not all Do 
+Secondary Match: this is not all Do ye 
+
+
+Primary Match: say unto you Nay ye have 
+Secondary Match: say unto you Nay except ye 
+
+
+Primary Match: these things ye have not taught 
+Secondary Match: ye are not ye are not 
+
+
+Primary Match: also a life which is endless 
+Secondary Match: which is in me which is 
+Secondary Match: is in me which is also 
+
+
+Primary Match: words which I have spoken unto 
+Secondary Match: the words which I have spoken 
+Secondary Match: words which I have spoken unto 
+Secondary Match: words which have been spoken by 
+Secondary Match: the words which have been spoken 
+
+
+Primary Match: ye have not And have ye 
+Secondary Match: ye are not ye are not 
+
+
+Primary Match: which is damnation Having gone according 
+Secondary Match: which is in me which is 
+
+
+Primary Match: they are not written in your 
+Secondary Match: ye are not ye are not 
+Secondary Match: are not ye are not prepared 
+
+
+Primary Match: them which is damnation Having gone 
+Secondary Match: which is in me which is 
+
+
+Primary Match: testimony against you And if ye 
+Secondary Match: you if ye are not ye 
+Secondary Match: unto you if ye speak against 
+Secondary Match: you if ye speak against it 
+
+
+Primary Match: to understanding therefore ye have not 
+Secondary Match: ye are not ye are not 
+
+
+Primary Match: say unto you this is not 
+Secondary Match: say unto you that this is 
+Secondary Match: say unto you that this is 
+
+
+Primary Match: perceive that they are not written 
+Secondary Match: ye are not ye are not 
+Secondary Match: are not ye are not prepared 
+
+
+Primary Match: say unto you that these are 
+Secondary Match: say unto you that these are 
+
+
+Primary Match: say unto you that all those 
+Secondary Match: say unto you all you that 
+Secondary Match: I say unto you all you 
+
+
+Primary Match: those things which are to come 
+Secondary Match: things which are to come And 
+Secondary Match: the things which are to come 
+
+
+Primary Match: The time shall come when all 
+Secondary Match: when the time shall come for 
+Secondary Match: not when the time shall come 
+
+
+Primary Match: God The time shall come when 
+Secondary Match: when the time shall come for 
+Secondary Match: not when the time shall come 
+
+
+Primary Match: which I have spoken unto you 
+Secondary Match: which I have spoken unto you 
+
+
+Primary Match: is not all For O how 
+Secondary Match: is not all Do ye not 
+
+
+Primary Match: you Nay for if ye had 
+Secondary Match: you if ye are not ye 
+
+
+Primary Match: that they are not written in 
+Secondary Match: ye are not ye are not 
+Secondary Match: are not ye are not prepared 
+
+
+Primary Match: which is endless that there can 
+Secondary Match: which is in me which is 
+
+
+Primary Match: who are and who shall be 
+Secondary Match: are they who shall be hewn 
+Secondary Match: these are they who shall be 
+
+
+Primary Match: God shall smite you if ye 
+Secondary Match: you if ye are not ye 
+Secondary Match: you feel if ye shall stand 
+Secondary Match: of you feel if ye shall 
+Secondary Match: God Could ye say if ye 
+
+
+Primary Match: time shall come when all shall 
+Secondary Match: when the time shall come for 
+Secondary Match: not when the time shall come 
+
+
+Primary Match: unto you Nay ye have not 
+Secondary Match: ye are not ye are not 
+Secondary Match: you if ye are not ye 
+
+
+Primary Match: against you And if ye slay 
+Secondary Match: you if ye are not ye 
+Secondary Match: unto you if ye speak against 
+Secondary Match: you if ye speak against it 
+
+
+Primary Match: Ye see that ye have not 
+Secondary Match: ye are not ye are not 
+
+
+Primary Match: God redeemed his people from their 
+Secondary Match: to redeem his people from their 
+Secondary Match: redeem his people from their sins 
+Secondary Match: redeem his people from their sins 
+Secondary Match: his people from their sins And 
+Secondary Match: to redeem his people from their 
+Secondary Match: his people from their sins Behold 
+
+
+Primary Match: be cast out and they shall 
+Secondary Match: they shall be cast out for 
+Secondary Match: but they shall be cast out 
+Secondary Match: shall be cast out for they 
+
+
+Primary Match: And now ought ye not to 
+Secondary Match: ye are not ye are not 
+
+
+Primary Match: of Moses why do ye not 
+Secondary Match: ye are not ye are not 
+
+
+Primary Match: say unto you Nay ye have 
+Secondary Match: say unto you Nay except ye 
+
+
+Primary Match: are not the prophets every one 
+Secondary Match: ye are not ye are not 
+Secondary Match: are not ye are not prepared 
+
+
+Primary Match: them not For they are carnal 
+Secondary Match: ye are not ye are not 
+Secondary Match: are not ye are not prepared 
+
+
+Primary Match: unto you Nay ye have not 
+Secondary Match: ye are not ye are not 
+Secondary Match: you if ye are not ye 
+
+
+Primary Match: I say unto you this is 
+Secondary Match: say unto you that this is 
+Secondary Match: say unto you that this is 
+
+
+Primary Match: not And have ye taught this 
+Secondary Match: ye are not ye are not 
+
+
+Primary Match: things which are to come And 
+Secondary Match: things which are to come And 
+Secondary Match: the things which are to come 
+
+
+Primary Match: ye have not taught them therefore 
+Secondary Match: ye are not ye are not 
+
+
+Primary Match: that the time shall come when 
+Secondary Match: when the time shall come for 
+Secondary Match: not when the time shall come 
+
+
+Primary Match: people Know ye not that I 
+Secondary Match: ye are not ye are not 
+
+
+Primary Match: I say unto you that all 
+Secondary Match: say unto you all you that 
+Secondary Match: I say unto you all you 
+
+
+Primary Match: against this people Know ye not 
+Secondary Match: ye are not ye are not 
+
+
+Primary Match: understanding therefore ye have not been 
+Secondary Match: ye are not ye are not 
+
+
+Primary Match: that God should redeem his people 
+Secondary Match: should come to redeem his people 
+
+
+Primary Match: ye are angry with me And 
+Secondary Match: ye are not ye are not 
+Secondary Match: ye are called behold ye are 
+Secondary Match: if ye are not ye are 
+
+
+Primary Match: that there can be no more 
+Secondary Match: for there can no man be 
+Secondary Match: be saved for there can no 
+Secondary Match: there can no man be saved 
+
+
+Primary Match: mercy were extended towards them for 
+Secondary Match: of mercy are extended towards them 
+Secondary Match: mercy are extended towards them and 
+
+
+Primary Match: stand before the bar of God 
+Secondary Match: stand before the bar of God 
+
+
+Primary Match: Know ye not that I speak 
+Secondary Match: ye are not ye are not 
+
+
+Primary Match: mercy were extended towards them and 
+Secondary Match: of mercy are extended towards them 
+Secondary Match: mercy are extended towards them and 
+
+
+Primary Match: ye not keep it Why do 
+Secondary Match: ye are not ye are not 
+
+
+Primary Match: Therefore ought ye not to tremble 
+Secondary Match: ye are not ye are not 
+
+
+Primary Match: you the truth ye are angry 
+Secondary Match: ye are not ye are not 
+Secondary Match: you if ye are not ye 
+Secondary Match: ye are called behold ye are 
+Secondary Match: if ye are not ye are 
+
+
+Primary Match: Yea and are not the prophets 
+Secondary Match: ye are not ye are not 
+Secondary Match: are not ye are not prepared 
+
+
+Primary Match: endless that there can be no 
+Secondary Match: for there can no man be 
+Secondary Match: be saved for there can no 
+Secondary Match: there can no man be saved 
+
+
+Primary Match: shall smite you if ye lay 
+Secondary Match: you if ye are not ye 
+Secondary Match: you feel if ye shall stand 
+Secondary Match: of you feel if ye shall 
+
+
+Primary Match: What say ye I know if 
+Secondary Match: ye say if ye were called 
+Secondary Match: Could ye say if ye were 
+Secondary Match: God Could ye say if ye 
+
+
+Primary Match: say ye I know if ye 
+Secondary Match: ye say if ye were called 
+Secondary Match: Could ye say if ye were 
+Secondary Match: God Could ye say if ye 
+
+
+Primary Match: why do ye not keep it 
+Secondary Match: ye are not ye are not 
+
+
+Primary Match: I say unto you that all 
+Secondary Match: say unto you all you that 
+Secondary Match: I say unto you all you 
+
+
+Primary Match: his seed Yea and are not 
+Secondary Match: ye are not ye are not 
+Secondary Match: are not ye are not prepared 
+
+
+Primary Match: all this I say unto you 
+Secondary Match: say unto you all you that 
+Secondary Match: I say unto you all you 
+
+
+Primary Match: there can be no more death 
+Secondary Match: for there can no man be 
+Secondary Match: be saved for there can no 
+Secondary Match: there can no man be saved 
+
+
+Primary Match: they are true and that ye 
+Secondary Match: ye are not ye are not 
+Secondary Match: ye are called behold ye are 
+Secondary Match: if ye are not ye are 
+
+
+Primary Match: man be saved except it were 
+Secondary Match: no man be saved except his 
+Secondary Match: can no man be saved except 
+Secondary Match: man be saved except his garments 
+
+
+Primary Match: I say unto you Nay ye 
+Secondary Match: say unto you Nay except ye 
+
+
+Primary Match: arms of mercy were extended towards 
+Secondary Match: arms of mercy are extended towards 
+
+
+Primary Match: are they not his seed Yea 
+Secondary Match: ye are not ye are not 
+Secondary Match: are not ye are not prepared 
+
+
+Primary Match: not keep them these are they 
+Secondary Match: ye are not ye are not 
+Secondary Match: are not ye are not prepared 
+
+
+Primary Match: told you the truth ye are 
+Secondary Match: ye are not ye are not 
+Secondary Match: you if ye are not ye 
+Secondary Match: ye are called behold ye are 
+Secondary Match: if ye are not ye are 
+
+
+Primary Match: not keep it Why do ye 
+Secondary Match: ye are not ye are not 
+
+
+Primary Match: And now are they not his 
+Secondary Match: ye are not ye are not 
+Secondary Match: are not ye are not prepared 
+
+
+Primary Match: things ye have not taught them 
+Secondary Match: ye are not ye are not 
+
+
+Primary Match: of mercy were extended towards them 
+Secondary Match: of mercy are extended towards them 
+Secondary Match: mercy are extended towards them and 
+
+
+Primary Match: a life which is endless that 
+Secondary Match: which is in me which is 
+
+
+Primary Match: the words which I have spoken 
+Secondary Match: the words which I have spoken 
+Secondary Match: words which I have spoken unto 
+Secondary Match: words which have been spoken by 
+Secondary Match: the words which have been spoken 
+
+
+Primary Match: not For they are carnal and 
+Secondary Match: ye are not ye are not 
+Secondary Match: are not ye are not prepared 
+
+
+Primary Match: unto you Nay for if ye 
+Secondary Match: you if ye are not ye 
+
+
+Primary Match: unto you this is not all 
+Secondary Match: you that this is all true 
+Secondary Match: come And this is not all 
+Secondary Match: unto you that this is all 
+Secondary Match: is not all Do ye not 
+Secondary Match: And this is not all Do 
+Secondary Match: this is not all Do ye 
+
+
+Primary Match: that ye have not power to 
+Secondary Match: ye are not ye are not 
+
+
+Primary Match: have not taught them therefore ye 
+Secondary Match: ye are not ye are not 
+
+
+Primary Match: Nay ye have not And have 
+Secondary Match: ye are not ye are not 
+
+
+Primary Match: you this is not all For 
+Secondary Match: you that this is all true 
+Secondary Match: come And this is not all 
+Secondary Match: unto you that this is all 
+Secondary Match: is not all Do ye not 
+Secondary Match: And this is not all Do 
+Secondary Match: this is not all Do ye 
+
+
+Primary Match: the truth ye are angry with 
+Secondary Match: ye are not ye are not 
+Secondary Match: ye are called behold ye are 
+Secondary Match: if ye are not ye are 
+
+
+Primary Match: ought ye not to tremble For 
+Secondary Match: ye are not ye are not 
+
+
+Primary Match: should redeem his people Yea and 
+Secondary Match: should come to redeem his people 
+
+
+Primary Match: of things which are to come 
+Secondary Match: things which are to come And 
+Secondary Match: the things which are to come 
+
+
+Primary Match: are true and that ye may 
+Secondary Match: ye are not ye are not 
+Secondary Match: ye are called behold ye are 
+Secondary Match: if ye are not ye are 
+
+
+Primary Match: not his seed Yea and are 
+Secondary Match: ye are not ye are not 
+Secondary Match: are not ye are not prepared 
+
+
+Primary Match: any man be saved except it 
+Secondary Match: no man be saved except his 
+Secondary Match: can no man be saved except 
+Secondary Match: man be saved except his garments 
+
+
+Primary Match: ye have not been wise Therefore 
+Secondary Match: ye are not ye are not 
+
+
+Primary Match: understand these things ye have not 
+Secondary Match: ye are not ye are not 
+
+
+Primary Match: you And if ye slay me 
+Secondary Match: you if ye are not ye 
+
+
+Primary Match: his people from their lost and 
+Secondary Match: to redeem his people from their 
+Secondary Match: redeem his people from their sins 
+Secondary Match: redeem his people from their sins 
+Secondary Match: his people from their sins And 
+Secondary Match: to redeem his people from their 
+Secondary Match: his people from their sins Behold 
+
+
+Primary Match: ye have not power to slay 
+Secondary Match: ye are not ye are not 
+
+
+Primary Match: would not keep them these are 
+Secondary Match: ye are not ye are not 
+Secondary Match: are not ye are not prepared 
+
+
+Primary Match: you Nay ye have not And 
+Secondary Match: ye are not ye are not 
+Secondary Match: you if ye are not ye 
+
+
+Primary Match: not any man be saved except 
+Secondary Match: no man be saved except his 
+Secondary Match: can no man be saved except 
+Secondary Match: man be saved except his garments 
+
+
+Primary Match: ought ye not to tremble and 
+Secondary Match: ye are not ye are not 
+
+
+Primary Match: the time shall come when it 
+Secondary Match: when the time shall come for 
+Secondary Match: not when the time shall come 
+
+
+Primary Match: smite you if ye lay your 
+Secondary Match: you if ye are not ye 
+
+
+Primary Match: ye not to tremble For salvation 
+Secondary Match: ye are not ye are not 
+
+
+Primary Match: now are they not his seed 
+Secondary Match: ye are not ye are not 
+Secondary Match: are not ye are not prepared 
+
+
+Primary Match: see that ye have not power 
+Secondary Match: ye are not ye are not 
+
+
+Primary Match: and are not the prophets every 
+Secondary Match: ye are not ye are not 
+Secondary Match: are not ye are not prepared 
+
+
+Primary Match: first resurrection Therefore ought ye not 
+Secondary Match: ye are not ye are not 
+
+
+Primary Match: do ye not keep it Why 
+Secondary Match: ye are not ye are not 
+
+
+Primary Match: do all these things I say 
+Secondary Match: do these things behold I say 
+
+
+Primary Match: Nay ye have not Touch me 
+Secondary Match: ye are not ye are not 
+
+
+Primary Match: redeemed his people from their lost 
+Secondary Match: to redeem his people from their 
+Secondary Match: redeem his people from their sins 
+Secondary Match: redeem his people from their sins 
+Secondary Match: his people from their sins And 
+Secondary Match: to redeem his people from their 
+Secondary Match: his people from their sins Behold 
+
+
+Primary Match: seed Yea and are not the 
+Secondary Match: ye are not ye are not 
+Secondary Match: are not ye are not prepared 
+
+
+Primary Match: redeemeth them not For they are 
+Secondary Match: ye are not ye are not 
+Secondary Match: are not ye are not prepared 
+
+
+Primary Match: ye had the Lord would not 
+Secondary Match: ye are not ye are not 
+
+
+Primary Match: shall the wicked be cast out 
+Secondary Match: they shall be cast out for 
+Secondary Match: but they shall be cast out 
+Secondary Match: shall be cast out for they 
+
+
+Primary Match: are not written in your hearts 
+Secondary Match: ye are not ye are not 
+Secondary Match: are not ye are not prepared 
+
+
+Primary Match: ye not to tremble and repent 
+Secondary Match: ye are not ye are not 
+
+
+Primary Match: of mercy were extended towards them 
+Secondary Match: of mercy are extended towards them 
+Secondary Match: mercy are extended towards them and 
+
+
+Primary Match: who hath subjected them which is 
+Secondary Match: which is in me which is 
+
+
+Primary Match: arms of mercy were extended towards 
+Secondary Match: arms of mercy are extended towards 
+
+
+Primary Match: say unto you that all these 
+Secondary Match: say unto you all you that 
+Secondary Match: I say unto you all you 
+
+
+Primary Match: God should redeem his people Yea 
+Secondary Match: should come to redeem his people 
+
+
+Primary Match: are and who shall be even 
+Secondary Match: are they who shall be hewn 
+Secondary Match: these are they who shall be 
+
+
+Primary Match: hath subjected them which is damnation 
+Secondary Match: which is in me which is 
+
+
+Primary Match: not taught them therefore ye have 
+Secondary Match: ye are not ye are not 
+
+
+Primary Match: you Nay ye have not Touch 
+Secondary Match: ye are not ye are not 
+Secondary Match: you if ye are not ye 
+
+
+Primary Match: repent And now ought ye not 
+Secondary Match: ye are not ye are not 
+
+
+Primary Match: ye not that I speak the 
+Secondary Match: ye are not ye are not 
+
+
+Primary Match: have not And have ye taught 
+Secondary Match: ye are not ye are not 
+
+
+Primary Match: truth ye are angry with me 
+Secondary Match: ye are not ye are not 
+Secondary Match: ye are called behold ye are 
+Secondary Match: if ye are not ye are 
+
+
+Primary Match: and also a life which is 
+Secondary Match: which is in me which is 
+Secondary Match: is in me which is also 
+
+
+Primary Match: I perceive that they are not 
+Secondary Match: ye are not ye are not 
+Secondary Match: are not ye are not prepared 
+
+
+Primary Match: not repent And now ought ye 
+Secondary Match: ye are not ye are not 
+
+
+Primary Match: things which are to come Teach 
+Secondary Match: things which are to come And 
+Secondary Match: the things which are to come 
+
+
+Primary Match: life which is endless that there 
+Secondary Match: which is in me which is 
+
+
+Primary Match: resurrection Therefore ought ye not to 
+Secondary Match: ye are not ye are not 
+
+
+Primary Match: this people Know ye not that 
+Secondary Match: ye are not ye are not 
+
+

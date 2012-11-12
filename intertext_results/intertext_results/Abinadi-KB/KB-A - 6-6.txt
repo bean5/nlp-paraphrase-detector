@@ -1,0 +1,9 @@
+Primary Source: Resources/King Benjamin.txt
+Secondary Source: Resources/Abinadi.txt
+Match Case: No
+Strict Search: No
+Fuzzy Search Parameters: 6/6
+Time to complete: 0.33895 minutes.
+Left Match Count: 0
+Right Match Count: 0
+

@@ -1,0 +1,274 @@
+Primary Source: Resources/ABINADI.txt
+Secondary Source: Resources/Alma 9.txt
+Match Case: No
+Strict Search: No
+Fuzzy Search Parameters: 4/6
+Time to complete: 0.11076666666666667 minutes.
+Left Match Count: 56
+Right Match Count: 97
+
+Primary Match: life which is endless that there 
+Secondary Match: and which is and which is 
+Secondary Match: which is and which is to 
+
+
+Primary Match: ye not to tremble and repent 
+Secondary Match: repent and except ye repent ye 
+
+
+Primary Match: the time shall come when it 
+Secondary Match: shall come in a time when 
+
+
+Primary Match: made bare his holy arm in 
+Secondary Match: in his anger and in his 
+
+
+Primary Match: not repent And now ought ye 
+Secondary Match: repent and except ye repent ye 
+
+
+Primary Match: in and through Christ ye can 
+Secondary Match: except ye repent ye can in 
+Secondary Match: ye repent ye can in nowise 
+
+
+Primary Match: Lord when every nation kindred tongue 
+Secondary Match: above every other nation kindred tongue 
+Secondary Match: every other nation kindred tongue or 
+
+
+Primary Match: ye lay your hands upon me 
+Secondary Match: to lay their hands upon me 
+Secondary Match: lay their hands upon me that 
+
+
+Primary Match: he that persists in his own 
+Secondary Match: in his anger and in his 
+
+
+Primary Match: and also a life which is 
+Secondary Match: and which is and which is 
+Secondary Match: which is and which is to 
+
+
+Primary Match: who hath subjected them which is 
+Secondary Match: and which is and which is 
+Secondary Match: which is and which is to 
+
+
+Primary Match: ye shall be afflicted with all 
+Secondary Match: and ye shall be visited with 
+Secondary Match: ye shall be visited with utter 
+
+
+Primary Match: bare his holy arm in the 
+Secondary Match: in his anger and in his 
+
+
+Primary Match: rebellion against God remaineth in his 
+Secondary Match: in his anger and in his 
+
+
+Primary Match: nation kindred tongue and people Yea 
+Secondary Match: other nation kindred tongue or people 
+Secondary Match: nation kindred tongue or people after 
+
+
+Primary Match: that persists in his own carnal 
+Secondary Match: in his anger and in his 
+
+
+Primary Match: smite you if ye lay your 
+Secondary Match: you if ye remain in your 
+
+
+Primary Match: you this is not all For 
+Secondary Match: But behold this is not all 
+Secondary Match: behold this is not all he 
+Secondary Match: this is not all he has 
+
+
+Primary Match: die in their sins yea even 
+Secondary Match: in your sins yea and even 
+
+
+Primary Match: hath subjected them which is damnation 
+Secondary Match: and which is and which is 
+Secondary Match: which is and which is to 
+
+
+Primary Match: declared to every nation kindred tongue 
+Secondary Match: above every other nation kindred tongue 
+Secondary Match: every other nation kindred tongue or 
+
+
+Primary Match: persists in his own carnal nature 
+Secondary Match: in his anger and in his 
+
+
+Primary Match: which is endless that there can 
+Secondary Match: and which is and which is 
+Secondary Match: which is and which is to 
+
+
+Primary Match: God The time shall come when 
+Secondary Match: shall come in a time when 
+
+
+Primary Match: remaineth in his fallen state and 
+Secondary Match: in his anger and in his 
+
+
+Primary Match: in their sins yea even all 
+Secondary Match: in your sins yea and even 
+
+
+Primary Match: But behold I say unto you 
+Secondary Match: But behold I say unto you 
+
+
+Primary Match: them which is damnation Having gone 
+Secondary Match: and which is and which is 
+Secondary Match: which is and which is to 
+
+
+Primary Match: a life which is endless that 
+Secondary Match: and which is and which is 
+Secondary Match: which is and which is to 
+
+
+Primary Match: God remaineth in his fallen state 
+Secondary Match: in his anger and in his 
+
+
+Primary Match: you if ye lay your hands 
+Secondary Match: you if ye remain in your 
+
+
+Primary Match: that the time shall come when 
+Secondary Match: shall come in a time when 
+
+
+Primary Match: also a life which is endless 
+Secondary Match: and which is and which is 
+Secondary Match: which is and which is to 
+
+
+Primary Match: you Nay for if ye had 
+Secondary Match: judgment than for you if ye 
+Secondary Match: than for you if ye remain 
+Secondary Match: for you if ye remain in 
+Secondary Match: unto you if ye transgress for 
+Secondary Match: you if ye transgress for has 
+
+
+Primary Match: The time shall come when all 
+Secondary Match: shall come in a time when 
+
+
+Primary Match: this is not all For O 
+Secondary Match: But behold this is not all 
+Secondary Match: behold this is not all he 
+Secondary Match: this is not all he has 
+
+
+Primary Match: against God remaineth in his fallen 
+Secondary Match: in his anger and in his 
+
+
+Primary Match: your iniquities Yea and ye shall 
+Secondary Match: ye shall live in your iniquities 
+
+
+Primary Match: nation kindred tongue and people shall 
+Secondary Match: other nation kindred tongue or people 
+Secondary Match: nation kindred tongue or people after 
+
+
+Primary Match: unto you Nay for if ye 
+Secondary Match: judgment than for you if ye 
+Secondary Match: than for you if ye remain 
+Secondary Match: for you if ye remain in 
+Secondary Match: unto you if ye transgress for 
+Secondary Match: you if ye transgress for has 
+
+
+Primary Match: in his fallen state and the 
+Secondary Match: in his anger and in his 
+
+
+Primary Match: his holy arm in the eyes 
+Secondary Match: in his anger and in his 
+
+
+Primary Match: to every nation kindred tongue and 
+Secondary Match: above every other nation kindred tongue 
+Secondary Match: every other nation kindred tongue or 
+
+
+Primary Match: subjected them which is damnation Having 
+Secondary Match: and which is and which is 
+Secondary Match: which is and which is to 
+
+
+Primary Match: repent And now ought ye not 
+Secondary Match: repent and except ye repent ye 
+
+
+Primary Match: in his own carnal nature and 
+Secondary Match: in his anger and in his 
+
+
+Primary Match: lay your hands upon me for 
+Secondary Match: to lay their hands upon me 
+Secondary Match: lay their hands upon me that 
+
+
+Primary Match: unto you this is not all 
+Secondary Match: But behold this is not all 
+Secondary Match: behold this is not all he 
+Secondary Match: this is not all he has 
+
+
+Primary Match: every nation kindred tongue and people 
+Secondary Match: above every other nation kindred tongue 
+Secondary Match: every other nation kindred tongue or 
+Secondary Match: other nation kindred tongue or people 
+Secondary Match: nation kindred tongue or people after 
+
+
+Primary Match: when every nation kindred tongue and 
+Secondary Match: above every other nation kindred tongue 
+Secondary Match: every other nation kindred tongue or 
+
+
+Primary Match: every nation kindred tongue and people 
+Secondary Match: above every other nation kindred tongue 
+Secondary Match: every other nation kindred tongue or 
+Secondary Match: other nation kindred tongue or people 
+Secondary Match: nation kindred tongue or people after 
+
+
+Primary Match: which is damnation Having gone according 
+Secondary Match: and which is and which is 
+Secondary Match: which is and which is to 
+
+
+Primary Match: time shall come when all shall 
+Secondary Match: shall come in a time when 
+
+
+Primary Match: that ye shall be afflicted with 
+Secondary Match: and ye shall be visited with 
+Secondary Match: ye shall be visited with utter 
+
+
+Primary Match: that he that persists in his 
+Secondary Match: in his anger and in his 
+
+
+Primary Match: time shall come when it shall 
+Secondary Match: shall come in a time when 
+
+

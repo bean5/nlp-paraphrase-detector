@@ -1,0 +1,9 @@
+Primary Source: Resources/JACOB.txt
+Secondary Source: Resources/SAMUEL THE LAMANITE.txt
+Match Case: No
+Strict Search: No
+Fuzzy Search Parameters: 6/6
+Time to complete: 0.36163333333333336 minutes.
+Left Match Count: 0
+Right Match Count: 0
+
