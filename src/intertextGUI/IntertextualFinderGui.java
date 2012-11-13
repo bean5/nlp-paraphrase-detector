@@ -71,8 +71,9 @@ public class IntertextualFinderGui
 
 	private JLabel								lblSecondaryMatchMin			= new JLabel(
 																										"Filter out primary matches with less than this many matches: ");
-	private JTextField						minSecondaryMatches			= new JTextField("2");
+	private JTextField						minSecondaryMatches			= new JTextField("1");
 
+	
 	private JCheckBox							checkMatchCase					= new JCheckBox("Match Case",
 																										false);
 	private JCheckBox							checkStrict						= new JCheckBox("Strict", true);
@@ -93,7 +94,7 @@ public class IntertextualFinderGui
 	/** Constructor for the GUI */
 	public IntertextualFinderGui()
 	{
-		checkStrict.setEnabled(false);
+//		checkStrict.setEnabled(false);
 		// checkPorterStemmer.setEnabled(false);
 		// checkUseStopWords.setEnabled(false);
 		ActionListener clicked = new Clicked();
@@ -180,6 +181,8 @@ public class IntertextualFinderGui
 
 		// Add listeners
 		btnRun.addActionListener(clicked);
+		checkMaximizePrimaryWindow.addActionListener(clicked);
+		checkBestScoresOnly.addActionListener(clicked);
 		mnuItemSave.addActionListener(clicked);
 		mnuItemAbout.addActionListener(clicked);
 		mnuItemQuit.addActionListener(new ListenMenuQuit());
@@ -208,7 +211,7 @@ public class IntertextualFinderGui
 		public void actionPerformed(ActionEvent e)
 		{
 			Object source = e.getSource();
-			System.out.println(e.getActionCommand());
+//			System.out.println(e.getActionCommand());
 			if (source == btnRun)
 			{
 				min.selectAll();
@@ -237,6 +240,30 @@ public class IntertextualFinderGui
 			else if (source == mnuItemSave)
 			{
 				finder.saveTo(txtFieldOutFile.getText().trim());
+			}
+			else if(source == checkMaximizePrimaryWindow)
+			{
+				if(checkMaximizePrimaryWindow.isSelected())
+				{
+					checkStrict.setSelected(true);
+					checkStrict.setEnabled(false);
+				}
+				else
+				{
+					checkStrict.setEnabled(true);
+				}
+			}
+			else if (source == checkBestScoresOnly)
+			{
+				if(checkBestScoresOnly.isSelected())
+				{
+					minSecondaryMatches.setText("1");
+					minSecondaryMatches.setEnabled(false);
+				}
+				else
+				{
+					minSecondaryMatches.setEnabled(true);
+				}
 			}
 			else if (source == mnuItemAbout)
 			{
