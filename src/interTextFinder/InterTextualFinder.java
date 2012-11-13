@@ -3,10 +3,8 @@ package interTextFinder;
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.io.FileWriter;
 import java.io.IOException;
-import java.io.UnsupportedEncodingException;
 import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.Iterator;
@@ -35,6 +33,9 @@ public class InterTextualFinder
 	boolean																	useStopWords					= true;
 	boolean																	printBestOnly					= true;
 
+	/*
+	 * sets parameters, initiates search for common words
+	 */
 	public void findIntertextQuotesGivenParamsFromStrings(String primarySourceText,
 					String secondarySourceText)
 	{
@@ -47,11 +48,14 @@ public class InterTextualFinder
 		comparer.setUseStopWords(useStopWords);
 		commonNGrams = comparer.findCommonNGrams(primarySourceText, secondarySourceText,
 						minimumMatches, windowSize, maximizePrimaryWindowSize);
-
+		
 		filterNGrams(minimumSecondaryMatches);
 	}
 
-	public void findIntertextQuotesFromFiles()
+	/*
+	 * Starts a timer, reads in files, and calls string version of function
+	 */
+	public void findIntertextQuotesFromFiles() throws IOException
 	{
 		double start = System.currentTimeMillis();
 
@@ -72,6 +76,9 @@ public class InterTextualFinder
 		paramString = convertParametersToString(totalTime, comparer.errorsToString());
 	}
 
+	/*
+	 * Filters the ngrams that don't have the minimum number of secondary matches
+	 */
 	private void filterNGrams(int minimumSecondaryMatches)
 	{
 		HashSet<NGramSet> filteredCommonNGrams = new HashSet<NGramSet>(commonNGrams.size());
@@ -86,6 +93,9 @@ public class InterTextualFinder
 		commonNGrams = filteredCommonNGrams;
 	}
 
+	/*
+	 * Outputs the settings as a string, as well as some of the ngrams
+	 */
 	public static String toString(String paramsAsString, HashSet<NGramSet> commonNGrams,
 					boolean printBestOnly)
 	{
@@ -94,10 +104,9 @@ public class InterTextualFinder
 		int leftCount = 0;
 		int rightCount = 0;
 
-		int minscore = 1;
-		if (printBestOnly) minscore = findBest(commonNGrams);
-
-		int matchCount = 0;
+		double minscore = 0D;
+		if (printBestOnly) minscore = findBestScore(commonNGrams);
+//		System.out.println("Here" + minscore);
 
 		Iterator<NGramSet> itr = commonNGrams.iterator();
 
@@ -121,19 +130,21 @@ public class InterTextualFinder
 		return stringToSaveToFile;
 	}
 
-	private static int findBest(HashSet<NGramSet> commonNGrams)
+	/*
+	 * @param in commonNGrams nGrams alignments
+	 * @param out double best score
+	 */
+	private static double findBestScore(HashSet<NGramSet> commonNGrams)
 	{
-		int best = 1;
+		double best = 0D;
 
 		Iterator<NGramSet> itr = commonNGrams.iterator();
 
-		// for(NGramSet n : commonNGrams) {
 		while (itr.hasNext())
 		{
 			NGramSet nGram = itr.next();
-			// str.append(nGram.toString());
 
-			int bestScoreOfNGram = nGram.findBestScore();
+			double bestScoreOfNGram = nGram.findBestScore();
 
 			if (bestScoreOfNGram > best) best = bestScoreOfNGram;
 		}
@@ -141,6 +152,9 @@ public class InterTextualFinder
 		return best;
 	}
 
+	/*
+	 * Converts parameters and total time to string
+	 */
 	private String convertParametersToString(double totalTime, String errorString)
 	{
 		String params = new String();
@@ -189,7 +203,10 @@ public class InterTextualFinder
 		return params;
 	}
 
-	private static void readInFiles(File[] fileList, List<String> files)
+	/*
+	 * Reads list of files into a list of strings
+	 */
+	private static void readInFiles(File[] fileList, List<String> files) throws IOException
 	{
 		// TODO
 		System.out.println("Consider making everything compatible with unicode.\n");
@@ -198,8 +215,8 @@ public class InterTextualFinder
 			FileInputStream fis = null;
 			// InputStreamReader in = null;
 
-			try
-			{
+//			try
+//			{
 				fis = new FileInputStream(f);
 				if (fis != null)
 				{
@@ -209,22 +226,26 @@ public class InterTextualFinder
 
 					files.add(newLine);
 				}
-			}
-			catch (UnsupportedEncodingException e)
-			{
-				e.printStackTrace();
-			}
-			catch (FileNotFoundException e1)
-			{
-				e1.printStackTrace();
-			}
-			catch (IOException e)
-			{
-				e.printStackTrace();
-			}
+				fis.close();
+//			}
+//			catch (UnsupportedEncodingException e)
+//			{
+//				e.printStackTrace();
+//			}
+//			catch (FileNotFoundException e1)
+//			{
+//				e1.printStackTrace();
+//			}
+//			catch (IOException e)
+//			{
+//				e.printStackTrace();
+//			}
 		}
 	}
 
+	/*
+	 * 
+	 */
 	private static String read(String filename, String fEncoding) throws IOException
 	{
 		File fFilename = new File(filename);
@@ -232,17 +253,14 @@ public class InterTextualFinder
 		StringBuilder text = new StringBuilder();
 		String NL = System.getProperty("line.separator");
 		Scanner scanner = new Scanner(new FileInputStream(fFilename), fEncoding);
-		try
+		
+		while (scanner.hasNextLine())
 		{
-			while (scanner.hasNextLine())
-			{
-				text.append(scanner.nextLine() + NL);
-			}
+			text.append(scanner.nextLine() + NL);
 		}
-		finally
-		{
-			scanner.close();
-		}
+		
+		scanner.close();
+		
 		return text.toString();
 	}
 

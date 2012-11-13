@@ -6,6 +6,7 @@ import javax.swing.*;
 //import javax.swing.event.*;
 import java.awt.*;
 import java.awt.event.*;
+import java.io.IOException;
 
 /*
  * 
@@ -31,14 +32,14 @@ public class IntertextualFinderGui
 	static String								corporaBaseDir					= "corpora/";
 	static String								resultsBaseDir					= "intertext_results/";
 
+	// private JTextField txtFieldFilePrimary = new JTextField(corporaBaseDir
+	// + "");
+	// private JTextField txtFieldFileSecondary = new JTextField(corporaBaseDir
+	// + "");
 	private JTextField						txtFieldFilePrimary			= new JTextField(corporaBaseDir
-																										+ "");
+																										+ "test.txt");
 	private JTextField						txtFieldFileSecondary		= new JTextField(corporaBaseDir
-																										+ "");
-	// private JTextField txtFieldFilePrimary = new JTextField(corporaBaseDir +
-	// "Abinadi.txt");
-	// private JTextField txtFieldFileSecondary = new JTextField(corporaBaseDir +
-	// "Alma 2.txt");
+																										+ "test2.txt");
 
 	private JLabel								lblFilePrimary					= new JLabel("Primary File");
 	private JLabel								lblFileSecondary				= new JLabel("Secondary File");
@@ -66,14 +67,13 @@ public class IntertextualFinderGui
 																																																// sub
 																																																// item
 
-	private JTextField						min								= new JTextField("5");
-	private JTextField						max								= new JTextField("6");
+	private JTextField						min								= new JTextField("1");
+	private JTextField						max								= new JTextField("500");
 
 	private JLabel								lblSecondaryMatchMin			= new JLabel(
 																										"Filter out primary matches with less than this many matches: ");
 	private JTextField						minSecondaryMatches			= new JTextField("1");
 
-	
 	private JCheckBox							checkMatchCase					= new JCheckBox("Match Case",
 																										false);
 	private JCheckBox							checkStrict						= new JCheckBox("Strict", true);
@@ -87,14 +87,15 @@ public class IntertextualFinderGui
 																										false);
 	private JCheckBox							checkBestScoresOnly			= new JCheckBox(
 																										"Print Best Scores Only",
-																										false);
+																										// false);
+																										true);
 
 	private JTextArea							textArea							= new JTextArea(20, 80);
 
 	/** Constructor for the GUI */
 	public IntertextualFinderGui()
 	{
-//		checkStrict.setEnabled(false);
+		// checkStrict.setEnabled(false);
 		// checkPorterStemmer.setEnabled(false);
 		// checkUseStopWords.setEnabled(false);
 		ActionListener clicked = new Clicked();
@@ -142,21 +143,22 @@ public class IntertextualFinderGui
 		options.add(checkUseStopWords);
 		options.add(checkMaximizePrimaryWindow);
 		options.add(checkBestScoresOnly);
-		// options.add(checkOptimize);
-
-		min.addActionListener(clicked);
-		options.add(new JLabel("Fuzzy Search Parameters"));
-		options.add(min);
-		min.setColumns(3);
-		options.add(new JLabel("/"));
-		max.addActionListener(clicked);
-		options.add(max);
-		max.setColumns(3);
 
 		JPanel secondOptions = new JPanel();
 		minSecondaryMatches.setColumns(3);
 		secondOptions.add(lblSecondaryMatchMin);
 		secondOptions.add(minSecondaryMatches);
+
+		min.addActionListener(clicked);
+		min.setColumns(3);
+		secondOptions.add(new JLabel("Fuzzy Search Parameters"));
+		secondOptions.add(min);
+		secondOptions.add(new JLabel("/"));
+
+		max.addActionListener(clicked);
+		max.setColumns(3);
+		max.addActionListener(clicked);
+		secondOptions.add(max);
 
 		secondMainBox.add(mainBox, BorderLayout.NORTH);
 		secondMainBox.add(options, BorderLayout.CENTER);
@@ -188,6 +190,9 @@ public class IntertextualFinderGui
 		mnuItemQuit.addActionListener(new ListenMenuQuit());
 	}
 
+	/*
+	 * Closes
+	 */
 	public class ListenMenuQuit implements ActionListener
 	{
 		public void actionPerformed(ActionEvent e)
@@ -196,6 +201,9 @@ public class IntertextualFinderGui
 		}
 	}
 
+	/*
+	 * Closes
+	 */
 	public class ListenCloseWindow extends WindowAdapter
 	{
 		public void windowClosing(WindowEvent e)
@@ -204,6 +212,9 @@ public class IntertextualFinderGui
 		}
 	}
 
+	/*
+	 * ActionListener Handling
+	 */
 	public class Clicked implements ActionListener
 	{
 		// private JFileChooser fc;
@@ -211,7 +222,7 @@ public class IntertextualFinderGui
 		public void actionPerformed(ActionEvent e)
 		{
 			Object source = e.getSource();
-//			System.out.println(e.getActionCommand());
+			// System.out.println(e.getActionCommand());
 			if (source == btnRun)
 			{
 				min.selectAll();
@@ -233,17 +244,26 @@ public class IntertextualFinderGui
 				finder.setUseStopWords(checkUseStopWords.isSelected());
 				finder.setPrintBestScoresOnly(checkBestScoresOnly.isSelected());
 
-				finder.findIntertextQuotesFromFiles();
+				boolean noError = true;
+				try
+				{
+					finder.findIntertextQuotesFromFiles();
+				}
+				catch (IOException e1)
+				{
+					noError = false;
+					textArea.setText(e1.toString());
+				}
 
-				textArea.setText(finder.toString());
+				if (noError) textArea.setText(finder.toString());
 			}
 			else if (source == mnuItemSave)
 			{
 				finder.saveTo(txtFieldOutFile.getText().trim());
 			}
-			else if(source == checkMaximizePrimaryWindow)
+			else if (source == checkMaximizePrimaryWindow)
 			{
-				if(checkMaximizePrimaryWindow.isSelected())
+				if (checkMaximizePrimaryWindow.isSelected())
 				{
 					checkStrict.setSelected(true);
 					checkStrict.setEnabled(false);
@@ -255,7 +275,7 @@ public class IntertextualFinderGui
 			}
 			else if (source == checkBestScoresOnly)
 			{
-				if(checkBestScoresOnly.isSelected())
+				if (checkBestScoresOnly.isSelected())
 				{
 					minSecondaryMatches.setText("1");
 					minSecondaryMatches.setEnabled(false);

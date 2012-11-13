@@ -3,10 +3,9 @@ package interTextFinder;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.HashSet;
-//import java.util.LinkedList;
+import java.util.Map.Entry;
+import java.util.TreeMap;
 import java.util.List;
-//import java.util.Set;
-//import java.util.TreeSet;
 
 import NGramSet.NGramSet;
 import NGramSet.NGramSetImplStemmed;
@@ -14,17 +13,20 @@ import NGramSet.NGramSetImpl;
 
 public class FuzzyNGramDocumentComparer<T1 extends NGramSet> implements DocumentCommonalityFinder
 {
-	protected boolean	isTesting			= false;
-	protected boolean	STRICT				= false;
-	protected boolean	usePorterStemmer	= false;
-	protected boolean	matchCase			= true;
-	protected int		totalRightMatches	= 0;
-	private boolean	USESTOPWORDS		= true;
-	private List<Error> errors;
+	protected boolean							isTesting			= false;
+	protected boolean							STRICT				= false;
+	protected boolean							usePorterStemmer	= false;
+	protected boolean							matchCase			= true;
+	protected int								totalRightMatches	= 0;
+	private boolean							USESTOPWORDS		= true;
+	protected TreeMap<Double, Integer>	ordered_scores;
+	private List<Error>						errors;
 
 	public HashSet<NGramSet> findCommonNGrams(String string1, String string2, int min, int max,
 					boolean maximizePrimaryWindowSize)
 	{
+		ordered_scores = new TreeMap<Double, Integer>();
+
 		errors = new ArrayList<Error>();
 		HashSet<NGramSet> NGramsWithMatches = new HashSet<NGramSet>();
 
@@ -48,50 +50,45 @@ public class FuzzyNGramDocumentComparer<T1 extends NGramSet> implements Document
 		if (isTesting)
 		{
 			int maxSub = 1000;
-			words1 = words1.subList(0, maxSizeOutOfRangeForSource(maxSub, words1) ? words1.size() : maxSub);
-			words2 = words2.subList(0, maxSizeOutOfRangeForSource(maxSub, words2) ? words2.size() : maxSub);
+			words1 = words1.subList(0, maxSizeOutOfRangeForSource(maxSub, words1) ? words1.size()
+							: maxSub);
+			words2 = words2.subList(0, maxSizeOutOfRangeForSource(maxSub, words2) ? words2.size()
+							: maxSub);
 		}
 
 		NGramSetImpl.setMatchCase(matchCase);
 		NGramSetImpl.setUseStopWords(USESTOPWORDS);
 		NGramSetImpl.setStrictness(STRICT);
 		NGramSetImpl.setMinSize(min);
-		
+
 		int leftMax = (words1.size() <= max || maximizePrimaryWindowSize) ? words1.size() : max;
 		int rightMax = (words2.size() <= max) ? words2.size() - 1 : max;
-//		NGramSetImpl.setMaxSize(rightMax);
 
 		HashMap<String, List<NGramSet>> map = new HashMap<String, List<NGramSet>>();
-		
-		if(rightMax < max)
+
+		if (rightMax < max)
 		{
-			logError("Window size greater than number of length of secondary text; decreasing secondary window size to: " + rightMax);
+			logError("Window size greater than number of length of secondary text; decreasing secondary window size to: "
+							+ rightMax);
 		}
-		if(leftMax < max && maximizePrimaryWindowSize)
+		if (leftMax < max && maximizePrimaryWindowSize)
 		{
 			logError("Maximizing primary window");
 		}
-		else if(leftMax < max)
+		else if (leftMax < max)
 		{
 			logError("Max out of range for primary source.  Scaling down to: " + leftMax);
 		}
-		
+
 		ArrayList<NGramSet> nGrams1 = null;
 
 		nGrams1 = getAllNGramsOfSize(words1, leftMax, null);
-		
-		// ArrayList<NGramSet> nGrams2 =
-						getAllNGramsOfSize(words2, rightMax, map);
 
-		// System.out.println("Words Left: " + nGrams1.size());
-		// System.out.println("Words Right: " + nGrams2.size());
+		// ArrayList<NGramSet> nGrams2 =
+		getAllNGramsOfSize(words2, rightMax, map);
 
 		findAllCommon(NGramsWithMatches, nGrams1, map);
 
-		organizeMatches(NGramsWithMatches);
-		mergeRepeats(NGramsWithMatches, min, max);
-		rankResults(NGramsWithMatches, min, max);
-		
 		return NGramsWithMatches;
 	}
 
@@ -102,27 +99,14 @@ public class FuzzyNGramDocumentComparer<T1 extends NGramSet> implements Document
 
 	private void logError(String message)
 	{
-		if(errors == null)
+		if (errors == null)
 			System.out.println("Error list does not exist; aborting log of error: " + message);
 
-		else {
+		else
+		{
 			errors.add(new Error(message));
 			System.out.println(message);
 		}
-	}
-
-	private void organizeMatches(HashSet<NGramSet> nGramsWithMatches)
-	{
-//		Set<NGramSet> bst = new TreeSet<NGramSet>(nGramsWithMatches);
-		// nGramsWithMatches = new LinkedList<NGramSet>(bst.toArray());
-	}
-
-	private void rankResults(HashSet<NGramSet> foundNGrams, int min, int max)
-	{
-	}
-
-	private void mergeRepeats(HashSet<NGramSet> foundNGrams, int min, int max)
-	{
 	}
 
 	protected void findAllCommon(HashSet<NGramSet> NGramsWithMatches, ArrayList<NGramSet> nGrams,
@@ -132,9 +116,31 @@ public class FuzzyNGramDocumentComparer<T1 extends NGramSet> implements Document
 		for (NGramSet ngram : nGrams)
 		{
 			totalRightMatches += ngram.consume(map);
+			updateScores(ngram.getScores());
 			if (ngram.hasMatches())
 			{
 				NGramsWithMatches.add(ngram);
+			}
+		}
+	}
+
+	private void updateScores(TreeMap<Double, Integer> scores)
+	{
+		// System.out.println("Score: " + scores.size());
+		for (Entry<Double, Integer> score : scores.entrySet())
+		{
+			Integer count = ordered_scores.get(score.getKey());
+
+			// System.out.println("Score: " + score.getValue());
+			if (count == null)
+			{
+				// System.out.println("Score: " + score.getValue());
+				ordered_scores.put(score.getKey(), score.getValue());
+			}
+			else
+			{
+				// System.out.println("Score: " + score.getValue());
+				ordered_scores.put(score.getKey(), count + score.getValue());
 			}
 		}
 	}
@@ -274,12 +280,12 @@ public class FuzzyNGramDocumentComparer<T1 extends NGramSet> implements Document
 
 	private List<String> scanForWords(char[] chars)
 	{
-		List<String> words = new ArrayList<String>(chars.length / 4);// assume
+		List<String> words = new ArrayList<String>(chars.length / 8);// assume
 																							// that the
 																							// average
 																							// word
 																							// length
-																							// is 4
+																							// is 7
 		StringBuilder str = new StringBuilder();
 		str.setLength(30);
 
@@ -321,7 +327,7 @@ public class FuzzyNGramDocumentComparer<T1 extends NGramSet> implements Document
 		}
 
 		System.out.println("Total length: " + total);
-		System.out.println("Predicted length: " + chars.length / 8);
+//		System.out.println("Predicted length: " + chars.length / 8);
 		System.out.println("Average length: " + total / words.size());
 
 		assert (chars.length == 0 || words.size() > 0);
@@ -356,15 +362,14 @@ public class FuzzyNGramDocumentComparer<T1 extends NGramSet> implements Document
 
 	public String errorsToString()
 	{
-		if(errors == null || errors.size() == 0)
-			return "";
+		if (errors == null || errors.size() == 0) return "";
 
-		String errorString = "\nNotes:\n";	
-		for(Error e : errors)
+		String errorString = "\nNotes:\n";
+		for (Error e : errors)
 		{
 			errorString += e.getMessage() + "\n";
 		}
-		
+
 		return errorString + "\n\n";
 	}
 }

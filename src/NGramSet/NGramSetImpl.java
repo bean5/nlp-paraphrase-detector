@@ -7,6 +7,9 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.Map.Entry;
 import java.util.Set;
+import java.util.TreeMap;
+
+import javax.xml.ws.handler.MessageContext.Scope;
 
 public class NGramSetImpl implements NGramSet
 {
@@ -17,6 +20,7 @@ public class NGramSetImpl implements NGramSet
 	protected static boolean					useSrictMatching	= true;
 
 	protected int									position				= 0;
+	protected int									totalCount			= 0;
 
 	protected List<String>						document;
 
@@ -25,6 +29,7 @@ public class NGramSetImpl implements NGramSet
 
 	protected HashMap<String, Integer>		wordCounts;
 	protected HashMap<NGramSet, Integer>	matches;
+	protected TreeMap<Double, Integer>		ordered_scores;
 
 	public NGramSetImpl(int size)
 	{
@@ -37,7 +42,7 @@ public class NGramSetImpl implements NGramSet
 
 		document = other.getDocument();
 		position = 0;
-		
+
 		for (String word : other.getModifiedWordList())
 		{
 			processModifiedWord(word);
@@ -52,6 +57,7 @@ public class NGramSetImpl implements NGramSet
 		wordCounts = new HashMap<String, Integer>(size);
 		matches = new HashMap<NGramSet, Integer>();
 		this.maxSize = size;
+		ordered_scores = new TreeMap<Double, Integer>();
 	}
 
 	// protected void addWord(String word) {words.add(word);}
@@ -184,6 +190,13 @@ public class NGramSetImpl implements NGramSet
 		{
 			if (e.getValue() >= minSize)
 			{
+				int count = 1;
+				if (ordered_scores.containsKey((double) e.getValue()))
+				{
+					count += ordered_scores.get((double) e.getValue());
+				}
+				ordered_scores.put(e.getKey().getScore(), count);
+
 				matches.put(e.getKey(), e.getValue());
 
 				// System.out.println("Found Match: " + e.getKey().toString());
@@ -219,6 +232,9 @@ public class NGramSetImpl implements NGramSet
 		{
 			wordCounts.put(word, 1);
 		}
+
+		totalCount++;
+
 		return word;
 	}
 
@@ -294,16 +310,15 @@ public class NGramSetImpl implements NGramSet
 		}
 	}
 
-	
-	private void appendRightToStringBuilderAtLesat(StringBuilder st, int minscore)
+	private void appendRightToStringBuilderAtLeast(StringBuilder st, double minscore)
 	{
 		for (Entry<NGramSet, Integer> e : matches.entrySet())
 		{
-			if(e.getValue() < minscore)
-				continue;
+			if (e.getKey().getScore() < minscore) continue;
 			NGramSetImpl s = (NGramSetImpl) e.getKey();
 
-			st.append("Secondary Match (" + e.getValue() + " words match):" + s.leftToString());
+			st.append("Secondary Match [" + e.getValue() + " (" + e.getKey().getScore() + ")"
+							+ " words match]:" + s.leftToString());
 			st.append("\n");
 		}
 	}
@@ -411,50 +426,50 @@ public class NGramSetImpl implements NGramSet
 	{
 		useSrictMatching = STRICT;
 	}
-	
-	public int findBestScore()
-	{
-		int i = 0;
-		
-		for(Entry<NGramSet, Integer> e : matches.entrySet())
-		{
-			if(e.getValue() > i)
-				i = e.getValue();
-		}
 
-		return i;
-	}
-	
-	public boolean hasMatchesOfAtLeastScore(int minscore)
+	public double findBestScore()
 	{
-		for(Entry<NGramSet, Integer> e : matches.entrySet())
-		{
-			if(e.getValue() >= minscore)
-				return true;
-		}
-		
-		return false;
+		if (ordered_scores.size() == 0) return 0D;
+
+		Double key = ordered_scores.lastKey();
+
+//		System.out.println("Here" + key);
+		return key;
 	}
-	
-	public String toStringAtLeast(int minscore)
+
+	public boolean hasMatchesOfAtLeastScore(double minscore)
+	{
+		return ordered_scores.ceilingKey(minscore) != null;
+	}
+
+	public String toStringAtLeast(double minscore)
 	{
 		StringBuilder st = new StringBuilder();
 		st.append("Primary Match: " + leftToString() + "\n");
 
-		appendRightToStringBuilderAtLesat(st, minscore);
-		
+		appendRightToStringBuilderAtLeast(st, minscore);
+
 		return st.toString();
 	}
 
-	public int countMatchesOfAtLeastScore(int minscore)
+	public int countMatchesOfAtLeastScore(double minscore)
 	{
 		int count = 0;
-		for(Entry<NGramSet, Integer> e : matches.entrySet())
+		for (Entry<NGramSet, Integer> e : matches.entrySet())
 		{
-			if(e.getValue() >= minscore)
-				count++;
+			if (e.getValue() >= minscore) count++;
 		}
-		
+
 		return count;
+	}
+
+	public TreeMap<Double, Integer> getScores()
+	{
+		return ordered_scores;
+	}
+
+	public double getScore()
+	{
+		return (double)totalCount / (double)maxSize;
 	}
 }

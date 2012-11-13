@@ -2,6 +2,7 @@ package NGramSet;
 
 import java.util.HashMap;
 import java.util.List;
+import java.util.TreeMap;
 
 public interface NGramSet {
 	public static boolean STRICT = false;
@@ -33,11 +34,15 @@ public interface NGramSet {
 	int getPosition();
 //	int hashCode();
 
-	int findBestScore();
+	double findBestScore();
 
-	boolean hasMatchesOfAtLeastScore(int minscore);
+	boolean hasMatchesOfAtLeastScore(double minscore);
 
-	String toStringAtLeast(int minscore);
+	String toStringAtLeast(double minscore);
 
-	int countMatchesOfAtLeastScore(int minscore);
+	int countMatchesOfAtLeastScore(double minscore);
+
+	public TreeMap<Double, Integer> getScores();
+
+	double getScore();
 }
