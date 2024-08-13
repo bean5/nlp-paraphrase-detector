@@ -12,7 +12,7 @@ public class DocumentScanner
 	public static List<String> tokenize_string_with_punctuation(String string)
 	{
 		final String regex = " ";
-		
+
 		String[] words_array = string.split(regex);
 
 		/*
@@ -21,47 +21,47 @@ public class DocumentScanner
 		List<String> words = new ArrayList<String>();
 		for(String w : words_array)
 			words.add(w);
-		
+
 //		System.out.println(words);
-		
+
 		return words;
 	}
 
 	private static List<String> tokenize_string_without_punctuation(String string)
 	{
 		final String regex = "([\\.,:;\\s]?[ \\n\\r])|\\-";
-		
+
 		/*
 		 * assume that the average original length is 7
 		 */
 		List<String> words = new ArrayList<String>();
 
 		String[] words_array = string.split(regex);
-		
+
 		for(String s : words_array)
 			words.add(s);
 		System.out.println(words);
 //		assert(false);
 		return words;
 	}
-	
+
 	public static List<String> tokenize_string_as_delimited(String string, char delimiter)
 	{
 //		System.out.println("stops: " + string);
 		string = string.trim();
-		
+
 		/*
 		 * assume that the average original length is 7
 		 */
 		List<String> words = new ArrayList<String>();
-		
+
 		if(string.length() <= 0)
 			return words;
-		
+
 		String[] words_array = string.split("" + delimiter);
-		
+
 //		System.out.println(Arrays.toString(words_array));
-		
+
 		for(String s : words_array)
 			words.add(s.trim());
 
@@ -77,7 +77,7 @@ public class DocumentScanner
 	{
 		FileInputStream fis = null;
 		// InputStreamReader in = null;
-		
+
 		fis = new FileInputStream(path);
 
 		String returnString = "";
@@ -93,7 +93,7 @@ public class DocumentScanner
 	}
 
 	/*
-	 * 
+	 *
 	 */
 	private static String read(String filename, String fEncoding) throws IOException
 	{

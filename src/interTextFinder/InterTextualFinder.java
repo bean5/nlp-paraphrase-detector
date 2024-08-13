@@ -74,10 +74,10 @@ public class InterTextualFinder
 						maximizePrimaryWindowSize);
 
 		setRunTime();
-		
+
 		stats = comparer.getStats();
 
-		filterNGrams(minimumSecondaryMatches);		
+		filterNGrams(minimumSecondaryMatches);
 
 		setParamString();
 		print();
@@ -170,7 +170,7 @@ public class InterTextualFinder
 		{
 			double bestScoreOfNGram = nGram.findBestScore();
 
-			if (bestScoreOfNGram >= bestScore) 
+			if (bestScoreOfNGram >= bestScore)
 				best.add(nGram);
 		}
 
@@ -190,7 +190,7 @@ public class InterTextualFinder
 		for (NGramSet nGram : commonNGrams)
 		{
 			nGram.filterMatchesWithScoresLowerThan(bestScore);
-			
+
 			if (nGram.size() != 0)
 				filteredSet.add(nGram);
 		}
@@ -203,7 +203,7 @@ public class InterTextualFinder
 	protected String convertParametersToString(double totalTime, String errorString)
 	{
 		String params = new String();
-		
+
 		params += sourcePathsAsString();
 
 		params += checkBoxParamsAsString();

@@ -13,7 +13,7 @@ import java.io.File;
 import java.io.IOException;
 
 /*
- * 
+ *
  */
 public class GuiLooper
 {
@@ -148,12 +148,12 @@ public class GuiLooper
 		JPanel mainBox = new JPanel();
 		mainBox.setLayout(new BorderLayout());
 		mainBox.add(pnlNorth, BorderLayout.NORTH);
-		
+
 		JPanel mainBox_sub = new JPanel();
 		mainBox_sub.setLayout(new BorderLayout());
 		mainBox_sub.add(pnlCenter, BorderLayout.NORTH);
 		mainBox_sub.add(pnlCenterb, BorderLayout.CENTER);
-		
+
 		mainBox.add(mainBox_sub, BorderLayout.CENTER);
 		mainBox.add(pnlSouth, BorderLayout.SOUTH);
 
@@ -185,12 +185,12 @@ public class GuiLooper
 		//
 		secondMainBox.add(mainBox, BorderLayout.NORTH);
 		secondMainBox.add(options, BorderLayout.CENTER);
-		
+
 		textArea_stopWords.setMargin(new Insets(5, 5, 5, 5));
 		textArea_stopWords.setEditable(true);
 		JScrollPane stopWordsScrollPane = new JScrollPane(textArea_stopWords);
 		secondMainBox.add(stopWordsScrollPane, BorderLayout.EAST);
-		
+
 		// secondMainBox.add(secondOptions, BorderLayout.SOUTH);
 
 		// Setup Main Frame
@@ -220,7 +220,7 @@ public class GuiLooper
 		mnuItemSave.addActionListener(clicked);
 		mnuItemAbout.addActionListener(clicked);
 		mnuItemQuit.addActionListener(new ListenMenuQuit());
-		
+
 		((Clicked) clicked).displayStopWords();
 		//((Clicked) clicked).run_find_given_parameters();
 	}
@@ -253,7 +253,7 @@ public class GuiLooper
 	public class Clicked implements ActionListener
 	{
 		// private JFileChooser fc;
-		
+
 		public void actionPerformed(ActionEvent e)
 		{
 			Object source = e.getSource();
@@ -341,7 +341,7 @@ public class GuiLooper
 
 			finder.setPrimaryPath(txtFieldFilePrimary.getText().trim());
 			finder.setSecondaryPath(txtFieldFileSecondary.getText().trim());
-			
+
 			if(checkUseStopWords.isSelected())
 				finder.setStopWords(textArea_stopWords.getText(), checkMatchCase.isSelected());
 
@@ -378,7 +378,7 @@ public class GuiLooper
 			if(f.exists() && f.isFile() && f.canRead())
 			{
 				char comma = ',';
-				
+
 				java.util.List<String> words = null;
 				try
 				{

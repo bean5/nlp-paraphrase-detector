@@ -9,7 +9,7 @@ import java.awt.event.*;
 import java.io.IOException;
 
 /*
- * 
+ *
  */
 public class IntertextualFinderGui
 {
@@ -36,7 +36,7 @@ public class IntertextualFinderGui
 																										+ "");
 	private JTextField						txtFieldFileSecondary		= new JTextField(corporaBaseDir
 																										+ "");
-	
+
 //	 private JTextField txtFieldFilePrimary = new JTextField(corporaBaseDir
 //	 + "test.txt");
 //	 private JTextField txtFieldFileSecondary = new JTextField(corporaBaseDir
@@ -236,7 +236,7 @@ public class IntertextualFinderGui
 					finder.setMinimumScore(Double.parseDouble(min.getText().trim()) / Double.parseDouble(max.getText().trim()));
 				else
 					finder.setMinimumScore(Double.parseDouble(max.getText().trim()) / Double.parseDouble(min.getText().trim()));
-				
+
 				finder.setWindowSize(Integer.parseInt(max.getText().trim()));
 				finder.setMinimumSecondaryMatches(Integer
 								.parseInt(minSecondaryMatches.getText().trim()));

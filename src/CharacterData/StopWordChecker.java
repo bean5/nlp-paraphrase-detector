@@ -8,9 +8,9 @@ public class StopWordChecker
 {
 	static boolean ignoreCase = true;
 	static Set<String> stopWords = null;
-	
+
 	public StopWordChecker(){}
-	
+
 	public static void setCase(boolean b) {ignoreCase = b;}
 	public static void setStopWords(List<String> stops, boolean ignoreCase)
 	{
@@ -30,7 +30,7 @@ public class StopWordChecker
 //		}
 		stopWords = new HashSet<String>();
 		StopWordChecker.ignoreCase = ignoreCase;
-		
+
 		if(ignoreCase)
 		{
 			for(String s : stops)
@@ -39,7 +39,7 @@ public class StopWordChecker
 		else if(stops != null)
 			stopWords.addAll(stops);
 	}
-	
+
 	public static boolean isStopWord(String word)
 	{
 		if(stopWords != null)

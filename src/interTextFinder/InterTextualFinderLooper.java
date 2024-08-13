@@ -11,7 +11,7 @@ public class InterTextualFinderLooper extends InterTextualFinder
 {
 	TreeMap<Integer, HashSet<NGramSet>>	results	= new TreeMap<Integer, HashSet<NGramSet>>();
 	double best_score = 0.0D;
-	
+
 	public InterTextualFinderLooper()
 	{
 		super();

@@ -36,7 +36,7 @@ package CharacterData;
 
 /**
  * Stemmer, implementing the Porter Stemming Algorithm
- * 
+ *
  * The Stemmer class transforms a original into its root form. The input original can be
  * provided a character at time (by calling add()), or at once by calling one of
  * the various stem(something) methods.
@@ -53,14 +53,14 @@ public class PorterStemmer {
 	public PorterStemmer() {
 		init();
 	}
-	
+
 	public PorterStemmer(String s)
 	{
 		init();
 		for(int i = 0; i < s.length(); i++)
 			add(s.charAt(i));
 	}
-	
+
 	private void init()
 	{
 		b = new char[INC];
@@ -143,7 +143,7 @@ public class PorterStemmer {
 	 * m() measures the number of consonant sequences between 0 and j. if c is a
 	 * consonant sequence and v a vowel sequence, and <..> indicates arbitrary
 	 * presence,
-	 * 
+	 *
 	 * <c><v> gives 0 <c>vc<v> gives 1 <c>vcvc<v> gives 2 <c>vcvcvc<v> gives 3
 	 * ....
 	 */
@@ -201,7 +201,7 @@ public class PorterStemmer {
 	 * cvc(i) is true <=> i-2,i-1,i has the form consonant - vowel - consonant
 	 * and also if the second c is not w,x or y. this is used when trying to
 	 * restore an e at the end of a short original. e.g.
-	 * 
+	 *
 	 * cav(e), lov(e), hop(e), crim(e), but snow, box, tray.
 	 */
 	private final boolean cvc(int i) {
@@ -248,14 +248,14 @@ public class PorterStemmer {
 
 	/*
 	 * step1() gets rid of plurals and -ed or -ing. e.g.
-	 * 
+	 *
 	 * caresses -> caress ponies -> poni ties -> ti caress -> caress cats -> cat
-	 * 
+	 *
 	 * feed -> feed agreed -> agree disabled -> disable
-	 * 
+	 *
 	 * matting -> mat mating -> mate meeting -> meet milling -> mill messing ->
 	 * mess
-	 * 
+	 *
 	 * meetings -> meet
 	 */
 	private final void step1() {
@@ -646,7 +646,7 @@ public class PorterStemmer {
 //			int ch = letters[i];
 //			if (Character.isLetter((char) ch)) {
 //				int j = 0;
-//				
+//
 //				ch = Character.toLowerCase((char) ch);
 //				w[j] = (char) ch;
 //				if (j < 500)

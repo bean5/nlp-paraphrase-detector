@@ -116,7 +116,7 @@ public class FuzzyNGramDocumentComparer<T1 extends NGramSet> implements Document
 			current.setMinScore(min_score);
 			current.setMaxSize(window_size);
 			current.setDocument(words);
-			
+
 //			assert(window_size == documentSize);
 
 			for (int i = 0; i < window_size && i < documentSize; i++)
